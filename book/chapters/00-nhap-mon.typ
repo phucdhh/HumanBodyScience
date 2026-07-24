@@ -1,3 +1,4 @@
+#import "../config/template.typ": question-section
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
@@ -20,3 +21,9 @@ Mấu chốt của thử nghiệm này là sự hiện diện của #term("nhom-
 #muc-bang-chung("B")[
   *Sai số và thiên kiến:* Ngay cả các RCT đôi khi cũng có thể đưa ra kết quả không đồng nhất do sai số ngẫu nhiên hoặc thiên kiến chọn mẫu. Đó là lý do vì sao một nghiên cứu đơn lẻ hiếm khi thay đổi ngay lập tức toàn bộ nền y học, mà cần có các bài *tổng quan hệ thống* (Systematic Reviews) để phân tích gộp nhiều nghiên cứu lại với nhau.
 ]
+
+#question-section()
+
+1. Tại sao một nghiên cứu đơn lẻ lại hiếm khi đủ để thay đổi toàn bộ phác đồ điều trị trong y khoa?
+2. Giả sử bạn nghe một lời quảng cáo: "Sản phẩm A đã chữa khỏi bệnh cho 100 người". Từ góc độ phương pháp luận khoa học, dữ liệu này còn thiếu thông tin cốt lõi nào để chứng minh hiệu quả thực sự?
+3. Sự "tự sửa sai" của khoa học có đồng nghĩa với việc chúng ta không nên tin vào bất kỳ kết luận khoa học nào ở thời điểm hiện tại không? Tại sao?
