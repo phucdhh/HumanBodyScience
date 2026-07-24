@@ -38,9 +38,9 @@ Sự cân bằng giữa quá trình hủy xương và tạo xương quyết đ�
 Một trong những bước tiến lớn nhất của y học hiện đại là phát hiện ra xương không chỉ là bộ khung thụ động, mà còn là một tuyến nội tiết hoạt động tích cực. 
 
 Các tạo cốt bào (Osteoblast) tiết ra một loại hormone gọi là *Osteocalcin*. Hormone này đi vào máu và có ảnh hưởng sâu rộng đến nhiều cơ quan:
-- **Tuyến tụy:** Osteocalcin kích thích tế bào beta của tụy sản xuất insulin.
-- **Tế bào mỡ:** Kích thích tế bào mỡ giải phóng adiponectin, tăng cường độ nhạy insulin của cơ thể.
-- **Não bộ:** Osteocalcin có thể vượt qua hàng rào máu não, ảnh hưởng đến sự phát triển của các chất dẫn truyền thần kinh, từ đó có tác động đến tâm trạng và trí nhớ. 
+- *Tuyến tụy:* Osteocalcin kích thích tế bào beta của tụy sản xuất insulin.
+- *Tế bào mỡ:* Kích thích tế bào mỡ giải phóng adiponectin, tăng cường độ nhạy insulin của cơ thể.
+- *Não bộ:* Osteocalcin có thể vượt qua hàng rào máu não, ảnh hưởng đến sự phát triển của các chất dẫn truyền thần kinh, từ đó có tác động đến tâm trạng và trí nhớ. 
 
 Việc xương "giao tiếp" trực tiếp với hệ chuyển hóa đường và não bộ cho thấy cơ thể là một mạng lưới liên kết chặt chẽ hơn những gì chúng ta từng nghĩ.
 
