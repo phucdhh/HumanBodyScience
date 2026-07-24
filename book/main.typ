@@ -8,9 +8,6 @@
   authors: (book-author,),
 )
 
-// Khởi tạo counter từ 0 cho Chương 0
-#counter(heading).update(-1)
-
 // Các chương
 #include "chapters/00-nhap-mon.typ"
 #include "chapters/01-co-the-nguoi-la-gi.typ"

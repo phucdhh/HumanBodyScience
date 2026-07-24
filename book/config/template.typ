@@ -26,7 +26,7 @@
   set heading(numbering: (..nums) => {
     let vals = nums.pos()
     if vals.len() == 1 {
-      return "Chương " + str(vals.at(0)) + ": "
+      return "Chương " + str(vals.at(0) - 1) + ": "
     } else if vals.len() == 2 {
       return "Bài " + str(vals.at(1)) + ": "
     } else if vals.len() == 3 {
