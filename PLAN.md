@@ -86,15 +86,15 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 
 ### Giai đoạn 0 — Chuẩn bị hạ tầng (trước khi viết nội dung)
 
--   [ ] Dựng khung dự án Typst (`main.typ`, `template.typ`, thư mục
+-   [x] Dựng khung dự án Typst (`main.typ`, `template.typ`, thư mục
         như trên).
--   [ ] Thiết kế layout cơ bản: font, cỡ chữ, khổ trang, kiểu tiêu đề.
--   [ ] Định nghĩa hộp mức bằng chứng (A/B/C/D) như một thành phần
+-   [x] Thiết kế layout cơ bản: font, cỡ chữ, khổ trang, kiểu tiêu đề.
+-   [x] Định nghĩa hộp mức bằng chứng (A/B/C/D) như một thành phần
         tái sử dụng.
--   [ ] Khởi tạo bảng thuật ngữ chuẩn hóa (khung rỗng, bổ sung dần).
--   [ ] Chọn và cấu hình kiểu trích dẫn.
--   [ ] Thiết lập Git repository, quy ước đặt tên nhánh/commit.
--   [ ] Cấu hình CI/CD (vd: GitHub Actions) để tự động biên dịch file PDF từ Typst mỗi khi có thay đổi trên nhánh chính.
+-   [x] Khởi tạo bảng thuật ngữ chuẩn hóa (khung rỗng, bổ sung dần).
+-   [x] Chọn và cấu hình kiểu trích dẫn.
+-   [x] Thiết lập Git repository, quy ước đặt tên nhánh/commit.
+-   [x] Cấu hình CI/CD (vd: GitHub Actions) để tự động biên dịch file PDF từ Typst mỗi khi có thay đổi trên nhánh chính.
 
 ### Giai đoạn 1 — Chương thí điểm
 
