@@ -1,5 +1,5 @@
 # Typst compiled files
-*.pdf
+# *.pdf
 
 # System files
 .DS_Store

@@ -144,8 +144,8 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 
 | # | Chương | Trạng thái |
 |---|---|---|
-| 0 | Nhập môn: Khoa học biết điều này bằng cách nào? | Chưa bắt đầu |
-| 1 | Cơ thể người là gì? | Chưa bắt đầu |
+| 0 | Nhập môn: Khoa học biết điều này bằng cách nào? | Đang phản biện |
+| 1 | Cơ thể người là gì? | Đang phản biện |
 | 2 | Tế bào và mô | Đang phản biện |
 | 3 | Hệ xương và cơ | Chưa bắt đầu |
 | 4 | Hệ thần kinh và não bộ | Chưa bắt đầu |
