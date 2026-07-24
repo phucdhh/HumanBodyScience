@@ -22,7 +22,11 @@
 
   // Heading configurations
   show heading: set block(above: 1.4em, below: 1em)
-  show heading.where(level: 1): set text(size: 20pt)
+  show heading.where(level: 1): it => {
+    pagebreak(weak: true)
+    v(1em)
+    text(size: 20pt, weight: "bold", it)
+  }
   set heading(numbering: (..nums) => {
     let vals = nums.pos()
     if vals.len() == 1 {

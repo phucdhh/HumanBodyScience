@@ -147,7 +147,7 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 | 0 | Nhập môn: Khoa học biết điều này bằng cách nào? | Đang phản biện |
 | 1 | Cơ thể người là gì? | Đang phản biện |
 | 2 | Tế bào và mô | Đang phản biện |
-| 3 | Hệ xương và cơ | Chưa bắt đầu |
+| 3 | Hệ xương và cơ | Đang soạn thảo |
 | 4 | Hệ thần kinh và não bộ | Chưa bắt đầu |
 | 5 | Hệ nội tiết | Chưa bắt đầu |
 | 6 | Hệ miễn dịch | Chưa bắt đầu |
