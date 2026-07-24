@@ -98,9 +98,9 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 
 ### Giai đoạn 1 — Chương thí điểm
 
--   [ ] Viết **Chương 2 — Tế bào và mô** làm chương mẫu.
--   [ ] Áp dụng đầy đủ: hộp mức bằng chứng, thuật ngữ, trích dẫn.
--   [ ] Biên dịch thử, kiểm tra layout thực tế (không chỉ trên giấy).
+-   [x] Viết **Chương 2 — Tế bào và mô** làm chương mẫu.
+-   [x] Áp dụng đầy đủ: hộp mức bằng chứng, thuật ngữ, trích dẫn.
+-   [x] Biên dịch thử, kiểm tra layout thực tế (không chỉ trên giấy).
 -   [ ] Đưa chuyên gia phản biện + người đọc thử góp ý.
 -   [ ] Chốt lại văn phong, độ dài trung bình mỗi chương, mức độ chi
         tiết — dùng làm chuẩn cho các chương sau.
@@ -146,7 +146,7 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 |---|---|---|
 | 0 | Nhập môn: Khoa học biết điều này bằng cách nào? | Chưa bắt đầu |
 | 1 | Cơ thể người là gì? | Chưa bắt đầu |
-| 2 | Tế bào và mô | Chương thí điểm |
+| 2 | Tế bào và mô | Đang phản biện |
 | 3 | Hệ xương và cơ | Chưa bắt đầu |
 | 4 | Hệ thần kinh và não bộ | Chưa bắt đầu |
 | 5 | Hệ nội tiết | Chưa bắt đầu |

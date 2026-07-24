@@ -6,7 +6,7 @@
   
   // Set basic page properties
   set page(
-    paper: "b5",
+    paper: "iso-b5",
     margin: (inside: 2.5cm, outside: 2cm, y: 2.5cm),
     numbering: "1",
     number-align: center,
@@ -30,7 +30,7 @@
   ]
 
   // Table of contents
-  outline(depth: 3, indent: true)
+  outline(depth: 3, indent: auto)
   pagebreak()
 
   // Main body

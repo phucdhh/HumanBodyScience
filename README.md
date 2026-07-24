@@ -6,9 +6,9 @@
 
 ## Giới thiệu
 
-**Khoa học về cơ thể người** là dự án biên soạn một cuốn sách phổ biến khoa học nhằm giới thiệu có hệ thống những kiến thức nền tảng về cơ thể con người dưới góc nhìn liên ngành.
+**Khoa học về cơ thể người** là dự án biên soạn một cuốn tài liệu khoa học nhằm tìm hiểu có hệ thống những kiến thức nền tảng về cơ thể con người dưới góc nhìn liên ngành.
 
-Mục tiêu là giúp độc giả phổ thông hiểu cơ thể mình dựa trên các bằng chứng khoa học hiện đại, đồng thời trình bày khách quan các học thuyết lịch sử và y học truyền thống, nêu rõ mức độ chứng cứ của từng nội dung.
+Mục tiêu là giúp chính tác giả (và độc giả quan tâm) hiểu cơ thể mình dựa trên các bằng chứng khoa học hiện đại, đồng thời trình bày khách quan các học thuyết lịch sử và y học truyền thống, nêu rõ mức độ chứng cứ của từng nội dung.
 
 ## Mục tiêu
 
@@ -27,8 +27,7 @@ Mục tiêu là giúp độc giả phổ thông hiểu cơ thể mình dựa tr�
 
 ## Thang phân loại mức độ bằng chứng
 
-Mỗi nội dung có tính khẳng định trong sách cần được gắn nhãn theo một trong bốn mức sau, áp dụng nhất quán xuyên suốt các chương (có thể thể hiện bằng ký hiệu hoặc hộp chú thích riêng trong bản trình bày cuối
-cùng):
+Mỗi nội dung có tính khẳng định trong sách cần được gắn nhãn theo một trong bốn mức sau, áp dụng nhất quán xuyên suốt các chương.
 
 | Mức | Ý nghĩa |
 |---|---|
@@ -53,7 +52,7 @@ Nguyên tắc: **không để độc giả phải tự đoán** một khẳng đ
 9.  Di truyền và phát triển.
 10. Nhận thức, tư duy và cảm xúc.
 11. Giấc ngủ và lão hóa.
-12. Tiến hóa của cơ thể người: vì sao ta lại như vậy.
+12. Cơ thể người và thần học.
 13. Y học hiện đại và y học truyền thống.
 14. Sức khỏe, bệnh tật và phòng ngừa.
 
