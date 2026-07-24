@@ -1,0 +1,13 @@
+# Typst compiled files
+*.pdf
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Temporary or editor files
+.idea/
+.vscode/
+*.swp
+*.tmp
+*.log
