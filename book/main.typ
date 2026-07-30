@@ -26,4 +26,4 @@
 #include "chapters/14-suc-khoe-benh-tat-phong-ngua.typ"
 
 // Tài liệu tham khảo
-#bibliography("bibliography/references.bib")
+#bibliography("bibliography/references.bib", style: "apa", title: "Tài liệu tham khảo")
