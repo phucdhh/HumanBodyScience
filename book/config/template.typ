@@ -32,11 +32,11 @@
     if vals.len() == 1 {
       return "Chương " + str(vals.at(0) - 1) + ": "
     } else if vals.len() == 2 {
-      return "Bài " + str(vals.at(1)) + ": "
+      return str(vals.at(1)) + ". "
     } else if vals.len() == 3 {
-      return str(vals.at(2)) + ". "
+      return str(vals.at(1)) + "." + str(vals.at(2)) + ". "
     } else if vals.len() == 4 {
-      return str(vals.at(2)) + "." + str(vals.at(3)) + ". "
+      return str(vals.at(1)) + "." + str(vals.at(2)) + "." + str(vals.at(3)) + ". "
     } else {
       return nums.pos().map(str).join(".") + ". "
     }
