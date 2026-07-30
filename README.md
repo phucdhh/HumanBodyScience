@@ -12,7 +12,7 @@
 
 ### 🎯 Đặc điểm nổi bật
 
-- ✅ **15 chương hoàn chỉnh** - Từ phương pháp khoa học đến các hệ cơ quan
+- ✅ **17 chương hoàn chỉnh** - Từ phương pháp khoa học đến y học cổ truyền
 - ✅ **Hệ thống mức bằng chứng A/B/C/D** - Phân biệt rõ kiến thức đã kiểm chứng vs quan niệm truyền thống
 - ✅ **20 hình ảnh minh họa** - Vector graphics chất lượng cao từ Wikimedia Commons
 - ✅ **Danh sách hình ảnh tự động** - Sau mục lục
@@ -22,7 +22,7 @@
 
 | Thành phần | Hoàn thành |
 |------------|------------|
-| Nội dung | 15/15 chương (100%) ✅ |
+| Nội dung | 17 chương (15 nội dung + 2 bổ sung) ✅ |
 | Hình ảnh | 32 hình đã chèn 🟢 |
 | Trang bìa | Hoàn thành ✅ |
 | Biên dịch | PDF 5.5 MB ✅ |
@@ -82,8 +82,10 @@ Nguyên tắc: **không để độc giả phải tự đoán** một khẳng đ
 10. Nhận thức, tư duy và cảm xúc.
 11. Giấc ngủ và lão hóa.
 12. Cơ thể người và thần học.
-13. Y học hiện đại và y học truyền thống.
-14. Sức khỏe, bệnh tật và phòng ngừa.
+13.  Y học hiện đại và y học truyền thống.
+14.  Sức khỏe, bệnh tật và phòng ngừa.
+15.  Hệ thống kinh mạch.
+16.  Khí công.
 
 > Chương 0, 8 (phần vi sinh vật), 11 và 12 là nội dung bổ sung so với bản đề cương ban đầu, nhằm phản ánh các mảng kiến thức liên ngành đang được quan tâm nhiều và giúp sách có chiều sâu hơn.
 

@@ -165,9 +165,11 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 | 12 | Cơ thể người và thần học | Đang phản biện | ✓ (1) |
 | 13 | Y học hiện đại và y học truyền thống | Đang phản biện | ✓ (1) |
 | 14 | Sức khỏe, bệnh tật và phòng ngừa | Đang phản biện | ✓ (1) |
+| 15 | Hệ thống kinh mạch | Bản nháp mới | - |
+| 16 | Khí công | Bản nháp mới | - |
 
 **Tổng kết:**
-- Nội dung: **Lời nói đầu + 15 chương** hoàn thành (100%)
+- Nội dung: **Lời nói đầu + 17 chương** (15 chính + 2 bổ sung)
 - Hình ảnh: **35 hình** đã chèn vào 15 chương (100% chương có hình!)
 - Biên dịch: ✓ Thành công (**PDF 6.0 MB**, tăng từ 5.5 MB)
 - Hình ảnh có sẵn: 172 file SVG từ Wikimedia Commons
@@ -204,7 +206,7 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
 ### Đã hoàn thành
 
 ✅ **Nội dung:** 
-- 15/15 chương đã viết xong với tổng 1337+ dòng code Typst
+- 17/17 chương đã viết xong (15 chính + 2 bổ sung: Kinh mạch, Khí công) với tổng 1337+ dòng code Typst
 - Áp dụng nhất quán hệ thống mức bằng chứng A/B/C/D
 - ~50 thuật ngữ song ngữ Việt-Anh trong glossary
 - ~40 tài liệu tham khảo trong references.bib

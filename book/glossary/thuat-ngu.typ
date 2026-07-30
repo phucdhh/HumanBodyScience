@@ -49,6 +49,13 @@
   "lao-hoa": ("Lão hóa", "Aging"),
   "benh-tat": ("Bệnh tật", "Disease"),
   "suc-khoe": ("Sức khỏe", "Health"),
+  "kinh-mach": ("Kinh mạch", "Meridian"),
+  "khi": ("Khí", "Qi"),
+  "huyet": ("Huyệt", "Acupoint"),
+  "khi-cong": ("Khí công", "Qigong"),
+  "am-duong": ("Âm-Dương", "Yin-Yang"),
+  "ngu-hanh": ("Ngũ hành", "Five Elements"),
+  "khi-huyet": ("Khí huyết", "Qi and Blood"),
 )
 
 // Hàm hiển thị thuật ngữ

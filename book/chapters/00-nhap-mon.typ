@@ -17,7 +17,7 @@ Hãy tưởng tượng bạn sống ở thế kỷ 16. Bác sĩ của bạn tin 
 
 === Khoa học không phải là kho chứa sự thật
 
-Nhiều người hình dung khoa học như một cuốn từ điển khổng lồ chứa các sự thật bất biến. Thực ra, khoa học giống một quy trình hơn: một cách đặt câu hỏi và kiểm tra câu trả lời, được thiết kế để giảm thiểu sai lầm của con người khi tìm hiểu thế giới.
+Đôi khi chúng ta hình dung Khoa học như một cuốn từ điển khổng lồ chứa các sự thật bất biến. Thực ra, khoa học giống một quy trình hơn: một cách đặt câu hỏi và kiểm tra câu trả lời, được thiết kế để giảm thiểu sai lầm của con người khi tìm hiểu thế giới.
 
 Điều thú vị là phương pháp khoa học được xây dựng trên một nguyên tắc rất phản trực giác: cố gắng chứng minh mình *sai*. Nhà triết học Karl Popper gọi đây là nguyên tắc *khả phủ chứng*: một tuyên bố khoa học phải có thể bị bác bỏ bởi bằng chứng @popper1959.
 
