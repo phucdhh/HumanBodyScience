@@ -21,6 +21,11 @@ Cuốn sách này không ủng hộ mô hình nào — mỗi độc giả có th
 
 == Cơ thể và linh hồn trong các truyền thống
 
+#figure(
+  image("../assets/images/ch00_Da Vinci Vitruvian Man traced.svg", width: 45%),
+  caption: [Người Vitruvius - biểu tượng sự hài hòa giữa cơ thể và vũ trụ]
+)
+
 Hầu hết các nền văn hóa và tôn giáo đều phân biệt giữa thể xác và một khía cạnh phi vật chất — linh hồn, tinh thần, hay ý thức:
 
 - *Phật giáo:* Không có linh hồn bất biến (vô ngã) — xem thân và tâm là một dòng chảy tương tục, thay đổi từng khoảnh khắc.

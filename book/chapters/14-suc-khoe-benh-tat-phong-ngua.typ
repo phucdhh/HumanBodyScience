@@ -8,6 +8,11 @@
 
 == Sức khỏe là gì?
 
+#figure(
+  image("../assets/images/ch01_Circulatory System en.svg", width: 60%),
+  caption: [Hệ tuần hoàn - một trong các hệ thống quan trọng duy trì sức khỏe]
+)
+
 Tổ chức Y tế Thế giới (WHO) định nghĩa sức khỏe là "trạng thái khỏe mạnh hoàn toàn về thể chất, tinh thần và xã hội, không chỉ đơn thuần là không có bệnh hay tàn tật" @who1948.
 
 Định nghĩa này nhấn mạnh:

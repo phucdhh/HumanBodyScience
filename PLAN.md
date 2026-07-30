@@ -149,6 +149,7 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 
 | # | Chương | Trạng thái | Hình ảnh |
 |---|---|---|---|
+| - | Lời nói đầu | Hoàn thành | - |
 | 0 | Nhập môn: Khoa học biết điều này bằng cách nào? | Đang phản biện | ✓ (1) |
 | 1 | Cơ thể người là gì? | Đang phản biện | ✓ (2) |
 | 2 | Tế bào và mô | Đang phản biện | ✓ (5) |
@@ -161,14 +162,14 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 | 9 | Di truyền và phát triển | Đang phản biện | ✓ (2) |
 | 10 | Nhận thức, tư duy và cảm xúc | Đang phản biện | ✓ (1) |
 | 11 | Giấc ngủ và lão hóa | Đang phản biện | ✓ (3) |
-| 12 | Cơ thể người và thần học | Đang phản biện | ○ |
-| 13 | Y học hiện đại và y học truyền thống | Đang phản biện | ○ |
-| 14 | Sức khỏe, bệnh tật và phòng ngừa | Đang phản biện | ○ |
+| 12 | Cơ thể người và thần học | Đang phản biện | ✓ (1) |
+| 13 | Y học hiện đại và y học truyền thống | Đang phản biện | ✓ (1) |
+| 14 | Sức khỏe, bệnh tật và phòng ngừa | Đang phản biện | ✓ (1) |
 
 **Tổng kết:**
-- Nội dung: 15/15 chương hoàn thành (100%)
-- Hình ảnh: **33 hình** đã chèn vào 12 chương (tăng từ 20 hình)
-- Biên dịch: ✓ Thành công (**PDF 5.5 MB**, tăng từ 4.2 MB)
+- Nội dung: **Lời nói đầu + 15 chương** hoàn thành (100%)
+- Hình ảnh: **35 hình** đã chèn vào 15 chương (100% chương có hình!)
+- Biên dịch: ✓ Thành công (**PDF 6.0 MB**, tăng từ 5.5 MB)
 - Hình ảnh có sẵn: 172 file SVG từ Wikimedia Commons
 - **Danh sách hình ảnh:** Tự động sau Mục lục
 

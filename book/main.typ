@@ -19,6 +19,7 @@
 )
 
 // Các chương
+#include "chapters/loi-noi-dau.typ"
 #include "chapters/00-nhap-mon.typ"
 #include "chapters/01-co-the-nguoi-la-gi.typ"
 #include "chapters/02-te-bao-va-mo.typ"

@@ -25,6 +25,11 @@ Y học hiện đại (hay y học dựa trên bằng chứng — evidence-based
 
 == Y học cổ truyền — Kinh nghiệm nghìn năm
 
+#figure(
+  image("../assets/images/ch13_TCM logo.svg", width: 40%),
+  caption: [Biểu tượng y học cổ truyền Trung Quốc]
+)
+
 Y học cổ truyền phương Đông (Đông y) dựa trên các lý thuyết triết học tự nhiên: âm-dương, ngũ hành, khí huyết, tạng phủ. Nó nhìn cơ thể như một hệ thống cân bằng động, và bệnh tật là sự mất cân bằng.
 
 Điểm mạnh:

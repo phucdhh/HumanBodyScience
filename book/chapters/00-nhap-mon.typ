@@ -2,16 +2,16 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Khoa học biết điều này bằng cách nào?
+= KHOA HỌC BIẾT ĐIỀU GÌ ĐÓ BẰNG CÁCH NÀO?
 
 #figure(
-  image("../assets/images/ch00_The Scientific Method.svg", width: 70%),
+  image("../assets/images/ch00_The Scientific Method.svg", width: 50%),
   caption: [Quy trình phương pháp khoa học]
 )
 
 Trước khi tìm hiểu về cơ thể người, chúng ta cần trả lời một câu hỏi quan trọng: làm sao để biết một thông tin y tế là đáng tin?
 
-Hãy tưởng tượng bạn sống ở thế kỷ 16. Bác sĩ của bạn tin rằng bệnh tật đến từ "máu xấu", và cách chữa là... trích huyết — lấy bớt máu ra. Họ không ác, cũng không ngu dốt. Họ chỉ thiếu một thứ: công cụ để kiểm tra xem phương pháp của mình có thực sự hiệu quả hay không. Ngày nay, chúng ta có những công cụ đó. Hiểu được chúng sẽ giúp bạn đọc tin tức sức khỏe, quảng cáo thực phẩm chức năng, hay lời khuyên y tế trên mạng xã hội một cách tỉnh táo hơn.
+Hãy tưởng tượng bạn sống ở thế kỷ 16. Bác sĩ của bạn tin rằng bệnh tật đến từ "máu xấu", và cách chữa là... trích huyết — lấy bớt máu ra. Họ không ác, cũng không phải ít hiểu biết. Có thể họ chỉ thiếu một thứ: công cụ để kiểm tra xem phương pháp của mình có thực sự hiệu quả hay không. Ngày nay, chúng ta có những công cụ đó. Hiểu được chúng sẽ giúp bạn đọc tin tức sức khỏe, quảng cáo thực phẩm chức năng, hay lời khuyên y tế trên mạng xã hội một cách tỉnh táo hơn.
 
 == Phương pháp khoa học — Nghệ thuật tự nghi ngờ
 
