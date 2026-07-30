@@ -1,9 +1,11 @@
 # Typst compiled files
-# *.pdf
+# (Downloads folder keeps versioned PDFs)
+book/main.pdf
 
 # System files
 .DS_Store
 Thumbs.db
+.venv/
 
 # Temporary or editor files
 .idea/
@@ -11,3 +13,7 @@ Thumbs.db
 *.swp
 *.tmp
 *.log
+
+# Old summary files (replaced by SUMMARY.md in root)
+SUMMARY.md
+CHANGELOG.md

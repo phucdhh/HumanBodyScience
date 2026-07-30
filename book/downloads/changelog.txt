@@ -1,0 +1,58 @@
+# CHANGELOG - Khoa học về cơ thể người
+# Lịch sử các phiên bản xuất bản
+
+
+## Phiên bản 2026.07.30.1923 (30/07/2026 19:23)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.07.30.1923.pdf
+- Kích thước: 5.5M
+- Biên dịch: 30/07/2026 lúc 19:23:05
+
+### Thay đổi
+- Cập nhật trang bìa hiển thị phiên bản timestamp (YYYY.MM.DD.HHMM) thay vì 0.1.0
+- [Tự động] Build thành công
+- Tổng số hình: 32
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.07.30.1922 (30/07/2026 19:22)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.07.30.1922.pdf
+- Kích thước: 5.5M
+- Biên dịch: 30/07/2026 lúc 19:22:57
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 32
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.07.30.1921 (30/07/2026 19:21)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.07.30.1921.pdf
+- Kích thước: 5.5M
+- Biên dịch: 30/07/2026 lúc 19:21:12
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 32
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.07.30.1919 (30/07/2026 19:19)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.07.30.1919.pdf
+- Kích thước: 5.5M
+- Biên dịch: 30/07/2026 lúc 19:19:12
+
+### Thay đổi
+- Tăng số lượng hình minh họa từ 20 lên 32 (+60%)
+- Thêm trang bìa với gradient xanh dương
+- [Tự động] Build thành công
+- Tổng số hình: 32
+- Tổng số chương: 15
+

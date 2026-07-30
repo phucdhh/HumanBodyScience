@@ -3,10 +3,39 @@
 ![Trạng thái](https://img.shields.io/badge/Trạng_thái-Đang_phát_triển-yellow)
 ![Giấy phép](https://img.shields.io/badge/Giấy_phép-CC_BY--SA_4.0-blue)
 ![Công cụ](https://img.shields.io/badge/Được_viết_bằng-Typst-239DAD)
+![Tiến độ](https://img.shields.io/badge/Nội_dung-100%25-success)
+![PDF](https://img.shields.io/badge/PDF-4.2_MB-informational)
 
 ## Giới thiệu
 
 **Khoa học về cơ thể người** là dự án biên soạn một cuốn tài liệu khoa học nhằm tìm hiểu có hệ thống những kiến thức nền tảng về cơ thể con người dưới góc nhìn liên ngành.
+
+### 🎯 Đặc điểm nổi bật
+
+- ✅ **15 chương hoàn chỉnh** - Từ phương pháp khoa học đến các hệ cơ quan
+- ✅ **Hệ thống mức bằng chứng A/B/C/D** - Phân biệt rõ kiến thức đã kiểm chứng vs quan niệm truyền thống
+- ✅ **20 hình ảnh minh họa** - Vector graphics chất lượng cao từ Wikimedia Commons
+- ✅ **Danh sách hình ảnh tự động** - Sau mục lục
+- ✅ **PDF 4.2 MB** - Biên dịch tự động qua CI/CD
+
+## 📊 Tiến độ
+
+| Thành phần | Hoàn thành |
+|------------|------------|
+| Nội dung | 15/15 chương (100%) ✅ |
+| Hình ảnh | 32 hình đã chèn 🟢 |
+| Trang bìa | Hoàn thành ✅ |
+| Biên dịch | PDF 5.5 MB ✅ |
+| Phản biện | Đang tiến hành 🟨 |
+
+Xem chi tiết tại [PLAN.md](PLAN.md) và [SUMMARY.md](SUMMARY.md).
+
+## 📥 Tải xuống
+
+Các phiên bản đã biên dịch:
+- **[Bản mới nhất](book/downloads/HumanBodyScience.latest.pdf)** - Luôn cập nhật
+- [Lịch sử các phiên bản](book/downloads/changelog.txt)
+- [Hướng dẫn downloads](book/downloads/README.md)
 
 Mục tiêu là giúp chính tác giả (và độc giả quan tâm) hiểu cơ thể mình dựa trên các bằng chứng khoa học hiện đại, đồng thời trình bày khách quan các học thuyết lịch sử và y học truyền thống, nêu rõ mức độ chứng cứ của từng nội dung.
 

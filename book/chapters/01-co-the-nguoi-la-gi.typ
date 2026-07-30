@@ -46,6 +46,11 @@ Khái niệm *Holobiont* (siêu sinh vật) mô tả bạn không chỉ là 37 n
 
 == Cân bằng nội môi — Nguyên lý vàng của sự sống
 
+#figure(
+  image("../assets/images/ch01_Thyrotropic feedback control.svg", width: 65%),
+  caption: [Vòng phản hồi âm điều khiển hormone giáp]
+)
+
 === Cơ thể duy trì ổn định thế nào?
 
 Nhà sinh lý học Claude Bernard từ thế kỷ 19 đã có một nhận định sâu sắc: "Sự ổn định của môi trường bên trong là điều kiện tiên quyết cho sự sống." Walter Cannon sau đó đặt tên cho khái niệm này là *#term("homeostasis")* — cân bằng nội môi.

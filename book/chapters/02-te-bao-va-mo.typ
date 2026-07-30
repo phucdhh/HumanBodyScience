@@ -20,6 +20,11 @@ Sau đó, Antonie van Leeuwenhoek, một người Hà Lan tự chế tạo thấ
 
 == Màng tế bào — Người gác cổng thông minh
 
+#figure(
+  image("../assets/images/ch02_Cell membrane detailed diagram en.svg", width: 80%),
+  caption: [Mô hình khảm động của màng tế bào]
+)
+
 Bao bọc mọi tế bào là một lớp màng siêu mỏng nhưng cực kỳ tinh vi. Màng tế bào không phải bức tường tĩnh lặng — nó là một cấu trúc năng động, được mô tả bằng *Mô hình khảm động* (Fluid mosaic model) @singer1972.
 
 Hãy tưởng tượng màng tế bào như một lớp kép phospholipid: các phân tử có "đầu" ưa nước quay ra ngoài và "đuôi" kỵ nước quay vào trong, tạo một rào cản chọn lọc. Nhúng trong lớp màng này là các protein — chúng hoạt động như cửa ngõ, máy bơm, và ăng-ten thu tín hiệu.
@@ -32,6 +37,11 @@ Hãy tưởng tượng màng tế bào như một lớp kép phospholipid: các 
 
 == Bào quan — Các "phòng ban" trong nhà máy tế bào
 
+#figure(
+  image("../assets/images/ch02_Animal cell structure en.svg", width: 85%),
+  caption: [Cấu trúc tế bào động vật với các bào quan chính]
+)
+
 Bên trong màng tế bào là tế bào chất — một không gian chứa nhiều bào quan (organelle), mỗi bào quan làm một nhiệm vụ chuyên biệt:
 
 - *#term("ti-the"):* Nhà máy điện của tế bào. Đốt cháy đường và oxy để tạo ra ATP — đồng tiền năng lượng. Đặc biệt, ti thể có DNA riêng và ở người, DNA này chỉ di truyền từ mẹ.
@@ -42,9 +52,19 @@ Bên trong màng tế bào là tế bào chất — một không gian chứa nhi
 
 == Nhân tế bào — Trung tâm chỉ huy
 
+#figure(
+  image("../assets/images/ch02_Diagram_human_cell_nucleus_id.svg", width: 70%),
+  caption: [Cấu trúc nhân tế bào chứa ADN và các bào quan liên quan]
+)
+
 Nhân tế bào là bào quan lớn nhất, chứa toàn bộ bản thiết kế sự sống: #term("ad"). DNA trong nhân được quấn quanh các protein histone tạo thành #term("chromatin"). Khi tế bào chuẩn bị phân chia, chromatin cuộn chặt lại thành nhiễm sắc thể.
 
 === Phân bào và biệt hóa
+
+#figure(
+  image("../assets/images/ch02_Mitosis Stages.svg", width: 80%),
+  caption: [Các giai đoạn của nguyên phân (mitosis)]
+)
 
 Cơ thể bạn bắt đầu từ một tế bào duy nhất — hợp tử. Tế bào đó phân chia bằng #term("mitosis"), tạo ra hai tế bào con giống hệt về mặt di truyền. Nhưng làm sao từ một tế bào lại có tế bào mắt, tế bào gan, tế bào cơ? Đó là nhờ *biệt hóa*: các tế bào "bật" hoặc "tắt" các gene khác nhau tùy vị trí và chức năng.
 

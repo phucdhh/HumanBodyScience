@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="254.60512mm"
+   height="255.59399mm"
+   viewBox="0 0 254.60512 255.594"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="The_Scientific_Method-es.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.70110129"
+     inkscape:cx="482.09867"
+     inkscape:cy="482.81183"
+     inkscape:window-width="1920"
+     inkscape:window-height="1001"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <clipPath
+       id="clip0">
+      <rect
+         x="-1"
+         y="-1"
+         width="962"
+         height="914"
+         id="rect1" />
+    </clipPath>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(22.489584,-20.637499)">
+    <g
+       id="g31"
+       transform="matrix(0.26458333,0,0,0.26458333,-22.754167,20.372916)">
+      <rect
+         style="fill:#ffffff;fill-opacity:0.968627;stroke:#000000;stroke-width:0;stroke-linecap:round"
+         id="rect30"
+         width="960.30908"
+         height="966.02515"
+         x="1"
+         y="1" />
+      <g
+         id="g30"
+         transform="matrix(1,0,0,1.0376061,2.2870939,9.394644)">
+        <g
+           clip-path="url(#clip0)"
+           id="g8"
+           transform="translate(1,1)" />
+        <rect
+           x="0"
+           y="0"
+           width="960"
+           height="912"
+           fill="#ffffff"
+           id="rect2"
+           transform="translate(1,1)" />
+        <path
+           d="M 586.338,73.3319 C 796.861,131.858 920.138,350.182 861.686,560.971 803.233,771.76 585.185,895.193 374.662,836.667 164.139,778.14 40.862,559.817 99.3145,349.028 123.14,263.108 175.223,187.751 247.136,135.15 l -11.559,-21.248 66.023,12.23 -22.053,68.599 -11.548,-21.226 C 112.754,291.032 82.0427,512.337 199.403,667.802 316.764,823.267 537.755,854.022 693,736.495 848.245,618.968 878.956,397.664 761.596,242.198 714.954,180.413 649.31,135.711 574.786,114.987 Z"
+           stroke="#000000"
+           stroke-width="2.66667"
+           stroke-linejoin="round"
+           stroke-miterlimit="10"
+           fill="#cbcbcb"
+           fill-rule="evenodd"
+           id="path2"
+           transform="translate(1,1)" />
+        <path
+           d="m 308.5,115.5 c 0,-44.1826 35.817,-79.9999 80,-79.9999 h 186 c 44.183,0 80,35.8173 80,79.9999 v 0 c 0,44.183 -35.817,80 -80,80 h -186 c -44.183,0 -80,-35.817 -80,-80 z"
+           stroke="#000000"
+           stroke-width="2.66667"
+           stroke-miterlimit="8"
+           fill="#ffffff"
+           fill-rule="evenodd"
+           id="path3"
+           transform="translate(1,1)" />
+        <switch
+           id="switch3"
+           transform="translate(23,1)">
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,101)"
+             id="trsvg14-si"
+             systemLanguage="si"><tspan
+               x="50%"
+               text-anchor="middle"
+               id="trsvg1-si">නිරීක්ෂණය</tspan><tspan
+               font-size="53px"
+               x="50%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg2-si">/ ගැටළුව</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,101)"
+             id="trsvg14-yue"
+             systemLanguage="yue"><tspan
+               x="50%"
+               text-anchor="middle"
+               id="trsvg1-yue">觀察</tspan><tspan
+               font-size="53px"
+               x="50%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg2-yue">/ 問問題</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="400"
+             font-size="53px"
+             id="trsvg14"
+             x="302.4549"
+             y="98.682343"
+             style="font-weight:400;font-size:53px;font-family:'Liberation Sans', sans-serif"><tspan
+               sodipodi:role="line"
+               x="302.4549"
+               y="98.682343"
+               id="tspan10"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:Sans;-inkscape-font-specification:'Sans, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"><tspan
+   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:48px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal"
+   id="tspan13">Observación</tspan>/</tspan><tspan
+               sodipodi:role="line"
+               x="302.4549"
+               y="164.93234"
+               id="tspan11" /></text>
+        </switch>
+        <path
+           d="m 592.5,291.5 c 0,-44.183 35.817,-80 80,-80 h 185 c 44.183,0 80,35.817 80,80 v 0 c 0,44.183 -35.817,80 -80,80 h -185 c -44.183,0 -80,-35.817 -80,-80 z"
+           stroke="#000000"
+           stroke-width="2.66667"
+           stroke-miterlimit="8"
+           fill="#ffffff"
+           fill-rule="evenodd"
+           id="path4"
+           transform="translate(1,1)" />
+        <switch
+           id="switch4"
+           transform="translate(1,1)">
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,278)"
+             id="trsvg15-si"
+             systemLanguage="si"><tspan
+               x="80%"
+               text-anchor="middle"
+               id="trsvg3-si">මාතෘකාව</tspan><tspan
+               font-size="53px"
+               x="80.800003%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg4-si">ගවේෂණය</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,278)"
+             id="trsvg15-yue"
+             systemLanguage="yue"><tspan
+               x="80%"
+               text-anchor="middle"
+               id="trsvg3-yue">研究吓</tspan><tspan
+               font-size="53px"
+               x="80.800003%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg4-yue">目標課題</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="400"
+             font-size="53px"
+             id="trsvg15"
+             x="806.52356"
+             y="250.03084"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.2389px;font-family:'Liberation Sans', sans-serif;-inkscape-font-specification:'Liberation Sans, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.942575"
+             transform="scale(0.94718388,1.0557612)"><tspan
+               sodipodi:role="line"
+               id="tspan19"
+               x="806.52356"
+               y="250.03084"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.2389px;font-family:'Liberation Sans', sans-serif;-inkscape-font-specification:'Liberation Sans, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.942575">Tema de</tspan><tspan
+               sodipodi:role="line"
+               x="806.52356"
+               y="314.07947"
+               style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.2389px;font-family:'Liberation Sans', sans-serif;-inkscape-font-specification:'Liberation Sans, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;stroke-width:0.942575"
+               id="tspan28">investigación</tspan></text>
+        </switch>
+        <path
+           d="m 592.5,619.5 c 0,-44.183 35.817,-80 80,-80 h 185 c 44.183,0 80,35.817 80,80 v 0 c 0,44.183 -35.817,80 -80,80 h -185 c -44.183,0 -80,-35.817 -80,-80 z"
+           stroke="#000000"
+           stroke-width="2.66667"
+           stroke-miterlimit="8"
+           fill="#ffffff"
+           fill-rule="evenodd"
+           id="path5"
+           transform="translate(1,1)" />
+        <switch
+           id="switch5"
+           transform="translate(1,1)">
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,635)"
+             id="trsvg16-si"
+             systemLanguage="si"><tspan
+               x="80%"
+               text-anchor="middle"
+               id="trsvg5-si">කල්පිතය</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,635)"
+             id="trsvg16-yue"
+             systemLanguage="yue"><tspan
+               x="80%"
+               text-anchor="middle"
+               id="trsvg5-yue">提出假說</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="400"
+             font-size="53px"
+             transform="translate(0,635)"
+             id="trsvg16"><tspan
+               x="80%"
+               text-anchor="middle"
+               id="trsvg5">Hipótesis</tspan></text>
+        </switch>
+        <path
+           d="m 308.5,797.5 c 0,-44.183 35.817,-80 80,-80 h 186 c 44.183,0 80,35.817 80,80 v 0 c 0,44.183 -35.817,80 -80,80 h -186 c -44.183,0 -80,-35.817 -80,-80 z"
+           stroke="#000000"
+           stroke-width="2.66667"
+           stroke-miterlimit="8"
+           fill="#ffffff"
+           fill-rule="evenodd"
+           id="path6"
+           transform="translate(1,1)" />
+        <switch
+           id="switch6"
+           transform="translate(-3,1)">
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,784)"
+             id="trsvg17-si"
+             systemLanguage="si"><tspan
+               x="50%"
+               text-anchor="middle"
+               id="trsvg6-si" /><tspan
+               font-size="53px"
+               x="50%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg7-si">පරීක්ෂණය</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,784)"
+             id="trsvg17-yue"
+             systemLanguage="yue"><tspan
+               x="50%"
+               text-anchor="middle"
+               id="trsvg6-yue">用實驗嚟</tspan><tspan
+               font-size="53px"
+               x="50%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg7-yue">驗證</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="400"
+             font-size="52.6871px"
+             id="trsvg17"
+             x="531.44568"
+             y="715.31519"
+             transform="scale(0.92142154,1.0852796)"
+             style="text-align:center;text-anchor:middle;stroke-width:0.994095"><tspan
+               sodipodi:role="line"
+               id="tspan22"
+               x="531.44568"
+               y="715.31519"
+               style="text-align:center;text-anchor:middle;stroke-width:0.994095">Prueba con</tspan><tspan
+               sodipodi:role="line"
+               id="tspan23"
+               x="531.44568"
+               y="781.17407"
+               style="text-align:center;text-anchor:middle;stroke-width:0.994095">experimento</tspan></text>
+        </switch>
+        <path
+           d="m 24.5001,619.5 c 0,-44.183 35.8172,-80 79.9999,-80 h 186 c 44.183,0 80,35.817 80,80 v 0 c 0,44.183 -35.817,80 -80,80 h -186 c -44.1827,0 -79.9999,-35.817 -79.9999,-80 z"
+           stroke="#000000"
+           stroke-width="2.66667"
+           stroke-miterlimit="8"
+           fill="#ffffff"
+           fill-rule="evenodd"
+           id="path7"
+           transform="translate(1,1)" />
+        <switch
+           id="switch7"
+           transform="translate(1,1)">
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,606)"
+             id="trsvg18-si"
+             systemLanguage="si"><tspan
+               x="20%"
+               text-anchor="middle"
+               id="trsvg8-si">දත්ත</tspan><tspan
+               font-size="53px"
+               x="19.200001%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg9-si">විශ්ලේෂණය</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="normal"
+             font-size="53px"
+             transform="translate(0,606)"
+             id="trsvg18-yue"
+             systemLanguage="yue"><tspan
+               x="20%"
+               text-anchor="middle"
+               id="trsvg8-yue">分析吓</tspan><tspan
+               font-size="53px"
+               x="19.200001%"
+               y="57"
+               text-anchor="middle"
+               id="trsvg9-yue">啲 data</tspan></text>
+          <text
+             font-family="'Liberation Sans', sans-serif"
+             font-weight="400"
+             font-size="53px"
+             id="trsvg18"
+             x="193.72667"
+             y="603.68231"
+             style="text-align:center;text-anchor:middle"><tspan
+               sodipodi:role="line"
+               x="193.72667"
+               y="603.68231"
+               id="tspan26">Analizar</tspan><tspan
+               sodipodi:role="line"
+               x="193.72667"
+               y="669.93231"
+               id="tspan27">los datos</tspan></text>
+        </switch>
+        <path
+           d="m 24.5001,291.5 c 0,-44.183 35.8172,-80 79.9999,-80 h 186 c 44.183,0 80,35.817 80,80 v 0 c 0,44.183 -35.817,80 -80,80 h -186 c -44.1827,0 -79.9999,-35.817 -79.9999,-80 z"
+           stroke="#000000"
+           stroke-width="2.66667"
+           stroke-miterlimit="8"
+           fill="#ffffff"
+           fill-rule="evenodd"
+           id="path8"
+           transform="translate(1,1)" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:'Liberation Sans', sans-serif;-inkscape-font-specification:'Liberation Sans, sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:0.968627;stroke:#000000;stroke-width:0;stroke-linecap:round"
+           x="477.43839"
+           y="416.02032"
+           id="text24"
+           transform="translate(1,1)"><tspan
+             sodipodi:role="line"
+             id="tspan24"
+             x="477.43839"
+             y="416.02032"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">Método</tspan><tspan
+             sodipodi:role="line"
+             x="477.43839"
+             y="496.02032"
+             id="tspan25"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:64px;font-family:Sans;-inkscape-font-specification:'Sans, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">científico</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:53.3333px;font-family:'Trebuchet MS';-inkscape-font-specification:'Trebuchet MS, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:0.968627;stroke:#000000;stroke-width:0;stroke-linecap:round"
+           x="478.43839"
+           y="150.4892"
+           id="text12"><tspan
+             sodipodi:role="line"
+             id="tspan12"
+             x="478.43839"
+             y="150.4892"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, ';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal">pregunta</tspan></text>
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:53.3333px;font-family:'Liberation Sans', sans-serif;-inkscape-font-specification:'Liberation Sans, sans-serif, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:0.968627;stroke:#000000;stroke-width:0;stroke-linecap:round"
+           x="193.36594"
+           y="272.16644"
+           id="text29"><tspan
+             sodipodi:role="line"
+             id="tspan29"
+             x="193.36594"
+             y="272.16644">Informe/</tspan><tspan
+             sodipodi:role="line"
+             x="193.36594"
+             y="338.83307"
+             id="tspan30">conclusión</tspan></text>
+      </g>
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:14.1111px;font-family:'Liberation Sans', sans-serif;-inkscape-font-specification:'Liberation Sans, sans-serif, Normal';text-align:center;text-anchor:middle;fill:#1a1a1a;fill-opacity:0.968627;stroke:#000000;stroke-width:0;stroke-linecap:round"
+       x="180.91956"
+       y="197.25249"
+       id="text1"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="fill:#1a1a1a;stroke-width:0"
+         x="180.91956"
+         y="197.25249">Hipótesis</tspan></text>
+  </g>
+</svg>

@@ -4,6 +4,80 @@
   v(2em)
   heading(level: 2, numbering: none)[Câu hỏi tự nghiên cứu và thảo luận]
 }
+#let cover-page(title: "", subtitle: "", authors: (), version: "", date: "") = {
+  set page(
+    paper: "iso-b5",
+    margin: 0pt,
+    numbering: none,
+  )
+  
+  set text(font: "Linux Libertine", lang: "vi")
+  
+  // Background gradient
+  place(top + left, 
+    rect(
+      width: 100%, 
+      height: 100%,
+      fill: gradient.linear(
+        rgb("#1e3a8a"), // Xanh đậm
+        rgb("#3b82f6"), // Xanh sáng
+        angle: 45deg
+      )
+    )
+  )
+  
+  // Content
+  v(25%)
+  
+  align(center)[
+    // Main title
+    #text(
+      size: 32pt, 
+      weight: "bold", 
+      fill: white,
+      title
+    )
+    
+    #v(1em)
+    
+    // Subtitle
+    #text(
+      size: 14pt,
+      fill: rgb("#e0e7ff"),
+      style: "italic",
+      subtitle
+    )
+    
+    #v(3em)
+    
+    // Decorative line
+    #line(length: 60%, stroke: 2pt + white)
+    
+    #v(3em)
+    
+    // Authors
+    #text(
+      size: 16pt,
+      fill: white,
+      weight: "semibold",
+      authors.join(", ")
+    )
+    
+    #v(1fr)
+    
+    // Version and date at bottom
+    #text(
+      size: 11pt,
+      fill: rgb("#e0e7ff"),
+      [Phiên bản #version \ #date]
+    )
+    
+    #v(2em)
+  ]
+  
+  pagebreak()
+}
+
 #let project(title: "", authors: (), body) = {
   // Set document metadata
   set document(author: authors, title: title)
@@ -42,16 +116,16 @@
     }
   })
 
-  // Title page
-  align(center)[
-    #block(text(weight: 700, 2.5em, title))
-    #v(1em, weak: true)
-    #block(text(1.2em, authors.join(", ")))
-    #v(2em)
-  ]
-
   // Table of contents
   outline(depth: 3, indent: auto)
+  pagebreak()
+
+  // List of figures
+  heading(numbering: none)[Danh sách hình ảnh]
+  outline(
+    title: none,
+    target: figure.where(kind: image),
+  )
   pagebreak()
 
   // Main body

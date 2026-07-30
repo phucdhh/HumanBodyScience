@@ -1,0 +1,109 @@
+[
+  {
+    "note": "155 hình ảnh mới (prefix ch*) được tải từ Wikimedia Commons vào ngày 30/07/2026",
+    "source": "Wikimedia Commons",
+    "license_info": "Tất cả hình ảnh đều có giấy phép Public Domain, CC BY-SA, hoặc CC0",
+    "commons_base_url": "https://commons.wikimedia.org/wiki/",
+    "download_method": "Sử dụng script download_images.py với Wikimedia API",
+    "attribution_requirement": "Cần cập nhật attribution chi tiết cho từng file theo format bên dưới"
+  },
+  {
+    "local": "cell.svg",
+    "status": "ok",
+    "commons_title": "File:Animal cell structure en.svg",
+    "license": "Public domain",
+    "author": "LadyofHats (Mariana Ruiz)",
+    "description": "This is a diagram of an animal cell. I based my information on these diagrams:\nhttp://www.bartleby.com/images/A4images/A4cell.jpg[ dead link ]\nhttp://www.dmacc.cc.ia.us/instructors/tmbergin/animalcell.jpg[dead link]\nhttp://www.npc.edu/Bio105/media/m1_l6-01.gif[ dead link ]\nhttp://www.csus.edu/indiv/l/loom/animal%20cell.jpg[ dead link ]\nhttp://www.rkm.com.au/CELL/cellimages/cellannot700.jpg].\nThere are some structures I did not add because it was not clear to me how they should look. For all have doubts between cytoskeleton, microfibers and microtubules. If you would like to make another language version of it, message me and I can make an image without text for you or message me the names in the language you want them to appear.",
+    "credit": "Own work using Adobe Illustrator. Image renamed from File:Animal cell structure.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Animal_cell_structure_en.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Animal_cell_structure_en.svg"
+  },
+  {
+    "local": "skeleton.svg",
+    "status": "ok",
+    "commons_title": "File:Human skeleton front en.svg",
+    "license": "Public domain",
+    "author": "LadyofHats Mariana Ruiz Villarreal",
+    "description": "diagram of a human female skeleton. \nthe red lines point to individual bones and the names are written in the singular\nthe blue lines point to groups of bones and the names are written in the plural (except cranium and pelvic girdle)",
+    "credit": "Own work. Image renamed from File:Human skeleton front.svg",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Human_skeleton_front_en.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Human_skeleton_front_en.svg"
+  },
+  {
+    "local": "neuron.svg",
+    "status": "ok",
+    "commons_title": "File:Neuron.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "User:Dhp1080",
+    "description": "Neuron description.",
+    "credit": "\"Anatomy and Physiology\" by the US National Cancer Institute's Surveillance, Epidemiology and End Results (SEER) Program .",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Neuron.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Neuron.svg"
+  },
+  {
+    "local": "heart.svg",
+    "status": "ok",
+    "commons_title": "File:Heart diagram-en.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "ZooFari",
+    "description": "Heart diagram with labels in English. Blue components indicate de-oxygenated blood pathways and red components indicate oxygenated blood pathways.[1][2]",
+    "credit": "Own work\n\nSupporting references\n\n\n↑ [1] (cache)\n\n↑ [2] (cache)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Heart_diagram-en.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Heart_diagram-en.svg"
+  },
+  {
+    "local": "digestive.svg",
+    "status": "ok",
+    "commons_title": "File:Digestive system diagram en.svg",
+    "license": "Public domain",
+    "author": "Mariana Ruiz, Jmarchn",
+    "description": "The gastrointestinal tract, also called the digestive tract, alimentary canal, or gut, is the system of organs within multicellular animals that takes in food, digests it to extract energy and nutrients, and expels the remaining waste.",
+    "credit": "Own work",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Digestive_system_diagram_en.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Digestive_system_diagram_en.svg"
+  },
+  {
+    "local": "dna.svg",
+    "status": "ok",
+    "commons_title": "File:DNA structure and bases.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "MesserWoland",
+    "description": "The structure of DNA, based on Image:DNA-structure-and-bases.png:\nA. Adenine\nB. Thymine\nC. Guanine\nD. Cytosine\n1. Sugar, Phosphate, Backbone\n2. Base pair\n\n3. Nitrogeous base",
+    "credit": "own work created in Inkscape",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/DNA_structure_and_bases.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:DNA_structure_and_bases.svg"
+  },
+  {
+    "local": "endocrine.svg",
+    "status": "ok",
+    "commons_title": "File:Endocrine central nervous en.svg",
+    "license": "Public domain",
+    "author": "LadyofHats",
+    "description": "list of the hormones found in the endocrine glandes on the nervous system",
+    "credit": "made myself based on the information found on the wikipedia article",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Endocrine_central_nervous_en.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Endocrine_central_nervous_en.svg"
+  },
+  {
+    "local": "respiratory.svg",
+    "status": "ok",
+    "commons_title": "File:Respiratory system complete en.svg",
+    "license": "Public domain",
+    "author": "LadyofHats, Jmarchn",
+    "description": "the respiratory system consists of the airways, the lungs, and the respiratory muscles that mediate the movement of air into and out of the body. Image renamed from Respiratory system complete.svg",
+    "credit": "Own work using:\n\nSobotta, Johannes (1982)       Atlas der Anatomie des Menschen / 2 Brust, Bauch, Becken, untere Extremitäten, Haut. (18th ed.), Munich:  Urban &amp; Schwarzenberg  ISBN:  3-541-02828-9.  OCLC:   260005032. \nGray, Henry (1980)       Gray's Anatomy (36th ed.), Edinburgh:  Churchill Livingstone  ISBN:  0-443-01505-8.  OCLC:   7775214. \nYokochi, Chihiro (1991)       Atlas fotográfico de anatomía del cuerpo humano (3rd ed.), Mexico:  Interamericana/McGraw-Hill  ISBN:  968-25-1677-3.  OCLC:   33318149. \nAlso used several online diagrams like:\n[1]\n[2]",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Respiratory_system_complete_en.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Respiratory_system_complete_en.svg"
+  },
+  {
+    "local": "sleep-stages.svg",
+    "status": "ok",
+    "commons_title": "File:Sleep Hypnogram.svg",
+    "license": "CC BY-SA 3.0",
+    "author": "RazerM",
+    "description": "Hypnogram of sleep between midnight and 6.30 am",
+    "credit": "Originally: Creation/Translation from File:Hypnogramme.svg, current: File:Sleep Hypnogram_fi.svg (itself created from former version of this one)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Sleep_Hypnogram.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Sleep_Hypnogram.svg"
+  }
+]

@@ -10,6 +10,11 @@ Hormone điều khiển hầu hết các quá trình sống: tăng trưởng, ch
 
 == Các tuyến nội tiết chính
 
+#figure(
+  image("../assets/images/ch05_Endocrine glands & their hormones.svg", width: 70%),
+  caption: [Các tuyến nội tiết chính và hormone chúng tiết ra]
+)
+
 Không giống như tuyến ngoại tiết (tuyến mồ hôi, tuyến nước bọt) đổ chất ra bề mặt cơ thể, tuyến nội tiết tiết hormone trực tiếp vào máu. Các tuyến nội tiết chính gồm:
 
 === Tuyến yên (Pituitary gland) — "Nhạc trưởng"
@@ -32,12 +37,22 @@ Nằm ở nền sọ, chỉ to bằng hạt đậu, #term("tuyen-yen") được 
 
 === Tuyến thượng thận (Adrenal glands) — Tuyến đối phó căng thẳng
 
+#figure(
+  image("../assets/images/ch05_HPA-axis - anterior view (with text).svg", width: 70%),
+  caption: [Trục HPA (Hypothalamus-Pituitary-Adrenal): hệ thống phản ứng với stress]
+)
+
 Nằm trên đỉnh mỗi quả thận, mỗi tuyến thượng thận gồm hai phần với hai chức năng hoàn toàn khác nhau:
 
 - *Phần tủy (Medulla):* Tiết adrenaline (epinephrine) — hormone "chiến hay chuồn", làm tim đập nhanh, giãn phế quản, tăng đường huyết.
 - *Phần vỏ (Cortex):* Tiết cortisol — hormone căng thẳng chính, giúp duy trì đường huyết và ức chế viêm. Cortisol cũng theo nhịp ngày đêm: cao nhất vào sáng sớm, thấp nhất về đêm.
 
 === Tụy (Pancreas) — Điều hòa đường huyết
+
+#figure(
+  image("../assets/images/ch05_Glucose Insulin Release Pancreas.svg", width: 70%),
+  caption: [Cơ chế điều hòa đường huyết qua insulin và glucagon]
+)
 
 #term("tuy-tang") vừa là tuyến ngoại tiết (tiết enzyme tiêu hóa) vừa là tuyến nội tiết. Các đảo tụy (islets of Langerhans) chứa hai loại tế bào:
 

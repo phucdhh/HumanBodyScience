@@ -10,6 +10,11 @@ Khi nghĩ đến xương, nhiều người hình dung bộ hài cốt khô trong
 
 === Giải phẫu đại cương
 
+#figure(
+  image("../assets/images/ch03_Human_skeleton_front_en.svg", width: 60%),
+  caption: [Bộ xương người nhìn từ phía trước]
+)
+
 Cơ thể người trưởng thành có khoảng 206 xương, chia làm hai phần:
 
 - *Xương trục:* 80 xương tạo trục trung tâm — hộp sọ, cột sống, xương ức, lồng ngực. Nhiệm vụ chính: bảo vệ não, tủy sống, tim, phổi.
@@ -92,9 +97,19 @@ Viêm xương khớp (osteoarthritis) là bệnh khớp phổ biến nhất th�
 
 == Hệ cơ — Động cơ của sự sống
 
+#figure(
+  image("../assets/images/ch03_Sliding Filament Theory.svg", width: 70%),
+  caption: [Cơ chế trượt sợi cơ: actin và myosin tương tác để cơ co]
+)
+
 Từ nháy mắt đến nhịp tim, từ thở nhẹ đến nâng tạ — tất cả đều nhờ cơ. Hệ cơ người trưởng thành gồm hơn 600 cơ, chiếm 40-50% trọng lượng cơ thể.
 
 === Cơ chế co cơ — Chèo thuyền trong tế bào
+
+#figure(
+  image("../assets/images/ch03_Sliding Filament Theory.svg", width: 75%),
+  caption: [Thuyết trượt sợi: cơ chế co cơ ở cấp độ phân tử]
+)
 
 Cơ co được là nhờ hai loại sợi protein — *actin* (sợi mỏng) và *myosin* (sợi dày) — trượt lên nhau. Cơ chế giống động tác chèo thuyền: đầu myosin bám vào actin, kéo, nhả ra, và bám lại.
 

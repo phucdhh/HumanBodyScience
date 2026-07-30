@@ -12,6 +12,11 @@ Bạn ngủ khoảng 1/3 cuộc đời — 25-30 năm nếu sống 80 tuổi. N�
 
 === Chu kỳ giấc ngủ
 
+#figure(
+  image("../assets/images/sleep-stages.svg", width: 75%),
+  caption: [Chu kỳ giấc ngủ qua các giai đoạn NREM và REM]
+)
+
 Một đêm ngủ gồm 4-6 chu kỳ, mỗi chu kỳ khoảng 90 phút @walker2017:
 
 - *NREM (Non-Rapid Eye Movement):* Gồm 3 giai đoạn — từ ngủ nông (dễ thức giấc) đến ngủ sâu (khó đánh thức). Ngủ sâu là lúc cơ thể sửa chữa mô, tăng cường miễn dịch, và củng cố trí nhớ.
@@ -31,6 +36,11 @@ Khi đêm càng về sáng, thời gian REM càng dài — đó là lý do bạn
 
 == Lão hóa — Tại sao chúng ta già?
 
+#figure(
+  image("../assets/images/ch11_Biological clock human.svg", width: 70%),
+  caption: [Đồng hồ sinh học điều hòa nhịp sinh học theo chu kỳ 24 giờ]
+)
+
 Lão hóa là sự suy giảm dần chức năng của các mô và cơ quan theo thời gian. Đây là quá trình tự nhiên, không phải bệnh — nhưng nó làm tăng nguy cơ mắc nhiều bệnh (tim mạch, ung thư, Alzheimer, loãng xương).
 
 === Các dấu ấn sinh học của lão hóa
@@ -39,6 +49,12 @@ Năm 2013, Carlos López-Otín và cộng sự xác định 9 dấu ấn sinh h�
 
 - *Mất ổn định genome:* Đột biến ADN tích lũy theo thời gian.
 - *Co ngắn telomere:* Mỗi lần tế bào phân chia, telomere ngắn lại (đã thảo luận ở Chương 2). Khi telomere quá ngắn, tế bào ngừng phân chia.
+
+#figure(
+  image("../assets/images/ch11_Telomerisation.svg", width: 60%),
+  caption: [Cơ chế co ngắn telomere qua các lần phân chia tế bào]
+)
+
 - *Rối loạn chức năng ti thể:* Ti thể sản xuất năng lượng kém hiệu quả hơn.
 - *Tế bào già yếu (senescence):* Tế bào ngừng phân chia nhưng không chết, tiết ra các phân tử viêm gây hại cho mô xung quanh.
 - *Suy giảm tế bào gốc:* Khả năng tái tạo mô giảm dần.

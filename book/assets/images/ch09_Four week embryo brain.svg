@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="339" height="362">
+  <g stroke="#000">
+    <path fill="#fce1d8" d="M71.585 356.602c-.785-12.546 1.91-15.3 9.772-25.696 0 0-7.42-6.877-7.42-20.448 0-18.633 20.086-26.594 20.086-52.651 0-26.057-18.999-31.661-23.885-31.661-4.886 0-63.971-6.813-63.971-63.313s42-122 143.5-122 168.5 82 168.5 165.5c0 40.5-8.857 78.501-9 89-.282 20.742 4.881 40.157-.5 60.5"/>
+    <path fill="#fcfc04" d="M278 353.5s2-12 2-23.5-6.5-72.5-6.5-72.5c-5.71-9.647 23.497-16.489 21.866-2.434-5.768 32.664-4.668 65.727-4.366 98.934"/>
+    <path fill="#24fc04" d="M273.5 257.5c-19.317-31.085-24.895-54.077-26.5-92.5-20.765-5.108 30.89-40.544 34-21 28.004 25.686 20.606 66.781 14.366 111.066"/>
+    <path fill="#fc04fc" d="M247 165c-22.443-5.628-38.078-11.685-57-26.5-22.43 18.877-14.989-75.161 3-66.5 47.873 3.513 80.835 14.976 88 72"/>
+    <path fill="#00b3fe" d="M190 138.5s-36.448 36-87.5 36c-37.182 0-51.672-14.914-52-45C50.364 117 61 53 126 53c34 0 67 19 67 19"/>
+    <ellipse cx="100.25" cy="131" fill="#fff" rx="9.75" ry="13"/>
+  </g>
+  <path fill="none" stroke="#000" stroke-width="2" d="M250.78 334.55l34.887-18.886m-55.992-113.772l45.99-3.998m-7.124-164.45l-36.874 72.887M137 26.998l5.333 57.333"/>
+  <g font-family="Liberation Sans,sans-serif" font-size="20" text-anchor="end">
+    <switch transform="translate(175.448 20.128)">
+      <text systemLanguage="bg">Преден мозък</text>
+      <text systemLanguage="ce">Хьалхара хье</text>
+      <text systemLanguage="gl">Prosencéfalo</text>
+      <text systemLanguage="es">Prosencéfalo</text>
+      <text systemLanguage="en">Prosencephalon</text>
+      <text systemLanguage="fr">Prosencéphale</text>
+      <text systemLanguage="hu">Előagy</text>
+      <text systemLanguage="ja" text-anchor="middle" x="-38">前脳</text>
+      <text systemLanguage="la">Prosencephalon</text>
+      <text systemLanguage="pl">Przodomózgowie</text>
+      <text systemLanguage="pt">Prosencéfalo</text>
+      <text systemLanguage="ru">Передний мозг</text>
+      <text systemLanguage="zxx" text-anchor="middle" x="-40">1</text>
+    </switch>
+    <switch transform="translate(331.574 23.681)">
+      <text systemLanguage="bg">Среден мозък</text>
+      <text systemLanguage="ce">Юккъера хье</text>
+      <text systemLanguage="gl">Mesencéfalo</text>
+      <text systemLanguage="es">Mesencéfalo</text>
+      <text systemLanguage="en">Mesencephalon</text>
+      <text systemLanguage="fr">Mésencéphale</text>
+      <text systemLanguage="hu">Középagy</text>
+      <text systemLanguage="ja" text-anchor="middle" x="-60">中脳</text>
+      <text systemLanguage="la">Mesencephalon</text>
+      <text systemLanguage="pl">Śródmózgowie</text>
+      <text systemLanguage="pt">Mesencéfalo</text>
+      <text systemLanguage="ru">Средний мозг</text>
+      <text systemLanguage="zxx" text-anchor="middle" x="-60">2</text>
+    </switch>
+    <switch transform="translate(225.497 208.234)" text-anchor="end">
+      <text systemLanguage="bg">Ромбенцефалон</text>
+      <text systemLanguage="ce" text-anchor="start"><tspan x="-130" y="0">Ромбкепара</tspan> <tspan x="-130" y="24">(Дуьххьарлера</tspan> <tspan x="-130" y="48">тӀехьара)</tspan> <tspan x="-130" y="72">хье</tspan></text>
+      <text systemLanguage="gl">Rombencéfalo</text>
+      <text systemLanguage="es">Rombencéfalo</text>
+      <text systemLanguage="en">Rhombencephalon</text>
+      <text systemLanguage="fr">Rhombencéphale</text>
+      <text systemLanguage="hu">Utóagy</text>
+      <text systemLanguage="ja">菱脳</text>
+      <text systemLanguage="la">Rhombencephalon</text>
+      <text systemLanguage="pl">Tyłomózgowie</text>
+      <text systemLanguage="pt">Rombencéfalo</text>
+      <text systemLanguage="ru" text-anchor="start"><tspan x="-130" y="0">Ромбовидный</tspan> <tspan x="-130" y="24">(первичный</tspan> <tspan x="-130" y="48">задний)</tspan> <tspan x="-130" y="72">мозг</tspan></text>
+      <text systemLanguage="zxx">3</text>
+    </switch>
+    <switch transform="translate(243.85 340.153)">
+      <text systemLanguage="af">Rugmurg</text>
+      <text systemLanguage="gsw">Rückenmark</text>
+      <text systemLanguage="an">Miollo espinal</text>
+      <text systemLanguage="arc">ܚܒܠܐ ܟܘܒܝܐ</text>
+      <text systemLanguage="ar">نخاع شوكي</text>
+      <text systemLanguage="ast">Migollu espinal</text>
+      <text systemLanguage="azb">اونورغا بئینی</text>
+      <text systemLanguage="az">Onurğa beyni</text>
+      <text systemLanguage="be">Спінны мозг</text>
+      <text systemLanguage="bg">Гръбначен мозък</text>
+      <text systemLanguage="bn">সুষুম্নাকাণ্ড</text>
+      <text systemLanguage="br">Mel-livenn</text>
+      <text systemLanguage="bs">Kičmena moždina</text>
+      <text systemLanguage="ca">Medul·la espinal</text>
+      <text systemLanguage="ce">Букъан тӀум</text>
+      <text systemLanguage="cdo">Cék-chōi</text>
+      <text systemLanguage="chr">ᎦᏖᏍᎨ ᎤᏍᏛᏪᏙᎬᎢ</text>
+      <text systemLanguage="ckb">دڕکەپەتک</text>
+      <text systemLanguage="cs">Mícha</text>
+      <text systemLanguage="cy">Llinyn yr asgwrn cefn</text>
+      <text systemLanguage="da">Rygmarv</text>
+      <text systemLanguage="de">Rückenmark</text>
+      <text systemLanguage="dv">ސްޕައިނަލް ކޯޑް</text>
+      <text systemLanguage="el">Νωτιαίος μυελός</text>
+      <text systemLanguage="en">Spinal cord</text>
+      <text systemLanguage="eo"> Mjelo</text>
+      <text systemLanguage="es">Médula espinal</text>
+      <text systemLanguage="et">Seljaaju</text>
+      <text systemLanguage="eu">Bizkarrezur-muin</text>
+      <text systemLanguage="fa">طناب نخاعی</text>
+      <text systemLanguage="fi">Selkäydin</text>
+      <text systemLanguage="fr">Moelle spinale</text>
+      <text systemLanguage="fy">Spinalkord</text>
+      <text systemLanguage="ga">Corda an dromlaigh</text>
+      <text systemLanguage="gl">Medula espiñal</text>
+      <text systemLanguage="gn">Pujase'o karaku</text>
+      <text systemLanguage="hak">Chit-siói</text>
+      <text systemLanguage="he">חוט השדרה</text>
+      <text systemLanguage="hi">मेरुरज्जु</text>
+      <text systemLanguage="hr">Kralježnična moždina</text>
+      <text systemLanguage="hu">Gerincvelő</text>
+      <text systemLanguage="hy">Ողնուղեղ</text>
+      <text systemLanguage="id">Sumsum tulang belakang</text>
+      <text systemLanguage="io">Myelo</text>
+      <text systemLanguage="is">Mæna</text>
+      <text systemLanguage="it">Midollo spinale</text>
+      <text systemLanguage="ja">脊髄</text>
+      <text systemLanguage="ka">ზურგის ტვინი</text>
+      <text systemLanguage="kk">Жұлын</text>
+      <text systemLanguage="kn">ಬೆನ್ನು ಹುರಿ</text>
+      <text systemLanguage="ko">척수</text>
+      <text systemLanguage="ku">Dirkepetik</text>
+      <text systemLanguage="kw">Lovan vellkeyn</text>
+      <text systemLanguage="ky">Жүлүн</text>
+      <text systemLanguage="la">Medulla spinalis</text>
+      <text systemLanguage="lfn">Medula spinal</text>
+      <text systemLanguage="lt">Nugaros smegenys</text>
+      <text systemLanguage="lv">Muguras smadzenes</text>
+      <text systemLanguage="mk">’Рбетен мозок</text>
+      <text systemLanguage="ml">സുഷുമ്നാ നാഡി</text>
+      <text systemLanguage="mr">मज्जारज्जू</text>
+      <text systemLanguage="ms">Saraf tunjang</text>
+      <text systemLanguage="new">तिस्यः</text>
+      <text systemLanguage="nl">Ruggenmerg</text>
+      <text systemLanguage="nn">Ryggmerg</text>
+      <text systemLanguage="no">Ryggmargen</text>
+      <text systemLanguage="oc">Mesoth espinau</text>
+      <text systemLanguage="pl">Rdzeń kręgowy</text>
+      <text systemLanguage="pt">Medula espinhal</text>
+      <text systemLanguage="qu">Ñiqwin</text>
+      <text systemLanguage="ro">Măduva spinării</text>
+      <text systemLanguage="ru">Спинной мозг</text>
+      <text systemLanguage="se">Čielgeađa</text>
+      <text systemLanguage="sh">Kičmena moždina</text>
+      <text systemLanguage="si">සුෂුම්නාව</text>
+      <text systemLanguage="sk">Miecha</text>
+      <text systemLanguage="sl">Hrbtenjača</text>
+      <text systemLanguage="sn">Muzongoza</text>
+      <text systemLanguage="sr">Кичмена мождина</text>
+      <text systemLanguage="sv">Ryggmärg</text>
+      <text systemLanguage="ta">முள்ளந்தண்டு வடம்</text>
+      <text systemLanguage="te">వెన్నుపాము</text>
+      <text systemLanguage="th">ไขสันหลัง</text>
+      <text systemLanguage="tk">Oňurga ýiligi</text>
+      <text systemLanguage="tl">Kordong espinal</text>
+      <text systemLanguage="tr">Omurilik</text>
+      <text systemLanguage="tt">Арка мие</text>
+      <text systemLanguage="uk">Спинний мозок</text>
+      <text systemLanguage="ur">نخاع</text>
+      <text systemLanguage="uz">Orqa miya</text>
+      <text systemLanguage="vi">Tủy sống</text>
+      <text systemLanguage="war">Kordon espinal</text>
+      <text systemLanguage="wuu">脊髓</text>
+      <text systemLanguage="xmf">გაგაჩიშ ტვინი</text>
+      <text systemLanguage="nan">Chek-chhé</text>
+      <text systemLanguage="yue">脊髓</text>
+      <text systemLanguage="zh">脊髓</text>
+      <text systemLanguage="zxx">4</text>
+    </switch>
+  </g>
+</svg>

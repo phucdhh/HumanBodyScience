@@ -19,6 +19,11 @@ Hãy tưởng tượng CNS là bộ xử lý trung tâm, còn PNS là hệ thố
 
 == #term("neuron") — Đơn vị truyền tin
 
+#figure(
+  image("../assets/images/ch04_Complete_neuron_cell_diagram_en.svg", width: 75%),
+  caption: [Cấu trúc của một tế bào thần kinh (neuron)]
+)
+
 Mỗi neuron là một tế bào chuyên biệt để truyền tín hiệu điện. Cấu tạo gồm:
 
 - *Thân tế bào (soma):* Trung tâm chứa nhân và các bào quan.
@@ -27,6 +32,11 @@ Mỗi neuron là một tế bào chuyên biệt để truyền tín hiệu đi�
 - *Đầu tận cùng (axon terminal):* Nơi tín hiệu được chuyển giao cho neuron tiếp theo.
 
 === Tín hiệu thần kinh — Điện và hóa
+
+#figure(
+  image("../assets/images/ch04_Synapse Illustration2 tweaked.svg", width: 70%),
+  caption: [Cấu trúc xi-náp (synapse) - nơi truyền tín hiệu giữa các neuron]
+)
 
 Neuron truyền tin qua hai giai đoạn:
 
@@ -45,6 +55,11 @@ Có nhiều loại chất dẫn truyền, mỗi loại có tác dụng riêng:
 ]
 
 == Bản đồ não bộ — Các khu vực chính
+
+#figure(
+  image("../assets/images/ch04_Brain diagram without text.svg", width: 55%),
+  caption: [Sơ đồ cấu trúc tổng quát của não người]
+)
 
 Não người có thể chia thành các vùng chính, mỗi vùng đảm nhiệm chức năng khác nhau:
 
@@ -65,6 +80,15 @@ Nằm sâu bên trong não, hệ viền xử lý cảm xúc và ký ức. Các c
 - *Vùng dưới đồi (Hypothalamus):* Bộ điều nhiệt và điều hòa nội tiết — kiểm soát đói, khát, thân nhiệt, và ham muốn tình dục.
 
 === Vỏ não (Cerebral cortex) — Nơi suy nghĩ
+
+#figure(
+  image("../assets/images/ch04_Diagram showing the lobes of the brain CRUK 308.svg", width: 70%),
+  caption: [Các thùy của não người]
+)
+
+Vỏ não là lớp ngoài cùng của não, nơi diễn ra các chức năng bậc cao: tư duy, lập kế hoạch, ngôn ngữ, và nhận thức. Chia làm bốn thùy:
+  caption: [Các thùy của não người]
+)
 
 Vỏ não là lớp ngoài cùng của não, nơi diễn ra các chức năng bậc cao: tư duy, lập kế hoạch, ngôn ngữ, và nhận thức. Chia làm bốn thùy:
 

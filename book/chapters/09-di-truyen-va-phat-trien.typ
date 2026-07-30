@@ -10,6 +10,11 @@ Trong chương này, chúng ta sẽ khám phá di truyền học — khoa học 
 
 == ADN — Bản thiết kế sự sống
 
+#figure(
+  image("../assets/images/dna.svg", width: 40%),
+  caption: [Cấu trúc xoắn kép của phân tử ADN]
+)
+
 ADN (deoxyribonucleic acid) là một phân tử hình xoắn kép — giống như hai sợi dây xoắn vào nhau, tạo thành cấu trúc cầu thang xoắn ốc. Mỗi "bậc thang" là một cặp base: A (adenine) với T (thymine), G (guanine) với C (cytosine).
 
 Toàn bộ ADN trong một tế bào — gọi là *genome* — dài khoảng 2 mét nếu duỗi thẳng, nhưng được gói gọn trong nhân tế bào có đường kính chỉ 6 micromet. Cách gói: ADN quấn quanh protein histone tạo thành #term("chromatin"), chromatin cuộn chặt thành #term("nhiem-sac-the") khi tế bào chuẩn bị phân chia @lander2001.
@@ -46,6 +51,11 @@ Hầu hết các tính trạng người — chiều cao, cân nặng, trí thôn
 ]
 
 == Phát triển — Từ một tế bào đến 37 nghìn tỷ
+
+#figure(
+  image("../assets/images/ch09_6 week human embryo nervous system.svg", width: 55%),
+  caption: [Hệ thần kinh phôi người 6 tuần tuổi]
+)
 
 Cuộc đời bạn bắt đầu từ một tế bào duy nhất — hợp tử (fertilized egg) — được tạo thành từ sự kết hợp giữa tinh trùng và trứng. Tế bào đó chứa toàn bộ ADN cần thiết để tạo ra bạn.
 

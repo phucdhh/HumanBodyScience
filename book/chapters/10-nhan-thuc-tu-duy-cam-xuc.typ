@@ -32,6 +32,11 @@ Mỗi khi bạn nhớ lại một ký ức, nó được "tái kích hoạt" và
 
 == Cảm xúc — La bàn sinh tồn
 
+#figure(
+  image("../assets/images/ch10_Gray726-Brodman-prefrontal.svg", width: 55%),
+  caption: [Vỏ não trước trán - vùng não điều hòa cảm xúc và ra quyết định]
+)
+
 Cảm xúc không phải "kẻ thù của lý trí" — chúng là cơ chế sinh tồn được tiến hóa qua hàng triệu năm. Joseph LeDoux, nhà khoa học thần kinh hàng đầu về cảm xúc, chỉ ra rằng cảm xúc là kết quả của các mạch não chuyên biệt đánh giá mức độ quan trọng của kích thích đối với sự sống còn @ledoux2000.
 
 === Sợ hãi — Hệ thống báo động

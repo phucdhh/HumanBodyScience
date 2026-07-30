@@ -12,6 +12,11 @@ Quả tim của bạn đập khoảng 100.000 lần mỗi ngày, 35 triệu lầ
 
 === Cấu trúc
 
+#figure(
+  image("../assets/images/ch07_Heart_numlabels.svg", width: 60%),
+  caption: [Cấu trúc tim người với bốn buồng tim]
+)
+
 Tim là một khối cơ rỗng có bốn buồng:
 
 - *Tâm nhĩ phải:* Nhận máu nghèo oxy từ cơ thể.
@@ -26,6 +31,11 @@ Giữa các buồng tim và giữa tim với động mạch là các van tim —
 Tim tự tạo ra nhịp đập của chính nó — không cần não ra lệnh. Một nhóm tế bào đặc biệt gọi là *nút xoang* (SA node) ở tâm nhĩ phải đóng vai trò máy tạo nhịp tự nhiên, phát xung điện khoảng 60-100 lần/phút. Xung điện lan truyền qua các buồng tim, kích thích chúng co bóp theo đúng trình tự.
 
 == Hệ thống mạch máu — Đường cao tốc của cơ thể
+
+#figure(
+  image("../assets/images/ch07_Circulatory System en.svg", width: 65%),
+  caption: [Hệ tuần hoàn máu trong cơ thể người]
+)
 
 Mạng lưới mạch máu của bạn dài khoảng 100.000 km — gấp 2.5 lần chu vi Trái Đất. Có ba loại mạch chính:
 
@@ -45,6 +55,11 @@ Huyết áp cao (tăng huyết áp) là "kẻ giết người thầm lặng" —
 
 == Máu — Dòng sông sự sống
 
+#figure(
+  image("../assets/images/ch07_Blood vessels-en.svg", width: 75%),
+  caption: [Cấu trúc các loại mạch máu: động mạch, tĩnh mạch và mao mạch]
+)
+
 Máu chiếm khoảng 7-8% trọng lượng cơ thể (khoảng 5 lít ở người 70 kg). Nó gồm:
 
 - *Huyết tương (55%):* Phần lỏng, chứa nước, protein, hormone, chất dinh dưỡng, chất thải.
@@ -57,11 +72,21 @@ Máu chiếm khoảng 7-8% trọng lượng cơ thể (khoảng 5 lít ở ngư�
 
 === Đường dẫn khí
 
+#figure(
+  image("../assets/images/ch07_Respiratory system complete en.svg", width: 55%),
+  caption: [Hệ hô hấp hoàn chỉnh]
+)
+
 Không khí đi từ mũi → hầu → thanh quản → khí quản → phế quản → tiểu phế quản → phế nang. Mỗi bước đều làm ấm, ẩm và lọc không khí.
 
 Phổi trái nhỏ hơn phổi phải một chút vì tim nằm nghiêng về bên trái.
 
 === Phế nang — Nơi trao đổi khí
+
+#figure(
+  image("../assets/images/ch07_Gas exchange in the aveolus simple as.svg", width: 60%),
+  caption: [Trao đổi khí oxy và CO₂ tại phế nang]
+)
 
 Phổi không phải hai túi khí lớn — nó giống như hai miếng bọt biển với khoảng 300-500 triệu phế nang (alveoli). Nếu trải phẳng toàn bộ bề mặt phế nang, nó rộng khoảng 70-100 mét vuông — bằng một sân tennis @west2012.
 

@@ -8,6 +8,11 @@ Mỗi ngày, cơ thể bạn bị tấn công bởi vô số vi khuẩn, virus, 
 
 == Hai lớp phòng thủ
 
+#figure(
+  image("../assets/images/ch06_Layered Defense of the Human Immune System.svg", width: 70%),
+  caption: [Các lớp phòng thủ của hệ miễn dịch]
+)
+
 Hệ miễn dịch có hai lớp bảo vệ, hoạt động phối hợp với nhau:
 
 === Miễn dịch bẩm sinh — Lớp phòng thủ đầu tiên
@@ -20,6 +25,11 @@ Hệ miễn dịch có hai lớp bảo vệ, hoạt động phối hợp với n
 - *Phản ứng viêm:* Khi mô bị tổn thương, cơ thể gửi tín hiệu hóa học (histamine, cytokine) để thu hút tế bào miễn dịch đến — gây sưng, nóng, đỏ, đau. Đây là dấu hiệu hệ miễn dịch đang làm việc.
 
 === Miễn dịch thích ứng — Lớp phòng thủ tinh nhuệ
+
+#figure(
+  image("../assets/images/ch06_Antibody_structure.svg", width: 50%),
+  caption: [Cấu trúc kháng thể hình chữ Y]
+)
 
 Nếu mầm bệnh vượt qua hàng rào bẩm sinh, hệ miễn dịch thích ứng sẽ vào cuộc — chậm hơn (vài ngày) nhưng chính xác và có "trí nhớ". Giống như lực lượng đặc nhiệm được huấn luyện để truy tìm một tên tội phạm cụ thể @janeway2016:
 

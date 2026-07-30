@@ -1,0 +1,96 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="100%" height="100%" viewBox="-384 -335 768 1536">
+ <title>Sankey diagram human circulatory system</title>
+ <desc>A Sankey diagram of the human circulatory system with approximate relative percentages of cardiac output delivered to major organ systems, drawn by CMG Lee based on data at http://www.vhlab.umn.edu/atlas/physiology-tutorial/cardiovascular-function.shtml .</desc>
+ <style type="text/css">
+  #main  { font-size:40px;font-family:Helvetica,Arial,sans-serif;text-anchor:middle;
+           stroke-linejoin:round;stroke-width:2;stroke:none;fill:none; }
+  text   { stroke:none;fill:#000000; }
+  .bold  { font-weight:bold; }
+  .de    { stroke:#0000ff; }
+  .ox    { stroke:#ff0000; }
+  .rect  { stroke:#000000;fill:#ffffff; }
+  .arrow { stroke:#ffffff;stroke-width:10;stroke-linecap:round; }
+ </style>
+ <defs>
+  <g id="base">
+   <path d="M 100  ,-240 H  150 a 100,100 0 0 1  100,100 v 40 m 0,80 v 20" stroke-width="100"/>
+   <path d="M 201.5,  80 V  100 a 100,100 0 0 1 -100,100 H 100" stroke-width="3" />
+   <path d="M 205.5,  80 V  200 a 100,100 0 0 1 -100,100 H 100" stroke-width="5" />
+   <path d="M 211  ,  80 V  300 a 100,100 0 0 1 -100,100 H 100" stroke-width="6" />
+   <path d="M 221  ,  80 V  400 a 100,100 0 0 1 -100,100 H 100" stroke-width="14"/>
+   <path d="M 235.5,  80 V  500 a 100,100 0 0 1 -100,100 H 100" stroke-width="15"/>
+   <path d="M 254  ,  80 V  600 a 100,100 0 0 1 -100,100 H 100" stroke-width="22"/>
+   <path d="M 296  ,  80 V 1050 a 100,100 0 0 1 -100,100 H 100" stroke-width="8" />
+   <rect x="50" y="-100" width="320" height="80" rx="20" ry="20" class="rect"/>
+   <rect x="50" y="0"    width="320" height="80" rx="20" ry="20" class="rect"/>
+  </g>
+  <path id="arrow" d="M 0,40 v -80 m -20,20 l 20,-20 l 20,20" class="arrow"/>
+ </defs>
+ <circle cx="0" cy="0" r="99999" fill="#ffffff"/>
+ <g id="main">
+  <g class="ox">
+   <use xlink:href="#base"/>
+   <path d="M 275.5,  80 V  750 a 100,100 0 0 1 -100,100 H 100" stroke-width="21"/>
+   <path d="M 289  ,  80 V  950 a 100,100 0 0 1 -100,100 H 100" stroke-width="6" />
+   <use xlink:href="#arrow" transform="translate(150,-230) rotate(90)"/>
+   <use xlink:href="#arrow" transform="translate(250, 150) rotate(180)"/>
+  </g>
+  <g transform="scale(-1,1)" class="de">
+   <use xlink:href="#base"/>
+   <path d="M -50  , 930 C  50,930 -50,1020 50 1020"            stroke-width="21"/>
+   <path d="M 278.5,  80 V  950 a 100,100 0 0 1 -100,100 H 100" stroke-width="27"/>
+   <use xlink:href="#arrow" transform="translate(150,-230) rotate(-90)"/>
+   <use xlink:href="#arrow" transform="translate(250, 150)"/>
+  </g>
+  <rect x="-100" y="-300"  width="200" height="120" rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="160"   width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="260"   width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="360"   width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="460"   width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="560"   width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="660"   width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="760"   width="200" height="180" rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="1010"  width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <rect x="-100" y="1110"  width="200" height="80"  rx="20" ry="20" class="rect"/>
+  <g class="bold">
+   <text x="260"  y="-300"><tspan>Pulmonary</tspan><tspan x="280"  dy="32">vein</tspan></text>
+   <text x="-260" y="-300"><tspan>Pulmonary</tspan><tspan x="-300" dy="32">artery</tspan></text>
+   <text x="-210" y="50"  ><tspan>Right atrium</tspan></text>
+   <text x="-210" y="-50" ><tspan>Right ventricle</tspan></text>
+   <text x="210"  y="-50" ><tspan>Left atrium</tspan></text>
+   <text x="210"  y="50"  ><tspan>Left ventricle</tspan></text>
+   <text x="0"    y="-230"><tspan>Lungs</tspan></text>
+   <text x="0"    y="200" ><tspan>Heart</tspan><tspan x="0" dy="32">muscle</tspan></text>
+   <text x="0"    y="310" ><tspan>Bones</tspan></text>
+   <text x="0"    y="410" ><tspan>Skin</tspan></text>
+   <text x="0"    y="510" ><tspan>Brain</tspan></text>
+   <text x="0"    y="600" ><tspan>Skeletal</tspan><tspan x="0" dy="32">muscle</tspan></text>
+   <text x="0"    y="710" ><tspan>Kidneys</tspan></text>
+   <text x="0"    y="800" ><tspan>Gastro-</tspan><tspan x="0" dy="35">intestinal</tspan><tspan x="0" dy="35">system</tspan><tspan x="0" dy="40">&amp; spleen</tspan></text>
+   <text x="0"    y="1060"><tspan>Liver</tspan></text>
+   <text x="0"    y="1160"><tspan>Other</tspan></text>
+  </g>
+  <text x="130"  y="-130"><tspan>100%</tspan></text>
+  <text x="150"  y="160" ><tspan>3%</tspan></text>
+  <text x="150"  y="260" ><tspan>5%</tspan></text>
+  <text x="150"  y="360" ><tspan>6%</tspan></text>
+  <text x="150"  y="460" ><tspan>14%</tspan></text>
+  <text x="150"  y="570" ><tspan>15%</tspan></text>
+  <text x="150"  y="670" ><tspan>22%</tspan></text>
+  <text x="150"  y="820" ><tspan>21%</tspan></text>
+  <text x="150"  y="1020"><tspan>6%</tspan></text>
+  <text x="150"  y="1120"><tspan>8%</tspan></text>
+  <text x="-130" y="-130"><tspan>100%</tspan></text>
+  <text x="-150" y="160" ><tspan>3%</tspan></text>
+  <text x="-150" y="260" ><tspan>5%</tspan></text>
+  <text x="-150" y="360" ><tspan>6%</tspan></text>
+  <text x="-150" y="460" ><tspan>14%</tspan></text>
+  <text x="-150" y="570" ><tspan>15%</tspan></text>
+  <text x="-150" y="670" ><tspan>22%</tspan></text>
+  <text x="-150" y="1020"><tspan>27%</tspan></text>
+  <text x="-150" y="1120"><tspan>8%</tspan></text>
+  <text transform="translate( 320,500) rotate( 90) scale(2)" x="0" y="0"><tspan>Arteries</tspan></text>
+  <text transform="translate(-320,500) rotate(-90) scale(2)" x="0" y="0"><tspan>Veins</tspan></text>
+ </g>
+</svg>

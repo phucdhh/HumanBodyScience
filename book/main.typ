@@ -3,6 +3,16 @@
 #import "config/theme.typ": muc-bang-chung
 #import "glossary/thuat-ngu.typ": term
 
+// Cover page
+#import "config/build_metadata.typ": build-timestamp, build-date
+#cover-page(
+  title: book-title,
+  subtitle: "Khám phá cơ thể người qua lăng kính khoa học",
+  authors: (book-author,),
+  version: build-timestamp,
+  date: build-date,
+)
+
 #show: project.with(
   title: book-title,
   authors: (book-author,),

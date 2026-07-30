@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg font-family="Liberation Sans, Arial, sans-serif" preserveAspectRatio="xMidYMid" viewBox="0 0 1309 1096.9" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <marker id="h" stroke-dasharray="99999" markerHeight="12" markerUnits="userSpaceOnUse" markerWidth="12" orient="auto" preserveAspectRatio="none" refX="12" refY="6" viewBox="0,0,12,12">
+  <path transform="rotate(180 6 6)" d="m12 11-12-5 12-5z"/>
+ </marker>
+ <marker id="k" stroke-dasharray="99999" markerHeight="20" markerUnits="userSpaceOnUse" markerWidth="10" orient="auto" preserveAspectRatio="none" refX="10" refY="10" viewBox="0,0,10,20">
+  <path d="m3 0v20" stroke="#000"/>
+ </marker>
+ <marker id="j" stroke-dasharray="99999" markerHeight="20" markerUnits="userSpaceOnUse" markerWidth="10" orient="auto" preserveAspectRatio="none" refX="10" refY="10" viewBox="0,0,10,20">
+  <path d="m3 0v20" stroke="#000"/>
+ </marker>
+ <symbol id="i" overflow="visible" preserveAspectRatio="none" viewBox="0,0,100,100">
+  <path d="m99.5 50c0 27.338-22.162 49.5-49.5 49.5s-49.5-22.162-49.5-49.5" vector-effect="non-scaling-stroke"/>
+ </symbol>
+ <symbol id="g" overflow="visible" preserveAspectRatio="none" viewBox="0,0,50,50">
+  <circle cx="25" cy="25" r="25" vector-effect="non-scaling-stroke"/>
+ </symbol>
+ <filter id="l" x="-50%" y="-50%" width="200%" height="200%">
+  <feComposite in="SourceGraphic" in2="SourceGraphic" result="doubleDark"/>
+  <feMorphology in="doubleDark" operator="dilate" radius=".167" result="in2Double"/>
+  <feMorphology in="SourceGraphic" operator="dilate" radius="3" result="inDouble"/>
+  <feComposite in="inDouble" in2="in2Double" operator="out" result="doubleResult"/>
+ </filter>
+ <path d="m0 0h1309v1096.9h-1309z" fill="#fff"/>
+ <g transform="translate(110.34 127.16)" fill="none" fill-opacity="0" filter="url(#l)" stroke="#919191" stroke-width="3">
+  <rect transform="matrix(.98985 0 0 .97832 5.94 5.87)" width="1170.1" height="541.42" rx="15"/>
+ </g>
+ <path d="m918.27 629.84 72.983.446" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="67.18,5.8" stroke-width="3"/>
+ <path d="m181.08 649.27h983.69" fill="none" stroke="#000" stroke-dasharray="983.69,0" stroke-width="3"/>
+ <path d="m694.98 179.86v-3.333c0-3.334 0-10 47.336-13.334 47.34-3.333 142-3.333 189.34-7.052s47.34-11.16 47.337-14.876v-3.718" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,5.03,3.02,0,5.8" stroke-width="3"/>
+ <path d="m666.34 434.33-1e-3 39.269" fill="none" marker-end="url(#k)" stroke="#000" stroke-dasharray="32.27,7" stroke-width="3"/>
+ <path d="m666.34 529.6-93.277 46.208" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,5.28,3.17,0,5.8" stroke-width="3"/>
+ <path d="m485.06 575.8v-3.334c0-3.333 0-10-30.81-13.333s-92.43-3.333-123.24 7.859-30.81 33.58-30.81 44.769v11.192" fill="none" marker-end="url(#j)" stroke="#000" stroke-dasharray="5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,3.08,5.13,7" stroke-width="3"/>
+ <path d="m666.19 326.27.149 52.056" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="46.26,5.8" stroke-width="3"/>
+ <path d="m578.19 298.27h-29.626c-29.63 0-88.88 0-118.51-26.492-29.63-26.49-29.63-79.47-29.627-105.96v-26.492" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,3.03,5.04,5.8" stroke-width="3"/>
+ <use transform="matrix(-.99898 0 0 -.98151 1159.4 595.97)" width="977.01" height="53.09" fill="none" stroke="#000" stroke-dasharray="5,3" xlink:href="#i"/>
+ <use transform="matrix(.9892 0 0 .97239 858.33 204.4)" width="275.02" height="105.64" fill="none" stroke="silver" stroke-width="3" xlink:href="#g"/>
+ <path d="m423.57 698.64h223.98v141.23h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m496.05 752.1h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0-80h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="matrix(.70059 .70059 -.602 .602 385.35 227.65)" width="107.58" height="5.73" fill="none" stroke="#000" xlink:href="#g"/>
+ <use transform="rotate(45 -72.9 589.3) scale(.99078 .85136)" width="107.58" height="5.73" fill="none" stroke="#000" xlink:href="#g"/>
+ <path d="m738.61 946.49h223.98v116h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m811.09 1009.7h79.012v24.038h-79.012z" fill="#fff" stroke="#000" stroke-width=".975"/>
+ <path d="m811.09 989.71h79.012v19.048h-79.012zm0 44.99h79.012v19.048h-79.012zm-144.26-552.62h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(725.96 474.57) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <use transform="translate(739.31 486.28) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m586.83 482.08h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(579.31 474.57) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m666.83 502.08h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(725.18 514.57) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <use transform="translate(739.31 504.77) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m449.56 584.28h79.012v19.048h-79.012zm80 0h79.012v19.048h-79.012zm-80.01 24.57h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm80-20h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm137.28-242.04h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(739.31 379.3) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m666.83 406.81h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(739.31 419.3) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m586.83 386.81h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(579.31 379.3) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m666.68 278.75h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(739.16 271.24) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m666.68 298.75h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(739.16 291.24) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m586.68 278.75h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(579.16 271.24) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m821.79 369.96h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(814.27 362.45) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m901.79 369.96h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(974.27 362.45) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m901.79 389.96h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(974.27 402.45) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m919.86 453.13h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm-85.78 38.19h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(826.56 512.55) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m834.08 491.32h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(826.56 494.28) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m834.08 451.32h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(826.56 455.15) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m834.08 471.32h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(826.56 474.28) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m919.86 498.33h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="matrix(.96363 0 0 .93709 986.6 500.4)" width="26.49" height="14.9" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m838.76 620.32h79.012v19.048h-79.012z" fill="none" stroke="#000" stroke-width=".97"/>
+ <path d="m655.47 210.55h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm-82.21-42.21h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm164.42-40h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm-82.21-20h79.012v19.048h-79.012zm-213.23-47.27h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm734.96 87.87h79.012v19.048h-79.012zm-153.1-128.35h79.012v19.048h-79.012zm-64.61-22.56h79.012v19.048h-79.012zm37.81 103.51h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm-84.02-20h79.012v19.048h-79.012zm-652.59 401.9h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m134.11 855.76h223.98v146.34h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m206.59 894.33h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0 40h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0-40h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m423.57 985.86h223.98v73.138h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m496.05 1031.2h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m738.61 698.2h223.98v78.722h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m811.09 749.14h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m1038 904.18h223.98v157.33h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m1110.5 953.73h79.012v19.048h-79.012zm0 79.97h79.012v19.048h-79.012zm0-20h79.012v19.048h-79.012zm0-39.97h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m1038 693.5h223.98v191.45h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m1110.5 737.17h79.012v19.048h-79.012zm0 80.01h79.012v19.048h-79.012zm0-20h79.012v19.048h-79.012zm0-40.01h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0 60.01h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m423.57 861.25h223.98v94.173h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m496.05 927.65h79.012v19.048h-79.012zm0-20h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m134.11 696.13h223.98v138.83h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m206.59 747.18h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0 40h79.012v19.048h-79.012zm0-20h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m738.61 815.75h223.98v97.511h-223.98z" fill="#0f0" fill-opacity=".1" stroke="gray" stroke-dasharray="5,3" stroke-width=".5"/>
+ <path d="m811.09 865.48h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm148.4-689.73h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m578.34 406.33h-58.39c-58.39 0-175.17 0-233.56-44.51s-58.39-133.53-58.39-178.04v-44.51" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,3.05,5.08,5.8" stroke-width="3"/>
+ <path d="m340.07 326.41h79.012v19.048h-79.012zm-143.37-90.5h79.012v19.048h-79.012zm0 20h79.012v19.048h-79.012zm0-40h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <use transform="translate(189.18 208.4) scale(.9375)" width="15" height="15" fill="#fff" stroke="#000" xlink:href="#g"/>
+ <path d="m188.49 119.75h79.012v19.048h-79.012zm172.43.05h79.012v19.048h-79.012z" fill="#fff" stroke="#000" stroke-width=".97"/>
+ <path d="m999 195.27v-57.727" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="5.77,3.46,5.77,3.46,5.77,3.46,5.77,3.46,5.77,3.46,5.77,5.8" stroke-width="3"/>
+ <path d="m989.3 389.48h32.72c32.72 0 98.16 0 130.88-39.335s32.72-118 20.389-157.34c-12.33-39.34-36.99-39.34-49.32-39.335h-12.33" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,5,3,0,5.8" stroke-width="3"/>
+ <path d="m617.07 616.09 63.64.067" fill="none" marker-end="url(#h)" stroke="#000" stroke-dasharray="57.84,5.8" stroke-width="3"/>
+ <text x="999" y="284.25" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Intracellular<tspan x="999" y="297.45">Vesicle</tspan></text>
+ <text x="695.39" y="110.53" fill="#919191" font-size="20" font-weight="bold" stroke="#000" stroke-width="0" text-anchor="middle">Leukocyte </text>
+ <text x="727.93" y="613.56" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Immune-related<tspan x="727.93" y="626.76">genes</tspan></text>
+ <text x="535.56" y="723.39" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Integrin trafficking and distribution </text>
+ <text x="535.56" y="765.62" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAB13 </text>
+ <text x="535.56" y="785.62" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAP1 </text>
+ <text x="535.56" y="805.62" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAPL </text>
+ <text x="535.56" y="825.62" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">SKAP </text>
+ <text x="535.56" y="745.62" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="382.39" y="217.41" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Myosin IIa </text>
+ <text x="246.1" y="1039.54" fill="#14961e" font-size="12" font-weight="bold" stroke="#000" stroke-width="0" text-anchor="middle">Lymphocyte motility, migration,<tspan x="246.1" y="1052.74">thymic egress</tspan></text>
+ <text x="850.6" y="1025.73" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">integrins </text>
+ <text x="850.6" y="964.64" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Lymphocyte adhesion<tspan x="850.6" y="977.84">and extravasation</tspan></text>
+ <text x="850.6" y="1003.24" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RHOA </text>
+ <text x="850.6" y="1048.23" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="733.03" y="484.6" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="746.37" y="496.31" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="706.37" y="495.6" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">YAP </text>
+ <text x="586.37" y="484.6" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="626.37" y="495.6" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">YWHAQ </text>
+ <text x="732.24" y="524.6" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="746.34" y="514.8" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="706.34" y="515.6" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">TAZ </text>
+ <text x="489.07" y="597.8" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">YAP1 </text>
+ <text x="569.07" y="597.8" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">TAZ </text>
+ <text x="489.06" y="622.37" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">TEAD1 </text>
+ <text x="489.06" y="642.37" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">TEAD2 </text>
+ <text x="569.06" y="622.37" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">TEAD3 </text>
+ <text x="569.06" y="642.37" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">TEAD4 </text>
+ <text x="746.37" y="389.33" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="706.37" y="400.33" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LATS1 </text>
+ <text x="746.37" y="429.33" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="706.37" y="420.33" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LATS2 </text>
+ <text x="586.34" y="389.33" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="626.34" y="400.33" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MOB1 </text>
+ <text x="746.22" y="281.27" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="706.22" y="292.27" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST1 </text>
+ <text x="746.22" y="301.27" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="706.22" y="312.27" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST2 </text>
+ <text x="586.19" y="281.27" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="626.19" y="292.27" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">SAV1 </text>
+ <text x="821.33" y="372.48" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="861.33" y="383.48" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MOB1 </text>
+ <text x="981.33" y="372.48" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="941.33" y="383.48" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">NDR1 </text>
+ <text x="981.3" y="412.48" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="941.3" y="403.48" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">NDR2 </text>
+ <text x="959.37" y="466.66" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST1 </text>
+ <text x="959.37" y="486.66" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST2 </text>
+ <text x="833.62" y="522.59" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="873.62" y="524.84" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO6 </text>
+ <text x="833.62" y="504.32" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="873.62" y="504.84" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO4 </text>
+ <text x="833.62" y="465.18" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="873.62" y="464.84" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO1 </text>
+ <text x="833.62" y="484.32" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="873.62" y="484.84" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO3 </text>
+ <text x="999.37" y="510.38" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">Ac </text>
+ <text x="959.37" y="511.85" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXP3 </text>
+ <text x="878.27" y="633.84" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXP3 </text>
+ <text x="694.98" y="224.07" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST1 </text>
+ <text x="694.98" y="244.07" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST2 </text>
+ <text x="612.77" y="201.86" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAP </text>
+ <text x="612.77" y="221.86" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAPL </text>
+ <text x="612.77" y="241.86" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Rac1 </text>
+ <text x="777.19" y="201.86" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">SKAP </text>
+ <text x="777.19" y="221.86" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">ADAP </text>
+ <text x="694.98" y="201.86" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="481.75" y="154.59" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAP </text>
+ <text x="481.75" y="174.59" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAPL </text>
+ <text x="481.75" y="194.59" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Rac1 </text>
+ <text x="1216.7" y="282.46" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Kindlin-3 </text>
+ <text x="1063.64" y="154.12" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Kindlin-3 </text>
+ <text x="999" y="131.55" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="1036.81" y="235.06" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST1 </text>
+ <text x="1036.81" y="255.06" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST2 </text>
+ <text x="952.79" y="235.06" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAB13 </text>
+ <text x="300.2" y="636.96" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Blimp1 </text>
+ <text x="1045.97" y="634.28" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">T.reg Phenotype </text>
+ <text x="246.1" y="907.85" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAP1 </text>
+ <text x="246.1" y="927.85" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RAPL </text>
+ <text x="246.1" y="967.85" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RHOA </text>
+ <text x="246.1" y="987.85" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">CCR7 </text>
+ <text x="246.1" y="880.51" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Lymphocyte polarization </text>
+ <text x="246.1" y="947.85" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="535.56" y="1004.01" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Enhanced BCR humoral response<tspan x="535.56" y="1017.21">in B lymphocytes</tspan></text>
+ <text x="535.56" y="1044.74" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">CD19 </text>
+ <text x="850.6" y="762.67" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">BLIMP1 </text>
+ <text x="850.6" y="716.35" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Terminal differentiation/clonal<tspan x="850.6" y="729.55">expansion of CD8+ T cells</tspan></text>
+ <text x="1150.04" y="922.33" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Maturation/survival of<tspan x="1150.04" y="935.53">T cells in SLO</tspan></text>
+ <text x="1150.04" y="967.26" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">RHOA </text>
+ <text x="1150.04" y="1047.26" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO6 </text>
+ <text x="1150.04" y="1027.26" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO4 </text>
+ <text x="1150.04" y="987.26" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO1 </text>
+ <text x="1150.04" y="1007.26" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO3 </text>
+ <text x="1150.04" y="718.25" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Homeostatic maintenance </text>
+ <text x="1150.04" y="750.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">NORE1B </text>
+ <text x="1150.04" y="830.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO6 </text>
+ <text x="1150.04" y="810.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO4 </text>
+ <text x="1150.04" y="770.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO1 </text>
+ <text x="1150.04" y="790.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO3 </text>
+ <text x="1150.04" y="850.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">miR-21 </text>
+ <text x="1150.04" y="870.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LATS1 </text>
+ <text x="535.56" y="879.4" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Cytoarchitectural<tspan x="535.56" y="892.6">integrity/specificity</tspan></text>
+ <text x="535.56" y="941.17" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LPL </text>
+ <text x="535.56" y="921.17" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="246.1" y="714.28" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">T.h17/T.reg differentiation<tspan x="246.1" y="727.48">of CD4+ T cells</tspan></text>
+ <text x="246.1" y="760.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO1 </text>
+ <text x="246.1" y="780.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXO3 </text>
+ <text x="246.1" y="820.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">p38MAPK </text>
+ <text x="246.1" y="800.7" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">FOXP3 </text>
+ <text x="850.6" y="833.9" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Antigen cross presentation<tspan x="850.6" y="847.1">by APCs</tspan></text>
+ <text x="850.6" y="879.01" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">Kindlin-3 </text>
+ <text x="850.6" y="899.01" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="999" y="209.27" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="379.58" y="339.93" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="236.21" y="249.43" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST1 </text>
+ <text x="236.21" y="269.43" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">MST2 </text>
+ <text x="196.21" y="218.43" font-size="10" stroke="#fff" stroke-width="0" text-anchor="middle">P </text>
+ <text x="236.21" y="229.43" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LPL </text>
+ <text x="228" y="133.27" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="400.43" y="133.32" font-size="12" stroke="#fff" stroke-width="0" text-anchor="middle">LFA-1 </text>
+ <text x="5" y="27" dominant-baseline="central" font-size="12" font-weight="bold" stroke="#fff" stroke-width="0"><tspan x="5" y="18">Name: Overview of leukocyte-intrinsic Hippo pathway functions</tspan><tspan x="5" y="36">Organism: Homo sapiens</tspan></text>
+</svg>

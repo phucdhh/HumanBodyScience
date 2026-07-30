@@ -8,6 +8,11 @@ Mỗi ngày bạn ăn khoảng 1-2 kg thức ăn. Trong vài giờ tới, cơ th
 
 == Hành trình của thức ăn — Từ miệng đến... đầu kia
 
+#figure(
+  image("../assets/images/ch08_Digestive_system_diagram_en.svg", width: 50%),
+  caption: [Hệ tiêu hóa của con người]
+)
+
 === Miệng — Nơi bắt đầu
 
 Tiêu hóa bắt đầu ngay khi bạn nhai. Răng nghiền thức ăn thành miếng nhỏ, nước bọt chứa enzyme amylase bắt đầu phân giải tinh bột. Thức ăn được vo tròn thành viên (bolus) và đẩy xuống thực quản.
@@ -21,6 +26,11 @@ Thực quản là ống cơ dài khoảng 25 cm nối hầu với dạ dày. Cá
 Dạ dày là túi cơ chứa khoảng 1-1.5 lít khi no. Nó tiết ra acid HCl mạnh (pH ~1.5-3.5) — đủ mạnh để hòa tan xương — và enzyme pepsin để phân giải protein @yamada2019. Lớp nhầy dày bảo vệ thành dạ dày khỏi bị tự tiêu hóa. Thức ăn ở lại dạ dày 2-4 giờ trước khi được đẩy xuống ruột non.
 
 === Ruột non — Nơi hấp thu chính
+
+#figure(
+  image("../assets/images/ch02_Layers of the GI Tract EDITED.svg", width: 75%),
+  caption: [Cấu trúc các lớp của thành đường tiêu hóa]
+)
 
 #term("ruot-non") dài khoảng 6 mét, là nơi diễn ra hầu hết quá trình tiêu hóa và hấp thu. Thành ruột non có hàng triệu nếp gấp siêu nhỏ (nhung mao và vi nhung mao), làm tăng diện tích bề mặt lên đến 200 mét vuông — bằng một sân tennis.
 
@@ -54,6 +64,11 @@ Tại đây, *gan* đổ mật (giúp nhũ hóa chất béo) và *tụy* đổ e
 ]
 
 == Hệ vi sinh vật đường ruột — Khu vườn bên trong
+
+#figure(
+  image("../assets/images/ch01_Diagram showing the parts of the body the lymphatic and thoracic ducts drain CRUK 323.svg", width: 55%),
+  caption: [Hệ thống bạch huyết và các bộ phận kết nối với đường ruột]
+)
 
 Như đã giới thiệu ở Chương 1, ruột già của bạn chứa khoảng 38 nghìn tỷ vi khuẩn. Cộng đồng vi sinh này:
 
