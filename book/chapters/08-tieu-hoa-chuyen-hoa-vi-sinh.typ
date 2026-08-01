@@ -23,7 +23,7 @@ Thực quản là ống cơ dài khoảng 25 cm nối hầu với dạ dày. Cá
 
 === Dạ dày — Máy xay hóa học
 
-Dạ dày là túi cơ chứa khoảng 1-1.5 lít khi no. Nó tiết ra acid HCl mạnh (pH ~1.5-3.5) — đủ mạnh để hòa tan xương — và enzyme pepsin để phân giải protein @yamada2019. Lớp nhầy dày bảo vệ thành dạ dày khỏi bị tự tiêu hóa. Thức ăn ở lại dạ dày 2-4 giờ trước khi được đẩy xuống ruột non.
+Dạ dày là túi cơ chứa khoảng 1-1.5 lít khi no. Nó tiết ra acid HCl mạnh (*pH* ~1.5-3.5 — thang đo độ axit/kiềm từ 0-14, trong đó 7 là trung tính, \<7 là axit, \>7 là kiềm) — đủ mạnh để hòa tan xương — và enzyme pepsin để phân giải protein @yamada2019. Lớp nhầy dày bảo vệ thành dạ dày khỏi bị tự tiêu hóa. Thức ăn ở lại dạ dày 2-4 giờ trước khi được đẩy xuống ruột non.
 
 === Ruột non — Nơi hấp thu chính
 

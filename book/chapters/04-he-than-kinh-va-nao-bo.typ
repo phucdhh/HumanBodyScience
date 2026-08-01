@@ -40,7 +40,7 @@ Mỗi neuron là một tế bào chuyên biệt để truyền tín hiệu đi�
 
 Neuron truyền tin qua hai giai đoạn:
 
-1. *Xung điện (action potential):* Một sóng điện di chuyển dọc sợi trục với tốc độ có thể lên đến 120 m/giây. Cơ chế dựa trên sự di chuyển của các ion qua màng tế bào — giống như một làn sóng domino đổ liên tiếp.
+1. *Xung điện (action potential):* Một sóng điện di chuyển dọc sợi trục với tốc độ có thể lên đến 120 m/giây. Cơ chế dựa trên sự di chuyển của các *ion* (nguyên tử mang điện như Na⁺, K⁺, Ca²⁺) qua màng tế bào — giống như một làn sóng domino đổ liên tiếp.
 2. *Chất dẫn truyền thần kinh:* Khi xung điện đến đầu tận cùng, nó kích thích giải phóng các phân tử tín hiệu hóa học — gọi là chất dẫn truyền thần kinh — vào khe #term("synapse") (khe tiếp nối giữa hai neuron). Các phân tử này bơi qua khe, gắn vào thụ thể của neuron bên kia, và kích hoạt xung điện mới @kandel2013.
 
 Có nhiều loại chất dẫn truyền, mỗi loại có tác dụng riêng:

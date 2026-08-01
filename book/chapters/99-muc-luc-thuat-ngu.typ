@@ -1,10 +1,12 @@
 #import "../glossary/thuat-ngu.typ": thuat-ngu
 
-#set heading(numbering: none)
+#set heading(numbering: none, outlined: true)
 
 = Mục lục thuật ngữ
 
 _Danh sách các thuật ngữ khoa học và y học quan trọng trong cuốn sách, kèm định nghĩa và tên tiếng Anh._
+
+#set heading(outlined: false)
 
 == A
 

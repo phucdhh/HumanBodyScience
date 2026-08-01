@@ -32,7 +32,7 @@ Hãy tưởng tượng màng tế bào như một lớp kép phospholipid: các 
 === Các chất đi qua màng thế nào?
 
 - *Thụ động:* Nước, oxy, CO₂ tự do khuếch tán qua màng từ nơi nồng độ cao đến thấp, không tốn năng lượng.
-- *Chủ động:* Để đưa chất ngược chiều nồng độ (như bơm Na⁺ ra ngoài, K⁺ vào trong), tế bào phải tiêu tốn ATP.
+- *Chủ động:* Để đưa chất ngược chiều nồng độ (như bơm Na⁺ ra ngoài, K⁺ vào trong), tế bào phải tiêu tốn năng lượng dưới dạng ATP.
 - *Truyền tín hiệu:* Các protein thụ thể trên màng như ăng-ten, tiếp nhận hormone từ máu và kích hoạt phản ứng bên trong tế bào.
 
 == Bào quan — Các "phòng ban" trong nhà máy tế bào
@@ -44,7 +44,7 @@ Hãy tưởng tượng màng tế bào như một lớp kép phospholipid: các 
 
 Bên trong màng tế bào là tế bào chất — một không gian chứa nhiều bào quan (organelle), mỗi bào quan làm một nhiệm vụ chuyên biệt:
 
-- *#term("ti-the"):* Nhà máy điện của tế bào. Đốt cháy đường và oxy để tạo ra ATP — đồng tiền năng lượng. Đặc biệt, ti thể có DNA riêng và ở người, DNA này chỉ di truyền từ mẹ.
+- *#term("ti-the"):* Nhà máy điện của tế bào. Đốt cháy đường và oxy để tạo ra *ATP* (adenosine triphosphate) — "đồng tiền năng lượng" mà mọi tế bào sử dụng. Đặc biệt, ti thể có DNA riêng và ở người, DNA này chỉ di truyền từ mẹ.
 - *Lưới nội chất (ER):* Có hai loại — ER hạt tổng hợp protein, ER trơn tổng hợp lipid và giải độc.
 - *Bộ máy Golgi:* Bưu điện của tế bào — đóng gói, dán nhãn, và gửi protein đến đúng địa chỉ.
 - *Lysosome:* Đội vệ sinh — chứa enzyme mạnh để tiêu hóa rác thải và vi khuẩn xâm nhập.

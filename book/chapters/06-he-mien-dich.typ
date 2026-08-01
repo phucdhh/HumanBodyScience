@@ -39,7 +39,7 @@ Nếu mầm bệnh vượt qua hàng rào bẩm sinh, hệ miễn dịch thích 
 - *Tế bào nhớ:* Sau khi chiến thắng, một số tế bào B và T trở thành "lính kỳ cựu" — sống hàng chục năm, sẵn sàng phản ứng ngay lập tức nếu cùng mầm bệnh xâm nhập lần sau.
 
 #muc-bang-chung("A")[
-  *Vắc-xin hoạt động thế nào?* Vắc-xin là cách "huấn luyện" hệ miễn dịch thích ứng một cách an toàn — cho nó gặp một phần mầm bệnh đã bị làm yếu hoặc vô hiệu hóa (gọi là kháng nguyên), để nó tạo tế bào nhớ mà không gây bệnh thật @pulendran2011. Khi mầm bệnh thật xâm nhập sau này, hệ miễn dịch đã sẵn sàng — phản ứng nhanh và mạnh đến mức bạn thậm chí không biết mình đã bị nhiễm. Đây là nguyên lý của tiêm chủng — một trong những phát minh y học cứu sống nhiều người nhất lịch sử.
+  *Vắc-xin hoạt động thế nào?* Vắc-xin là cách "huấn luyện" hệ miễn dịch thích ứng một cách an toàn — cho nó gặp một phần mầm bệnh đã bị làm yếu hoặc vô hiệu hóa (gọi là *kháng nguyên* - antigen, bất kỳ chất lạ nào kích hoạt đáp ứng miễn dịch), để nó tạo tế bào nhớ mà không gây bệnh thật @pulendran2011. Khi mầm bệnh thật xâm nhập sau này, hệ miễn dịch đã sẵn sàng — phản ứng nhanh và mạnh đến mức bạn thậm chí không biết mình đã bị nhiễm. Đây là nguyên lý của tiêm chủng — một trong những phát minh y học cứu sống nhiều người nhất lịch sử.
 ]
 
 == Khi hệ miễn dịch hoạt động sai
@@ -60,7 +60,7 @@ Dị ứng là khi hệ miễn dịch phản ứng quá mức với các chất 
 - *Viêm khớp dạng thấp:* Tấn công màng hoạt dịch khớp.
 - *Lupus ban đỏ hệ thống:* Tấn công nhiều cơ quan (da, thận, khớp, não).
 - *Bệnh Hashimoto:* Tấn công tuyến giáp → suy giáp.
-- *Đa xơ cứng:* Tấn công vỏ myelin bọc sợi thần kinh (đã giới thiệu ở Chương 4).
+- *Đa xơ cứng:* Tấn công *vỏ myelin* (lớp bao bọc sợi trục nơ-ron, giống cách điện dây điện, tăng tốc độ truyền tín hiệu lên 100 lần) bọc sợi thần kinh.
 
 Bệnh tự miễn ảnh hưởng đến khoảng 5-10% dân số thế giới, và tỷ lệ này đang tăng — một phần do chẩn đoán tốt hơn, một phần do thay đổi môi trường sống.
 

@@ -2,6 +2,46 @@
 # Lịch sử các phiên bản xuất bản
 
 
+## Phiên bản 2026.08.01.1607 (01/08/2026 16:07)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.01.1607.pdf
+- Kích thước: 6.2M
+- Biên dịch: 01/08/2026 lúc 16:07:46
+
+### Thay đổi
+- Hoan thanh Giai doan 1: Bo sung giai thich 10 thuat ngu quan trong nhat
+- [Tự động] Build thành công
+- Tổng số hình: 35
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.08.01.1602 (01/08/2026 16:02)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.01.1602.pdf
+- Kích thước: 6.2M
+- Biên dịch: 01/08/2026 lúc 16:02:57
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 35
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.08.01.1553 (01/08/2026 15:53)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.01.1553.pdf
+- Kích thước: 6.2M
+- Biên dịch: 01/08/2026 lúc 15:53:43
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 35
+- Tổng số chương: 15
+
+
 ## Phiên bản 2026.07.30.2245 (30/07/2026 22:45)
 
 ### Thông tin file
@@ -10,6 +50,7 @@
 - Biên dịch: 30/07/2026 lúc 22:45:18
 
 ### Thay đổi
+- Them Muc luc thuat ngu va cap nhat he thong dinh nghia
 - [Tự động] Build thành công
 - Tổng số hình: 35
 - Tổng số chương: 15

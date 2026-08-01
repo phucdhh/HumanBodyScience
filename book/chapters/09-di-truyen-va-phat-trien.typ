@@ -23,7 +23,7 @@ Toàn bộ ADN trong một tế bào — gọi là *genome* — dài khoảng 2 
 
 Mỗi #term("gene") là một đoạn ADN mã hóa cho một protein hoặc một RNA chức năng. Con người có khoảng 20.000 gene — ít hơn nhiều so với một cây lúa (khoảng 40.000 gene) hay một con tắc kè (khoảng 24.000 gene). Điều làm chúng ta phức tạp không phải số lượng gene, mà là cách các gene được điều hòa và kết nối với nhau @alberts2022.
 
-Mỗi người có hai bản copy của mỗi gene — một từ cha, một từ mẹ. Các biến thể khác nhau của cùng một gene gọi là *allele*. Ví dụ, gene quy định màu mắt có allele cho mắt nâu và allele cho mắt xanh.
+Mỗi người có hai bản copy của mỗi gene — một từ cha, một từ mẹ. Các biến thể khác nhau của cùng một gene gọi là *allele* (các phiên bản khác nhau của gene). Ví dụ: gene quy định nhóm máu ABO có 3 allele (A, B, O) — bạn nhận một allele từ mỗi bên cha mẹ, tạo ra nhóm máu A, B, AB, hoặc O.
 
 == Di truyền — Con nhà tông
 

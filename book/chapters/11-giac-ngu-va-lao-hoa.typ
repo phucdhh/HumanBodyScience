@@ -19,14 +19,14 @@ Bạn ngủ khoảng 1/3 cuộc đời — 25-30 năm nếu sống 80 tuổi. N�
 
 Một đêm ngủ gồm 4-6 chu kỳ, mỗi chu kỳ khoảng 90 phút @walker2017:
 
-- *NREM (Non-Rapid Eye Movement):* Gồm 3 giai đoạn — từ ngủ nông (dễ thức giấc) đến ngủ sâu (khó đánh thức). Ngủ sâu là lúc cơ thể sửa chữa mô, tăng cường miễn dịch, và củng cố trí nhớ.
-- *REM (Rapid Eye Movement):* Mắt chuyển động nhanh, não hoạt động gần như khi thức, nhưng cơ thể bị "tê liệt" tạm thời (không cử động được). Đây là lúc bạn mơ. REM quan trọng cho xử lý cảm xúc và củng cố trí nhớ.
+- *NREM (Non-Rapid Eye Movement - giai đoạn ngủ không chuyển động mắt nhanh):* Gồm 3 giai đoạn — từ ngủ nông (dễ thức giấc) đến ngủ sâu (khó đánh thức). Ngủ sâu là lúc cơ thể sửa chữa mô, tăng cường miễn dịch, và củng cố trí nhớ.
+- *REM (Rapid Eye Movement - giai đoạn ngủ có chuyển động mắt nhanh):* Mắt chuyển động nhanh, não hoạt động gần như khi thức, nhưng cơ thể bị "tê liệt" tạm thời (không cử động được). Đây là lúc bạn mơ. REM quan trọng cho xử lý cảm xúc và củng cố trí nhớ.
 
 Khi đêm càng về sáng, thời gian REM càng dài — đó là lý do bạn thường nhớ giấc mơ vào gần sáng.
 
 === Tại sao ngủ quan trọng?
 
-- *Não:* Trong khi ngủ, hệ thống *glymphatic* "dọn rác" khỏi não — loại bỏ các protein chất thải (bao gồm beta-amyloid liên quan đến Alzheimer). Ngủ cũng củng cố trí nhớ: thông tin học ban ngày được "chép lại" từ trí nhớ ngắn hạn sang dài hạn.
+- *Não:* Trong khi ngủ, *hệ thống glymphatic* (hệ thống dọn rác của não, hoạt động mạnh khi ngủ, giống như đội vệ sinh làm việc ban đêm) loại bỏ các protein chất thải — bao gồm *beta-amyloid* (protein "rác" tích tụ trong não bệnh nhân Alzheimer, gây chết nơ-ron). Ngủ cũng củng cố trí nhớ: thông tin học ban ngày được "chép lại" từ trí nhớ ngắn hạn sang dài hạn.
 - *Cơ thể:* Ngủ sâu kích thích tiết hormone tăng trưởng (GH) — cần thiết cho sửa chữa mô và phát triển cơ bắp.
 - *Miễn dịch:* Thiếu ngủ làm giảm sản xuất tế bào miễn dịch, tăng nguy cơ nhiễm trùng. Người ngủ dưới 5 tiếng/đêm có nguy cơ cảm lạnh cao gấp 4.5 lần.
 
