@@ -27,24 +27,24 @@ Ví dụ: "Tập thể dục làm giảm huyết áp" là một tuyên bố khoa
 
 Mọi nghiên cứu đều bắt đầu từ một quan sát gây tò mò: "Tại sao người dân vùng Địa Trung Hải lại ít bị bệnh tim hơn?" Từ đó, nhà khoa học đặt giả thuyết, thiết kế thí nghiệm, thu thập dữ liệu, và phân tích kết quả.
 
-Nhưng bước quan trọng nhất đến sau cùng: *bình duyệt đồng nghiệp* (peer review). Trước khi công bố, một nghiên cứu phải được các chuyên gia độc lập khác trong cùng lĩnh vực đọc và phê bình @sackett2000. Đây là bộ lọc chất lượng đầu tiên.
+Nhưng bước quan trọng nhất đến sau cùng: *bình duyệt ngang hàng* (peer review). Trước khi công bố, một nghiên cứu phải được các chuyên gia độc lập khác trong cùng lĩnh vực đọc và phê bình @sackett2000. Đây là bộ lọc chất lượng đầu tiên.
 
 Sau khi công bố, một kết quả chỉ thực sự đáng tin khi các nhóm nghiên cứu *độc lập*, ở các nơi *khác nhau*, có thể làm lại và thu được kết quả tương tự. Đây gọi là *tái lặp* (replication).
 
 #muc-bang-chung("A")[
-  *Tại sao khoa học có thể "sai" — và đó lại là điểm mạnh:* Không phải bài báo khoa học nào qua bình duyệt cũng đúng. Có thể có sai sót trong thiết kế, gian lận dữ liệu, hoặc đơn giản là kết quả ngẫu nhiên. Nhưng chính cơ chế tự sửa sai — qua bình duyệt, tái lặp, và tổng quan hệ thống — làm cho khoa học đáng tin cậy hơn bất kỳ nguồn tri thức nào khác. Không có hệ thống nào khác có khả năng nhận ra và sửa lỗi của chính mình một cách có tổ chức như vậy.
+  *Tại sao khoa học có thể "sai" — và đó lại là điểm mạnh:* Không phải bài báo khoa học nào qua bình duyệt cũng đúng. Có thể có sai sót trong thiết kế, gian lận dữ liệu, hoặc đơn giản là kết quả ngẫu nhiên. Nhưng chính cơ chế tự sửa sai — qua bình duyệt, tái lặp, và tổng quan hệ thống — làm cho Khoa học thực chứng đáng tin cậy hơn bất kỳ nguồn tri thức nào khác. Chưa có hệ thống nào khác có khả năng nhận ra và sửa lỗi của chính mình một cách có tổ chức như vậy.
 ]
 
 == Thang bằng chứng trong y học — Không phải bằng chứng nào cũng như nhau
 
 === Từ chuyện bà hàng xóm đến thử nghiệm lâm sàng
 
-Bà hàng xóm của bạn uống nước lá cây X và huyết áp giảm. Đây có phải bằng chứng lá cây X có tác dụng không? Theo ngôn ngữ y học, đây là một *báo cáo ca bệnh* (case report) — loại bằng chứng yếu nhất. Có thể huyết áp bà giảm vì bà ngủ ngon hơn, bắt đầu đi bộ mỗi sáng, hoặc đơn giản là huyết áp tự nhiên dao động.
+Bà hàng xóm của bạn uống nước lá cây X và huyết áp giảm. Đây có phải bằng chứng lá cây X có tác dụng không? Theo ngôn ngữ y học, đây là một *báo cáo ca bệnh riêng* (case report) — loại bằng chứng yếu nhất. Có thể huyết áp bà giảm vì bà ngủ ngon hơn, bắt đầu đi bộ mỗi sáng, có niềm tin vào X và tinh thần lạc quan hơn khi dùng X, hoặc đơn giản là huyết áp tự nhiên dao động.
 
 Y học đã xây dựng một hệ thống phân cấp để đánh giá độ tin cậy của các loại bằng chứng khác nhau:
 
-- *Ý kiến chuyên gia & báo cáo ca bệnh:* Có giá trị gợi ý hướng nghiên cứu, nhưng chưa đủ để kết luận.
-- *Nghiên cứu quan sát:* Phát hiện *tương quan* (correlation) nhưng không chứng minh được *nhân quả* (causation).
+- *Ý kiến chuyên gia & báo cáo ca bệnh riêng:* Có giá trị gợi ý hướng nghiên cứu, nhưng chưa đủ để kết luận.
+- *Nghiên cứu quan sát:* Phát hiện *tương quan* (correlation - có thấy dấu hiệu thể hiện mối quan hệ qua lại) nhưng không chứng minh được *nhân quả* (causation - cái này là nguyên nhân của cái kia).
 - *Thử nghiệm lâm sàng đối chứng ngẫu nhiên (RCT):* Đây là "tiêu chuẩn vàng" để chứng minh một phương pháp điều trị có hiệu quả hay không @schulz2010.
 - *Tổng quan hệ thống & Phân tích gộp:* Tổng hợp dữ liệu từ nhiều RCT để có bức tranh toàn diện nhất @higgins2011.
 

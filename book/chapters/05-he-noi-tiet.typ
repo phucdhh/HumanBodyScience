@@ -22,9 +22,9 @@ Không giống như tuyến ngoại tiết (tuyến mồ hôi, tuyến nước b
 Nằm ở nền sọ, chỉ to bằng hạt đậu, #term("tuyen-yen") được mệnh danh là "tuyến chủ" — nó tiết ra các hormone ra lệnh cho các tuyến nội tiết khác hoạt động @melmed2020:
 
 - *Hormone tăng trưởng (GH):* Kích thích phát triển xương và cơ.
-- *TSH:* Kích thích #term("tuyen-giap") sản xuất hormone giáp.
-- *ACTH:* Kích thích tuyến thượng thận tiết cortisol.
-- *FSH và LH:* Điều khiển hoạt động sinh dục.
+- *TSH* (thyroid-stimulating hormone): Kích thích #term("tuyen-giap") sản xuất hormone giáp.
+- *ACTH* (adrenocorticotropic hormone): Kích thích tuyến thượng thận tiết cortisol.
+- *FSH* (follicle-stimulating hormone) và *LH* (luteinizing hormone): Điều khiển hoạt động sinh dục — kích thích sản xuất trứng/tinh trùng và hormone sinh dục.
 - *Prolactin:* Kích thích sản xuất sữa mẹ.
 
 === Tuyến giáp (Thyroid gland) — Bộ điều tốc chuyển hóa
@@ -90,7 +90,7 @@ Cơ chế này giống như bộ điều nhiệt: khi phòng đủ ấm, máy s�
 === Đái tháo đường
 
 - *Tiểu đường type 1:* Hệ miễn dịch tấn công tế bào beta của tụy — không sản xuất được insulin. Cần tiêm insulin suốt đời. Thường xuất hiện ở trẻ em và thanh niên.
-- *Tiểu đường type 2:* Tế bào đề kháng với insulin — tụy phải sản xuất nhiều hơn, dần kiệt sức. Liên quan chặt chẽ đến béo phì, ít vận động, và chế độ ăn nhiều đường tinh chế. Có thể kiểm soát bằng thay đổi lối sống và thuốc.
+- *Tiểu đường type 2:* Tế bào *đề kháng với insulin* (insulin resistance — tế bào không đáp ứng insulin bình thường, đường không vào được tế bào) — tụy phải sản xuất nhiều hơn, dần kiệt sức. Liên quan chặt chẽ đến béo phì, ít vận động, và chế độ ăn nhiều đường tinh chế. Có thể kiểm soát bằng thay đổi lối sống và thuốc.
 
 #muc-bang-chung("B")[
   *Hóa chất gây rối loạn nội tiết (EDC):* Nhiều hóa chất nhân tạo — như BPA trong nhựa, phthalates trong mỹ phẩm, và thuốc trừ sâu — có thể can thiệp vào hệ nội tiết bằng cách bắt chước hoặc chặn hormone tự nhiên @oda2018. Các nghiên cứu trên động vật cho thấy EDC liên quan đến vô sinh, dậy thì sớm, và một số loại ung thư. Ở người, bằng chứng còn đang tranh luận và đây là lĩnh vực được nghiên cứu tích cực.

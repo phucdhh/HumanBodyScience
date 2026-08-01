@@ -44,15 +44,11 @@ Quý vị không cần có kiến thức y học nền tảng cao vì mỗi thu�
 
 == Cách đọc cuốn sách
 
-Cuốn sách được thiết kế để có thể đọc tuần tự hoặc nhảy cóc. Nếu bạn quan tâm đến một chủ đề cụ thể — ví dụ não bộ, lão hóa hay Khí công — bạn có thể đi thẳng đến chương đó. Các thuật ngữ được trình bày lại khi cần thiết. Tuy nhiên, chúng tôi khuyên bạn nên đọc *Chương 0 — Phương pháp khoa học* trước tiên. Đây là nền tảng giúp bạn hiểu cách khoa học hoạt động, và tại sao một số điều chúng ta "biết" hôm nay có thể thay đổi vào ngày mai.
+Cuốn sách được thiết kế để có thể đọc tuần tự hoặc nhảy cóc. Nếu bạn quan tâm đến một chủ đề cụ thể — ví dụ não bộ, lão hóa hay Khí công — bạn có thể đi thẳng đến chương đó. Các thuật ngữ được trình bày lại khi cần thiết. Tuy nhiên, chúng tôi khuyên bạn nên đọc *Chương 0 — Phương pháp khoa học* trước tiên. Đây là nền tảng giúp bạn hiểu cách khoa học hoạt động, và tại sao một số điều chúng ta "biết" hôm nay có thể thay đổi vào ngày mai. Cuốn sách này *không thay thế* lời khuyên y tế chuyên nghiệp. Nếu bạn có vấn đề sức khỏe, hãy tham khảo ý kiến bác sĩ. Đây là tài liệu giáo dục, không phải cẩm nang tự chữa bệnh.
 
 == Lời cảm ơn
 
 Cuốn sách này là thành quả của sự đóng góp từ nhiều người: Các nhà khoa học đã dành cả đời nghiên cứu cơ thể người; cộng đồng mã nguồn mở đã chia sẻ công cụ và kiến thức; Wikimedia Commons và các tình nguyện viên đã cung cấp hình ảnh miễn phí; độc giả thử nghiệm đã góp ý để cải thiện từng chương. Đặc biệt, tôi cảm ơn bạn — người đang cầm cuốn sách này. Sự tò mò của bạn là động lực để dự án này tồn tại.
-
-== Khuyến cáo
-
-Cuốn sách này *không thay thế* lời khuyên y tế chuyên nghiệp. Nếu bạn có vấn đề sức khỏe, hãy tham khảo ý kiến bác sĩ. Đây là tài liệu giáo dục, không phải cẩm nang tự chữa bệnh.
 
 == Mời bạn tham gia
 

@@ -38,7 +38,7 @@ Tại đây, *gan* đổ mật (giúp nhũ hóa chất béo) và *tụy* đổ e
 
 === Ruột già — Tái hấp thu và thải bã
 
-#term("ruot-gia") (đại tràng) dài khoảng 1.5 mét, hấp thu nước và điện giải từ chất cặn bã. Tại đây, hệ #term("vi-sinh") lên men chất xơ còn sót lại, tạo ra các axit béo chuỗi ngắn có lợi. Phân được hình thành và thải ra ngoài.
+#term("ruot-gia") (đại tràng) dài khoảng 1.5 mét, hấp thu nước và điện giải từ chất cặn bã. Tại đây, hệ #term("vi-sinh") lên men chất xơ còn sót lại, tạo ra các *axit béo chuỗi ngắn* (*SCFA* - short-chain fatty acids như butyrate, acetate, propionate — nuôi dưỡng tế bào thành ruột và ảnh hưởng tích cực đến chuyển hóa). Phân được hình thành và thải ra ngoài.
 
 == Gan — Nhà máy hóa chất trung tâm
 
@@ -72,7 +72,7 @@ Tại đây, *gan* đổ mật (giúp nhũ hóa chất béo) và *tụy* đổ e
 
 Như đã giới thiệu ở Chương 1, ruột già của bạn chứa khoảng 38 nghìn tỷ vi khuẩn. Cộng đồng vi sinh này:
 
-- Tiêu hóa chất xơ mà enzyme người không phân giải được, tạo ra axit béo chuỗi ngắn nuôi tế bào ruột và ảnh hưởng đến chuyển hóa toàn cơ thể @thursby2017.
+- Tiêu hóa chất xơ mà enzyme người không phân giải được, tạo ra *axit béo chuỗi ngắn* (SCFA) nuôi tế bào ruột và ảnh hưởng đến chuyển hóa toàn cơ thể @thursby2017.
 - Tổng hợp vitamin K và một số vitamin nhóm B.
 - Duy trì hàng rào ruột, ngăn vi khuẩn xâm nhập vào máu.
 - "Huấn luyện" hệ miễn dịch — giúp nó phân biệt bạn với thù.

@@ -44,8 +44,8 @@ Neuron truyền tin qua hai giai đoạn:
 2. *Chất dẫn truyền thần kinh:* Khi xung điện đến đầu tận cùng, nó kích thích giải phóng các phân tử tín hiệu hóa học — gọi là chất dẫn truyền thần kinh — vào khe #term("synapse") (khe tiếp nối giữa hai neuron). Các phân tử này bơi qua khe, gắn vào thụ thể của neuron bên kia, và kích hoạt xung điện mới @kandel2013.
 
 Có nhiều loại chất dẫn truyền, mỗi loại có tác dụng riêng:
-- *Glutamate:* Chất kích thích chính — giúp neuron "bật".
-- *GABA:* Chất ức chế chính — giúp neuron "tắt".
+- *Glutamate:* Chất kích thích chính của não — làm neuron dễ phóng xung điện hơn, giúp neuron "bật".
+- *GABA* (gamma-aminobutyric acid): Chất ức chế chính — làm neuron khó phóng xung điện hơn, giúp neuron "tắt" và ngăn não quá kích thích.
 - *Dopamine:* Liên quan đến động lực, phần thưởng, và khoái cảm.
 - *Serotonin:* Ảnh hưởng đến tâm trạng, giấc ngủ, cảm giác ngon miệng.
 - *Acetylcholine:* Quan trọng cho trí nhớ và co cơ.

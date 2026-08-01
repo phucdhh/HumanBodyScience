@@ -34,8 +34,8 @@ Hệ miễn dịch có hai lớp bảo vệ, hoạt động phối hợp với n
 Nếu mầm bệnh vượt qua hàng rào bẩm sinh, hệ miễn dịch thích ứng sẽ vào cuộc — chậm hơn (vài ngày) nhưng chính xác và có "trí nhớ". Giống như lực lượng đặc nhiệm được huấn luyện để truy tìm một tên tội phạm cụ thể @janeway2016:
 
 - *Tế bào B:* Sản xuất #term("khang-the") — protein hình chữ Y gắn vào mầm bệnh, đánh dấu chúng để tiêu diệt.
-- *Tế bào T hỗ trợ (CD4+):* Chỉ huy — ra lệnh cho các tế bào miễn dịch khác hoạt động.
-- *Tế bào T độc (CD8+):* Sát thủ — tiêu diệt tế bào nhiễm virus hoặc tế bào ung thư.
+- *Tế bào T hỗ trợ* (*CD4+* - tế bào T có protein bề mặt CD4): Chỉ huy — ra lệnh cho các tế bào miễn dịch khác hoạt động.
+- *Tế bào T độc* (*CD8+* - tế bào T có protein bề mặt CD8): Sát thủ — tiêu diệt tế bào nhiễm virus hoặc tế bào ung thư.
 - *Tế bào nhớ:* Sau khi chiến thắng, một số tế bào B và T trở thành "lính kỳ cựu" — sống hàng chục năm, sẵn sàng phản ứng ngay lập tức nếu cùng mầm bệnh xâm nhập lần sau.
 
 #muc-bang-chung("A")[
@@ -46,7 +46,7 @@ Nếu mầm bệnh vượt qua hàng rào bẩm sinh, hệ miễn dịch thích 
 
 === Dị ứng — Nhận định sai mục tiêu
 
-Dị ứng là khi hệ miễn dịch phản ứng quá mức với các chất vô hại — phấn hoa, lông thú, đậu phộng, tôm — như thể chúng là kẻ xâm lược nguy hiểm. Cơ thể giải phóng histamine gây ngứa, hắt hơi, sổ mũi, và trong trường hợp nặng, sốc phản vệ (anaphylaxis) có thể tử vong nếu không cấp cứu kịp thời.
+Dị ứng là khi hệ miễn dịch phản ứng quá mức với các chất vô hại — phấn hoa, lông thú, đậu phộng, tôm — như thể chúng là kẻ xâm lược nguy hiểm. Cơ thể giải phóng *histamine* (chất hóa học gây phản ứng viêm — giãn mạch máu, tăng tiết dịch, kích thích dây thần kinh) gây ngứa, hắt hơi, sổ mũi, và trong trường hợp nặng, sốc phản vệ (anaphylaxis) có thể tử vong nếu không cấp cứu kịp thời.
 
 #muc-bang-chung("C")[
   *Giả thuyết vệ sinh (Hygiene Hypothesis):* Từ những năm 1980, các nhà khoa học nhận thấy trẻ em lớn lên ở nông trại — tiếp xúc nhiều với vi sinh vật, bụi bẩn, và động vật — có tỷ lệ dị ứng và hen suyễn thấp hơn trẻ em thành thị. Giả thuyết vệ sinh cho rằng hệ miễn dịch cần được "huấn luyện" bằng cách tiếp xúc với vi sinh vật từ sớm, nếu không nó sẽ "nhàn rỗi" và quay ra tấn công các chất vô hại @bach2002. Giả thuyết này còn đang được nghiên cứu và tranh luận, nhưng nó giải thích một phần tại sao tỷ lệ dị ứng tăng mạnh ở các nước phát triển.

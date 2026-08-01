@@ -27,7 +27,7 @@ Sau đó, Antonie van Leeuwenhoek, một người Hà Lan tự chế tạo thấ
 
 Bao bọc mọi tế bào là một lớp màng siêu mỏng nhưng cực kỳ tinh vi. Màng tế bào không phải bức tường tĩnh lặng — nó là một cấu trúc năng động, được mô tả bằng *Mô hình khảm động* (Fluid mosaic model) @singer1972.
 
-Hãy tưởng tượng màng tế bào như một lớp kép phospholipid: các phân tử có "đầu" ưa nước quay ra ngoài và "đuôi" kỵ nước quay vào trong, tạo một rào cản chọn lọc. Nhúng trong lớp màng này là các protein — chúng hoạt động như cửa ngõ, máy bơm, và ăng-ten thu tín hiệu.
+Hãy tưởng tượng màng tế bào như một lớp kép *phospholipid* (lipid có nhóm phosphate, tạo cấu trúc 2 lớp với đầu ưa nước và đuôi kỵ nước): các phân tử có "đầu" ưa nước quay ra ngoài và "đuôi" kỵ nước quay vào trong, tạo một rào cản chọn lọc. Nhúng trong lớp màng này là các protein — chúng hoạt động như cửa ngõ, máy bơm, và ăng-ten thu tín hiệu.
 
 === Các chất đi qua màng thế nào?
 
@@ -47,7 +47,7 @@ Bên trong màng tế bào là tế bào chất — một không gian chứa nhi
 - *#term("ti-the"):* Nhà máy điện của tế bào. Đốt cháy đường và oxy để tạo ra *ATP* (adenosine triphosphate) — "đồng tiền năng lượng" mà mọi tế bào sử dụng. Đặc biệt, ti thể có DNA riêng và ở người, DNA này chỉ di truyền từ mẹ.
 - *Lưới nội chất (ER):* Có hai loại — ER hạt tổng hợp protein, ER trơn tổng hợp lipid và giải độc.
 - *Bộ máy Golgi:* Bưu điện của tế bào — đóng gói, dán nhãn, và gửi protein đến đúng địa chỉ.
-- *Lysosome:* Đội vệ sinh — chứa enzyme mạnh để tiêu hóa rác thải và vi khuẩn xâm nhập.
+- *Lysosome:* Đội vệ sinh — chứa *enzyme* (protein xúc tác tăng tốc phản ứng hóa học) mạnh để tiêu hóa rác thải và vi khuẩn xâm nhập.
 - *Bộ xương tế bào:* Mạng lưới vi ống và sợi protein giúp tế bào giữ hình dạng và vận chuyển vật chất bên trong.
 
 == Nhân tế bào — Trung tâm chỉ huy

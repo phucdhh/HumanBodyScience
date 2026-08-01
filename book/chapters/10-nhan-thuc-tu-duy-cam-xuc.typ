@@ -28,7 +28,7 @@ Hầu hết sai lầm trong suy nghĩ đến từ việc Hệ thống 1 đưa ra
 - *Trí nhớ ngắn hạn:* Giữ thông tin khoảng 20-30 giây, giới hạn khoảng 7 mục (số điện thoại bạn vừa tra).
 - *Trí nhớ dài hạn:* Lưu trữ không giới hạn, gồm trí nhớ tường thuật (sự kiện, kiến thức) và trí nhớ thủ tục (kỹ năng — đi xe đạp, đánh răng).
 
-Mỗi khi bạn nhớ lại một ký ức, nó được "tái kích hoạt" và lưu trữ lại — có thể bị thay đổi trong quá trình này. Đây gọi là *tái hợp nhất* (reconsolidation) @schacter2001. Ký ức không phải bản gốc nguyên vẹn, mà là bản sao đã qua chỉnh sửa — điều này giải thích tại sao lời kể của nhân chứng thường không đáng tin như ta nghĩ.
+Mỗi khi bạn nhớ lại một ký ức, nó được "tái kích hoạt" và lưu trữ lại — có thể bị thay đổi trong quá trình này. Đây gọi là *tái hợp nhất* (*reconsolidation* — ký ức được "viết lại" mỗi lần nhớ lại, giống như mở file Word để chỉnh sửa rồi lưu lại) @schacter2001. Ký ức không phải bản gốc nguyên vẹn, mà là bản sao đã qua chỉnh sửa — điều này giải thích tại sao lời kể của nhân chứng thường không đáng tin như ta nghĩ.
 
 == Cảm xúc — La bàn sinh tồn
 

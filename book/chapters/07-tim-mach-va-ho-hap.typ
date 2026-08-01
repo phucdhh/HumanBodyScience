@@ -48,7 +48,7 @@ Mạng lưới mạch máu của bạn dài khoảng 100.000 km — gấp 2.5 l�
 
 #term("huyet-ap") là áp lực máu lên thành động mạch, được đo bằng hai số:
 
-- *Huyết áp tâm thu (số trên):* Áp lực khi tim co bóp — bình thường dưới 120 mmHg.
+- *Huyết áp tâm thu (số trên):* Áp lực khi tim co bóp — bình thường dưới 120 *mmHg* (milimét thủy ngân, đơn vị đo áp suất dựa trên chiều cao cột thủy ngân).
 - *Huyết áp tâm trương (số dưới):* Áp lực khi tim giãn — bình thường dưới 80 mmHg.
 
 Huyết áp cao (tăng huyết áp) là "kẻ giết người thầm lặng" — thường không có triệu chứng cho đến khi gây ra đột quỵ hoặc nhồi máu cơ tim @lawes2008. Khoảng 1/3 người trưởng thành trên thế giới bị tăng huyết áp.
@@ -77,7 +77,7 @@ Máu chiếm khoảng 7-8% trọng lượng cơ thể (khoảng 5 lít ở ngư�
   caption: [Hệ hô hấp hoàn chỉnh]
 )
 
-Không khí đi từ mũi → hầu → thanh quản → khí quản → phế quản → tiểu phế quản → phế nang. Mỗi bước đều làm ấm, ẩm và lọc không khí.
+Không khí đi từ mũi → hầu → thanh quản → khí quản → *phế quản* (hai ống phân nhánh lớn vào hai phổi) → *tiểu phế quản* (các ống nhỏ hơn, phân nhánh như cành cây) → phế nang. Mỗi bước đều làm ấm, ẩm và lọc không khí.
 
 Phổi trái nhỏ hơn phổi phải một chút vì tim nằm nghiêng về bên trái.
 

@@ -34,7 +34,7 @@ Cắt ngang một xương dài, bạn sẽ thấy hai dạng cấu trúc:
 Bạn có biết toàn bộ hệ xương được thay mới hoàn toàn sau mỗi 10 năm? Xương liên tục được tái tạo bởi hai loại tế bào:
 
 - *Hủy cốt bào* (osteoclast): Tiết axit và enzyme để hòa tan xương cũ, giải phóng canxi vào máu.
-- *Tạo cốt bào* (osteoblast): Xây dựng xương mới bằng collagen, sau đó canxi và phốt pho từ máu kết tủa lên để tạo độ cứng.
+- *Tạo cốt bào* (osteoblast): Xây dựng xương mới bằng *collagen* (protein cấu trúc tạo độ đàn hồi), sau đó *canxi* (Ca) và *phốt pho* (P) từ máu kết tủa lên tạo hydroxyapatite — khoáng chất làm xương cứng.
 
 Sự cân bằng giữa hủy và tạo quyết định độ chắc của xương. Nếu hủy quá mạnh hoặc tạo quá chậm, xương sẽ yếu dần.
 
@@ -111,7 +111,7 @@ Từ nháy mắt đến nhịp tim, từ thở nhẹ đến nâng tạ — tất
   caption: [Thuyết trượt sợi: cơ chế co cơ ở cấp độ phân tử]
 )
 
-Cơ co được là nhờ hai loại sợi protein — *actin* (sợi mỏng) và *myosin* (sợi dày) — trượt lên nhau. Cơ chế giống động tác chèo thuyền: đầu myosin bám vào actin, kéo, nhả ra, và bám lại.
+Cơ co được là nhờ hai loại sợi protein — *actin* (sợi mỏng, như đường ray cố định) và *myosin* (sợi dày, như tay chèo có đầu động cơ) — trượt lên nhau. Cơ chế giống động tác chèo thuyền: đầu myosin bám vào actin, kéo, nhả ra, và bám lại.
 
 Quy trình gồm:
 1. Não gửi tín hiệu qua dây thần kinh đến cơ.

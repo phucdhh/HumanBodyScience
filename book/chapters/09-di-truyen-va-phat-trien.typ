@@ -44,10 +44,10 @@ Hầu hết các tính trạng người — chiều cao, cân nặng, trí thôn
 
 #term("dot-bien") là sự thay đổi trong trình tự ADN. Chúng xảy ra tự nhiên mỗi khi tế bào phân chia — khoảng 1-2 đột biến mới mỗi lần phân bào. Hầu hết đột biến vô hại (nằm ở vùng ADN không mã hóa), một số có hại (gây bệnh), và rất hiếm khi có lợi (nguồn nguyên liệu cho tiến hóa).
 
-Đột biến trong *gene sinh ung thư* (oncogene) hoặc *gene ức chế khối u* (tumor suppressor) có thể dẫn đến ung thư. Ung thư là bệnh của ADN: một tế bào tích lũy nhiều đột biến qua thời gian, mất kiểm soát phân chia, và phát triển thành khối u @vogelstein2013.
+Đột biến trong *gene sinh ung thư* (*oncogene* - gene "ga" khi đột biến làm tế bào phân chia mất kiểm soát) hoặc *gene ức chế khối u* (*tumor suppressor* - gene "phanh" khi mất chức năng không còn dừng được phân chia) có thể dẫn đến ung thư. Ung thư là bệnh của ADN: một tế bào tích lũy nhiều đột biến qua thời gian, mất kiểm soát phân chia, và phát triển thành khối u @vogelstein2013.
 
 #muc-bang-chung("A")[
-  *CRISPR — Cắt và sửa ADN:* Năm 2012, các nhà khoa học phát triển CRISPR-Cas9 — một công cụ cho phép cắt ADN tại một vị trí chính xác, như dùng kéo phân tử cắt một câu trong cuốn bách khoa toàn thư 3 tỷ chữ. Công nghệ này có tiềm năng chữa các bệnh di truyền (thiếu máu hồng cầu liềm, xơ nang, Huntington) bằng cách sửa trực tiếp gene đột biến. Tuy nhiên, việc chỉnh sửa gene ở phôi người (thay đổi di truyền cho các thế hệ sau) đặt ra những câu hỏi đạo đức sâu sắc và hiện đang bị cấm hoặc kiểm soát chặt chẽ ở hầu hết các quốc gia.
+  *CRISPR — Cắt và sửa ADN:* Năm 2012, các nhà khoa học phát triển *CRISPR-Cas9* (công cụ chỉnh sửa gene chính xác — giống như GPS tìm vị trí sai + kéo cắt + dán đoạn mới) — một công cụ cho phép cắt ADN tại một vị trí chính xác, như dùng kéo phân tử cắt một câu trong cuốn bách khoa toàn thư 3 tỷ chữ. Công nghệ này có tiềm năng chữa các bệnh di truyền (thiếu máu hồng cầu liềm, xơ nang, Huntington) bằng cách sửa trực tiếp gene đột biến. Tuy nhiên, việc chỉnh sửa gene ở phôi người (thay đổi di truyền cho các thế hệ sau) đặt ra những câu hỏi đạo đức sâu sắc và hiện đang bị cấm hoặc kiểm soát chặt chẽ ở hầu hết các quốc gia.
 ]
 
 == Phát triển — Từ một tế bào đến 37 nghìn tỷ

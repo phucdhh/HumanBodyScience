@@ -12,7 +12,7 @@ Trong chương này, chúng ta sẽ nhìn toàn cảnh trước khi đi vào chi
 
 Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp độ xây dựng trên cấp độ trước:
 
-- *Nguyên tử và phân tử:* Oxy, Carbon, Hydro, Nitơ chiếm hơn 96% khối lượng cơ thể. Từ chúng, cơ thể tạo ra protein, lipid, carbohydrate và DNA.
+- *Nguyên tử và phân tử:* Oxy, Carbon, Hydro, Nitơ chiếm hơn 96% khối lượng cơ thể. Từ chúng, cơ thể tạo ra *protein* (phân tử thực hiện chức năng tế bào), *lipid* (chất béo tạo màng và dự trữ năng lượng), *carbohydrate* (đường và tinh bột, nguồn năng lượng chính), và DNA.
 - *Tế bào:* Đơn vị cơ bản nhất của sự sống. Mỗi tế bào là một "nhà máy" thu nhỏ có khả năng trao đổi chất, phát triển, phản ứng, và sinh sản.
 - *Mô:* Các tế bào cùng loại tập hợp lại. Bốn loại mô cơ bản — biểu bì, liên kết, cơ, thần kinh — là "vật liệu xây dựng" cho toàn bộ cơ thể.
 - *Cơ quan:* Hai hay nhiều loại mô kết hợp để làm một chức năng chuyên biệt — như tim bơm máu, gan lọc độc tố.
@@ -21,7 +21,7 @@ Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp 
 
 === Đặc tính nổi lên — Tổng thể lớn hơn tổng các bộ phận
 
-Một khái niệm quan trọng để hiểu cơ thể là *đặc tính nổi lên* (emergent properties): những đặc điểm xuất hiện ở cấp độ cao hơn mà không thể thấy ở cấp độ thấp hơn.
+Một khái niệm quan trọng để hiểu cơ thể là *đặc tính nổi lên* (emergent properties): những đặc điểm xuất hiện ở cấp độ cao hơn mà không thể thấy ở cấp độ thấp hơn. Ví dụ: nước có thể làm ướt, nhưng hydrogen và oxygen riêng lẻ thì không — đây là đặc tính nổi lên.
 
 Một nguyên tử carbon không có sự sống. Một phân tử DNA cũng không. Nhưng tập hợp đủ số lượng phân tử đúng loại, trong đúng cấu trúc — sự sống xuất hiện. Tương tự, một tế bào thần kinh không có ý thức. Nhưng 86 tỷ tế bào thần kinh với hàng trăm nghìn tỷ kết nối tạo ra ý thức, cảm xúc và ký ức.
 
@@ -29,7 +29,7 @@ Một nguyên tử carbon không có sự sống. Một phân tử DNA cũng kh�
 
 == Bạn không bao giờ "một mình" — Hệ vi sinh vật cộng sinh
 
-Có một sự thật đáng kinh ngạc: cơ thể bạn là nơi sinh sống của khoảng 38 nghìn tỷ vi khuẩn — xấp xỉ bằng số tế bào người trong cơ thể @sender2016. Cùng với nấm, virus và archaea, tổng trọng lượng "cộng đồng vi sinh" này vào khoảng 1.5-2 kg. Về mặt di truyền, chúng sở hữu số gene gấp 150-200 lần gene người.
+Có một sự thật đáng kinh ngạc: cơ thể bạn là nơi sinh sống của khoảng 38 nghìn tỷ vi khuẩn — xấp xỉ bằng số tế bào người trong cơ thể @sender2016. Cùng với nấm, virus và *archaea* (vi sinh vật cổ đại, khác với vi khuẩn), tổng trọng lượng "cộng đồng vi sinh" này vào khoảng 1.5-2 kg. Về mặt di truyền, chúng sở hữu số gene gấp 150-200 lần gene người.
 
 Quan trọng hơn: chúng ta không chỉ "chứa" chúng — chúng ta *phụ thuộc* vào chúng để sống. Hệ vi sinh đường ruột (gut microbiome) đóng vai trò thiết yếu trong:
 
