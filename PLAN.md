@@ -170,8 +170,9 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 
 **Tổng kết:**
 - Nội dung: **Lời nói đầu + 17 chương** (15 chính + 2 bổ sung)
-- Hình ảnh: **35 hình** đã chèn vào 15 chương (100% chương có hình!)
-- Biên dịch: ✓ Thành công (**PDF 6.0 MB**, tăng từ 5.5 MB)
+- Thuật ngữ: **150+ thuật ngữ** với Mục lục A-Z ở cuối sách + giải thích inline khi xuất hiện lần đầu (✅ Hoàn thành cả 3 giai đoạn)
+- Hình ảnh: **33 hình** đã chèn vào 12 chương
+- Biên dịch: ✓ Thành công (**PDF 6.2 MB**, tăng từ 5.5 MB)
 - Hình ảnh có sẵn: 172 file SVG từ Wikimedia Commons
 - **Danh sách hình ảnh:** Tự động sau Mục lục
 
@@ -201,7 +202,7 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
     định kỳ ở Giai đoạn 5.
 
 
-## Cập nhật tiến độ mới nhất (30/07/2026)
+## Cập nhật tiến độ mới nhất (01/08/2026)
 
 ### Đã hoàn thành
 
@@ -211,14 +212,22 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
 - ~50 thuật ngữ song ngữ Việt-Anh trong glossary
 - ~40 tài liệu tham khảo trong references.bib
 
+✅ **Thuật ngữ (Hoàn thành 100%):**
+- **150+ thuật ngữ** trong Mục lục thuật ngữ (99-muc-luc-thuat-ngu.typ) sắp xếp A-Z
+- **36 thuật ngữ được giải thích inline** khi xuất hiện lần đầu tiên trong sách:
+  - Giai đoạn 1: 10 thuật ngữ quan trọng nhất (ATP, Ion, Kháng nguyên, Hemoglobin, pH, Allele, NREM/REM, Glymphatic, Beta-amyloid, Myelin)
+  - Giai đoạn 2: 20 thuật ngữ mức CAO (Protein/Lipid/Carbohydrate, Phospholipid, Enzyme, Collagen, Myosin/Actin, Glutamate/GABA, TSH/ACTH/FSH/LH, Insulin resistance, CD4+/CD8+, Histamine, mmHg, Phế quản vs Tiểu phế quản, SCFA, Oncogene/Tumor suppressor, CRISPR-Cas9, Reconsolidation)
+  - Giai đoạn 3: 6 thuật ngữ mức TRUNG BÌNH (Prolactin/Oxytocin, Tâm nhĩ vs Tâm thất, Dominant vs Recessive, Circadian rhythm, Khí, 12 kinh mạch chính)
+- 3 hàm hỗ trợ: `term()`, `term-en()`, `define()`
+
 ✅ **Hình ảnh:**
 - 172 hình ảnh được tải từ Wikimedia Commons (Public Domain, CC BY-SA, CC0)
-- **33 hình** đã được chèn vào 12 chương với caption mô tả (tăng từ 20 hình)
+- **33 hình** đã được chèn vào 12 chương với caption mô tả
 - Tạo file README.md và attributions.json hướng dẫn sử dụng
 - **Danh sách hình ảnh tự động** sau Mục lục
 
 ✅ **Biên dịch:**
-- **PDF 5.5 MB** biên dịch thành công (tăng từ 4.2 MB)
+- **PDF 6.2 MB** biên dịch thành công
 - CI/CD tự động qua GitHub Actions
 - Script download_images.py để tải thêm hình
 
