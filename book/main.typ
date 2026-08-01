@@ -19,7 +19,10 @@
 )
 
 // Các chương
+#pagebreak()
+#set heading(numbering: "1.", outlined: true)
 #include "chapters/loi-noi-dau.typ"
+#pagebreak()
 #include "chapters/00-nhap-mon.typ"
 #include "chapters/01-co-the-nguoi-la-gi.typ"
 #include "chapters/02-te-bao-va-mo.typ"
@@ -34,13 +37,20 @@
 #include "chapters/11-giac-ngu-va-lao-hoa.typ"
 #include "chapters/12-co-the-nguoi-va-than-hoc.typ"
 #include "chapters/13-y-hoc-hien-dai-truyen-thong.typ"
+#pagebreak()
+#pagebreak()
 #include "chapters/14-suc-khoe-benh-tat-phong-ngua.typ"
 
-// Phụ lục
+// === PHỤ LỤC - CHƯƠNG BỔ SUNG ===
 #pagebreak()
-#include "chapters/99-muc-luc-thuat-ngu.typ"
 #include "chapters/15-he-thong-kinh-mach.typ"
+#pagebreak()
 #include "chapters/16-khi-cong.typ"
+
+// === PHỤ LỤC - MỤC LỤC THUẬT NGỮ ===
+#pagebreak()
+#set heading(numbering: none, outlined: true)
+#include "chapters/99-muc-luc-thuat-ngu.typ"
 
 // Tài liệu tham khảo
 #bibliography("bibliography/references.bib", style: "apa", title: "Tài liệu tham khảo")
