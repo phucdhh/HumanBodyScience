@@ -154,7 +154,7 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 | 1 | Cơ thể người là gì? | Đang phản biện | ✓ (2) |
 | 2 | Tế bào và mô | Đang phản biện | ✓ (5) |
 | 3 | Hệ xương và cơ | Đang phản biện | ✓ (3) |
-| 4 | Hệ thần kinh và não bộ | Đang phản biện | ✓ (6) |
+| 4 | Hệ thần kinh | Đang phản biện | ✓ (6) |
 | 5 | Hệ nội tiết | Đang phản biện | ✓ (3) |
 | 6 | Hệ miễn dịch | Đang phản biện | ✓ (2) |
 | 7 | Tim mạch và hô hấp | Đang phản biện | ✓ (5) |

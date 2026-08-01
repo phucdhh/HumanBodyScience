@@ -76,7 +76,7 @@ Nguyên tắc: **không để độc giả phải tự đoán** một khẳng đ
 1.  Cơ thể người là gì?
 2.  Tế bào và mô.
 3.  Hệ xương và cơ.
-4.  Hệ thần kinh và não bộ.
+4.  Hệ thần kinh.
 5.  Hệ nội tiết.
 6.  Hệ miễn dịch.
 7.  Tim mạch và hô hấp.
