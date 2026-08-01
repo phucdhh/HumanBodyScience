@@ -35,6 +35,10 @@
 #include "chapters/12-co-the-nguoi-va-than-hoc.typ"
 #include "chapters/13-y-hoc-hien-dai-truyen-thong.typ"
 #include "chapters/14-suc-khoe-benh-tat-phong-ngua.typ"
+
+// Phụ lục
+#pagebreak()
+#include "chapters/99-muc-luc-thuat-ngu.typ"
 #include "chapters/15-he-thong-kinh-mach.typ"
 #include "chapters/16-khi-cong.typ"
 
