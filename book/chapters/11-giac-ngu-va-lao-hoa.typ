@@ -38,7 +38,7 @@ Khi đêm càng về sáng, thời gian REM càng dài — đó là lý do bạn
 
 #figure(
   image("../assets/images/ch11_Biological clock human.svg", width: 70%),
-  caption: [Đồng hồ sinh học điều hòa nhịp sinh học theo chu kỳ 24 giờ]
+  caption: [Đồng hồ sinh học điều hòa nhịp sinh học (*circadian rhythm* - nhịp điệu sinh lý theo chu kỳ 24 giờ, như giấc ngủ-thức, thân nhiệt, hormone) dựa trên ánh sáng]
 )
 
 Lão hóa là sự suy giảm dần chức năng của các mô và cơ quan theo thời gian. Đây là quá trình tự nhiên, không phải bệnh — nhưng nó làm tăng nguy cơ mắc nhiều bệnh (tim mạch, ung thư, Alzheimer, loãng xương).

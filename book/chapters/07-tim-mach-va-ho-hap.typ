@@ -19,10 +19,10 @@ Quả tim của bạn đập khoảng 100.000 lần mỗi ngày, 35 triệu lầ
 
 Tim là một khối cơ rỗng có bốn buồng:
 
-- *Tâm nhĩ phải:* Nhận máu nghèo oxy từ cơ thể.
-- *Tâm thất phải:* Bơm máu lên phổi để lấy oxy.
-- *Tâm nhĩ trái:* Nhận máu giàu oxy từ phổi.
-- *Tâm thất trái:* Bơm máu giàu oxy đi khắp cơ thể — đây là buồng tim khỏe nhất.
+- *Tâm nhĩ phải:* Nhận máu nghèo oxy từ cơ thể (buồng thu nhỏ, thành mỏng).
+- *Tâm thất phải:* Bơm máu lên phổi để lấy oxy (buồng bơm, thành dày hơn).
+- *Tâm nhĩ trái:* Nhận máu giàu oxy từ phổi (buồng thu nhỏ, thành mỏng).
+- *Tâm thất trái:* Bơm máu giàu oxy đi khắp cơ thể — đây là buồng tim khỏe nhất (thành dày nhất, cơ mạnh nhất).
 
 Giữa các buồng tim và giữa tim với động mạch là các van tim — giống như cửa một chiều, đảm bảo máu chỉ chảy một hướng, không chảy ngược.
 

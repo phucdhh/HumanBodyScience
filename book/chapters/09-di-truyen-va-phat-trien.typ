@@ -34,7 +34,11 @@ Các quy luật di truyền cơ bản được nhà sư người Áo Gregor Mend
 - Mỗi tính trạng do hai allele quy định (một từ cha, một từ mẹ).
 - Một số allele *trội* (dominant) — chỉ cần một bản copy là đủ để biểu hiện. Số khác *lặn* (recessive) — cần hai bản copy mới biểu hiện.
 
-Ví dụ: allele mắt nâu là trội so với allele mắt xanh. Nếu bạn có một allele nâu và một allele xanh, mắt bạn sẽ nâu.
+Ví dụ: allele mắt nâu (B) là trội so với allele mắt xanh (b). Nếu bạn có:
+- BB hoặc Bb → mắt nâu (allele trội "át" allele lặn)
+- bb → mắt xanh (chỉ khi có 2 allele lặn)
+
+Một ví dụ khác: bệnh xơ nang (cystic fibrosis) do allele lặn — chỉ biểu hiện khi người đó nhận 2 allele bệnh (một từ mỗi bên cha mẹ).
 
 === Ngoài Mendel — Di truyền phức tạp hơn
 

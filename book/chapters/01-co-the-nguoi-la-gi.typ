@@ -2,11 +2,11 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Cơ thể người là gì?
+= CƠ THỂ NGƯỜI LÀ GÌ?
 
-Cơ thể bạn là một trong những cỗ máy phức tạp nhất trong vũ trụ đã biết. Nó có khoảng 37 nghìn tỷ tế bào — nhiều hơn số ngôi sao trong dải Ngân Hà. Các tế bào này thuộc hơn 200 loại khác nhau, phối hợp nhịp nhàng để tạo ra bạn: một người biết suy nghĩ, cảm nhận, vận động và mơ ước.
+Cơ thể bạn là một trong những cỗ máy phức tạp nhất trong vũ trụ đã biết. Nó có khoảng 37 nghìn tỷ tế bào — nhiều hơn số ngôi sao trong dải Ngân Hà. Các tế bào này thuộc hơn 200 loại khác nhau, phối hợp nhịp nhàng để tạo ra cơ thể bạn. Hơn nữa cơ thể mới chỉ là phần thân xác, còn có tinh thần, "linh hồn",... mới có thể tạo nên một người biết suy nghĩ, cảm nhận, vận động, mơ ước, và có bản ngã.
 
-Trong chương này, chúng ta sẽ nhìn toàn cảnh trước khi đi vào chi tiết từng hệ cơ quan ở các chương sau.
+Trong chương này, chúng ta sẽ nhìn toàn cảnh trước khi đi vào chi tiết từng hệ cơ quan của cơ thể người ở các chương sau.
 
 == Từ nguyên tử đến con người — Các cấp độ tổ chức của sự sống
 
@@ -17,11 +17,13 @@ Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp 
 - *Mô:* Các tế bào cùng loại tập hợp lại. Bốn loại mô cơ bản — biểu bì, liên kết, cơ, thần kinh — là "vật liệu xây dựng" cho toàn bộ cơ thể.
 - *Cơ quan:* Hai hay nhiều loại mô kết hợp để làm một chức năng chuyên biệt — như tim bơm máu, gan lọc độc tố.
 - *Hệ cơ quan:* Các cơ quan phối hợp với nhau. Ví dụ: hệ tiêu hóa gồm miệng, thực quản, dạ dày, ruột, gan, tụy.
-- *Cơ thể:* Tất cả các hệ vận hành đồng bộ để tạo nên *bạn*.
+- *Cơ thể:* Tất cả các hệ vận hành đồng bộ với một "Hệ điều hành" - nói theo ngôn ngữ máy tính - để tạo nên *bạn*.
+
+Vậy thì dưới nguyên tử (nhỏ hơn cả nguyên tử) thì sao? Khoa học thực chứng đã cho thấy có những hạt nhỏ hơn cấu thành nên nguyên tử, và những hạt nhỏ hơn đó lại được cấu thành từ những hạt nhỏ hơn nữa. Bạn hãy tự tìm hiểu xem. Tương tự, bạn cũng có thể đặt câu hỏi, nếu xét thân thể người như một đơn vị cho một tổng thể nào đó, thì tổng thể đó là gì? Và nếu tổng thể đó lại được xem như là một đơn vị để cấu thành nên tổng thể lớn hơn, thì tổng thể lớn hơn đó là gì?
 
 === Đặc tính nổi lên — Tổng thể lớn hơn tổng các bộ phận
 
-Một khái niệm quan trọng để hiểu cơ thể là *đặc tính nổi lên* (emergent properties): những đặc điểm xuất hiện ở cấp độ cao hơn mà không thể thấy ở cấp độ thấp hơn. Ví dụ: nước có thể làm ướt, nhưng hydrogen và oxygen riêng lẻ thì không — đây là đặc tính nổi lên.
+Một khái niệm quan trọng để hiểu cơ thể là *đặc tính nổi lên* (emergent properties): những đặc điểm xuất hiện ở cấp độ cao hơn mà không thể (hoặc rất khó) thấy ở cấp độ thấp hơn. Ví dụ: nước có thể làm ướt, nhưng hydrogen và oxygen riêng lẻ thì không — đây là đặc tính nổi lên.
 
 Một nguyên tử carbon không có sự sống. Một phân tử DNA cũng không. Nhưng tập hợp đủ số lượng phân tử đúng loại, trong đúng cấu trúc — sự sống xuất hiện. Tương tự, một tế bào thần kinh không có ý thức. Nhưng 86 tỷ tế bào thần kinh với hàng trăm nghìn tỷ kết nối tạo ra ý thức, cảm xúc và ký ức.
 

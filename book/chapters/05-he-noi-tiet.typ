@@ -25,7 +25,8 @@ Nằm ở nền sọ, chỉ to bằng hạt đậu, #term("tuyen-yen") được 
 - *TSH* (thyroid-stimulating hormone): Kích thích #term("tuyen-giap") sản xuất hormone giáp.
 - *ACTH* (adrenocorticotropic hormone): Kích thích tuyến thượng thận tiết cortisol.
 - *FSH* (follicle-stimulating hormone) và *LH* (luteinizing hormone): Điều khiển hoạt động sinh dục — kích thích sản xuất trứng/tinh trùng và hormone sinh dục.
-- *Prolactin:* Kích thích sản xuất sữa mẹ.
+- *Prolactin:* Kích thích sản xuất sữa mẹ sau sinh.
+- *Oxytocin:* Kích thích co tử cung khi sinh nở và phản xạ tiết sữa, cũng liên quan đến gắn kết xã hội và niềm tin.
 
 === Tuyến giáp (Thyroid gland) — Bộ điều tốc chuyển hóa
 

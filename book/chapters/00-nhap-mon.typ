@@ -52,7 +52,7 @@ Y học đã xây dựng một hệ thống phân cấp để đánh giá độ 
 
 Hãy tưởng tượng bạn muốn biết thuốc X có chữa được bệnh Y không. Cách làm khoa học là:
 
-1. *Ngẫu nhiên hóa:* Chia bệnh nhân thành hai nhóm hoàn toàn ngẫu nhiên. Một nhóm uống thuốc X, nhóm kia uống giả dược (viên đường, không có thuốc). Việc ngẫu nhiên đảm bảo hai nhóm tương đồng về mọi mặt trước khi bắt đầu.
+1. *Ngẫu nhiên hóa:* Chia bệnh nhân thành hai nhóm hoàn toàn ngẫu nhiên. Một nhóm uống thuốc X, nhóm kia uống giả dược (viên đường chẳng hạn, có hình dáng bên ngoài giống viên thuốc nhưng không có thuốc). Việc ngẫu nhiên đảm bảo hai nhóm tương đồng về nhiều khía cạnh trước khi bắt đầu.
 2. *Mù đôi:* Cả bệnh nhân lẫn bác sĩ đều không biết ai uống thuốc thật, ai uống giả dược. Điều này loại trừ hiệu ứng tâm lý — bệnh nhân có thể khỏe hơn chỉ vì tin mình được điều trị (hiệu ứng giả dược).
 3. *So sánh:* Nếu nhóm uống thuốc X khỏe hơn nhóm giả dược một cách rõ rệt, ta có thể kết luận thuốc X có tác dụng.
 
@@ -72,20 +72,20 @@ Ngay cả các RCT tốt nhất cũng không hoàn hảo:
 
 === "Có ý nghĩa thống kê" ≠ "Có ý nghĩa lâm sàng"
 
-Một hiểu lầm phổ biến: Một nghiên cứu với 10.000 người phát hiện thuốc làm giảm huyết áp 1.2 mmHg, với p < 0.001 (rất có ý nghĩa thống kê). Bạn có nên uống thuốc này không? Gần như chắc chắn là không. 1.2 mmHg là mức thay đổi quá nhỏ để có lợi ích sức khỏe thực tế — nó nằm trong phạm vi dao động tự nhiên của huyết áp trong ngày. Với mẫu đủ lớn, ngay cả khác biệt vô nghĩa cũng có thể "có ý nghĩa thống kê".
+Một hiểu lầm phổ biến: Một nghiên cứu với 10.000 người phát hiện thuốc X làm giảm huyết áp thêm 1.2 mmHg, với p < 0.001 (rất có ý nghĩa thống kê). Bạn có nên uống thuốc X này không? Gần như chắc chắn là không. Con số 1.2 mmHg là mức thay đổi quá nhỏ để có lợi ích sức khỏe thực tế — nó nằm trong phạm vi dao động tự nhiên của huyết áp trong ngày. Với mẫu đủ lớn, ngay cả khác biệt vô nghĩa cũng có thể "có ý nghĩa thống kê".
 
 #muc-bang-chung("C")[
-  *Cuộc khủng hoảng tái lặp:* Khi các nhà nghiên cứu độc lập thử làm lại nhiều nghiên cứu nổi tiếng đã công bố trên các tạp chí hàng đầu, chỉ khoảng 30-50% cho ra kết quả tương tự @opensciencecollaboration2015. Điều này không có nghĩa "khoa học nói dối". Nó cho thấy khoa học tự vận hành: những kết quả không tái lặp được sẽ dần bị loại bỏ. Bài học cho bạn đọc: hãy cẩn thận với tiêu đề "Nghiên cứu mới phát hiện...". Một nghiên cứu đơn lẻ hiếm khi thay đổi bức tranh toàn cảnh.
+  *Cuộc khủng hoảng tái lặp:* Khi các nhà nghiên cứu độc lập thử làm lại nhiều nghiên cứu nổi tiếng đã công bố trên các tạp chí hàng đầu, chỉ khoảng 30-50% cho ra kết quả tương tự @opensciencecollaboration2015. Điều này không có nghĩa "khoa học nói dối". Nó cho thấy khoa học đang tự vận hành: những kết quả không tái lặp được sẽ dần bị loại bỏ. Bài học cho bạn đọc là hãy cẩn thận với tiêu đề "Nghiên cứu mới phát hiện...". Một nghiên cứu đơn lẻ hiếm khi thay đổi bức tranh toàn cảnh.
 ]
 
 == Cách đọc thông tin y tế thông minh
 
 Mỗi khi đọc một tin tức sức khỏe, quảng cáo thực phẩm chức năng, hay lời khuyên y tế, hãy tự hỏi 5 điều @ioannidis2005:
 
-1. *Bằng chứng từ đâu?* Ý kiến cá nhân? Nghiên cứu quan sát? RCT? Tổng quan hệ thống?
-2. *Nghiên cứu trên ai?* Kết quả trên chuột không thể tự động áp dụng cho người.
-3. *Có nhóm chứng không?* "100 người dùng và 80 người thấy tốt hơn" — tốt hơn so với *ai*?
-4. *Ai tài trợ?* Thông tin này thường được công bố ở cuối bài báo.
+1. *Bằng chứng từ đâu?* Từ ý kiến cá nhân? Nghiên cứu quan sát? RCT? hay tổng quan hệ thống?
+2. *Nghiên cứu trên đối tượng nào?* Kết quả trên chuột không thể tự động áp dụng cho người.
+3. *Có nhóm đối chứng không?* "100 người dùng và 80 người thấy tốt hơn" — tốt hơn so với *ai*?
+4. *Ai tài trợ?* Thông tin này thường được công bố ở cuối bài báo, hoặc có khi giấu kín.
 5. *Đã được tái lặp chưa?* Nhiều nghiên cứu độc lập đồng thuận đáng tin hơn một nghiên cứu "đột phá".
 
 === Hệ thống mức bằng chứng trong cuốn sách này
@@ -95,10 +95,10 @@ Suốt cuốn sách, mỗi tuyên bố quan trọng sẽ được gắn một m�
 - *A — Đã kiểm chứng vững chắc:* Nhiều RCT chất lượng cao hoặc tổng quan hệ thống.
 - *B — Bằng chứng khá tốt:* Có nghiên cứu ủng hộ nhưng chưa đạt đồng thuận hoàn toàn.
 - *C — Giả thuyết đang nghiên cứu:* Dữ liệu ban đầu hứa hẹn nhưng chưa đủ kết luận.
-- *D — Quan niệm truyền thống/dân gian:* Trình bày như hiện tượng văn hóa, không gán nhãn "khoa học".
+- *D — Quan niệm truyền thống/dân gian:* Trình bày như hiện tượng văn hóa, không gán nhãn "Khoa học thực chứng".
 
 #muc-bang-chung("D")[
-  *"Tự nhiên là tốt, nhân tạo là xấu":* Một lầm tưởng phổ biến. Asen, botulinum toxin (chất độc mạnh nhất đã biết), và nhiều virus chết người đều hoàn toàn "tự nhiên". Insulin tổng hợp cứu sống hàng triệu người tiểu đường mỗi ngày. Câu hỏi đúng đắn không phải "Tự nhiên hay nhân tạo?" mà là "Bằng chứng về an toàn và hiệu quả của nó thế nào?"
+  *"Tự nhiên là tốt, nhân tạo là xấu":* Một lầm tưởng phổ biến. Asen, botulinum toxin (chất độc mạnh nhất đã biết), và nhiều virus chết người đều hoàn toàn "tự nhiên". Insulin tổng hợp giúp cứu và duy trị sự sống hàng triệu người tiểu đường mỗi ngày. Câu hỏi đúng đắn không phải "Tự nhiên hay nhân tạo?" mà là "Bằng chứng về an toàn và hiệu quả của nó thế nào?"
 ]
 
 #question-section()

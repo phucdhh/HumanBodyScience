@@ -4,11 +4,15 @@
 
 = Hệ thống kinh mạch
 
-Trong y học cổ truyền phương Đông, #term("khi") là năng lượng sống chảy trong cơ thể qua một hệ thống các kênh gọi là #term("kinh-mach"). Hệ thống này là một trong những trụ cột của lý thuyết Đông y, cùng với #term("am-duong") và #term("ngu-hanh"). Chương này trình bày hệ thống kinh mạch như một *hiện tượng lịch sử và văn hóa* — đồng thời xem xét các bằng chứng khoa học hiện đại liên quan.
+Trong y học cổ truyền phương Đông, #term("khi") (khí - khái niệm năng lượng sống trong Đông y, không tương đương chính xác với bất kỳ khái niệm sinh lý nào, nhưng gần nhất có thể là: lưu lượng máu + oxy + năng lượng tế bào + hoạt động thần kinh) là năng lượng sống chảy trong cơ thể qua một hệ thống các kênh gọi là #term("kinh-mach"). Hệ thống này là một trong những trụ cột của lý thuyết Đông y, cùng với #term("am-duong") và #term("ngu-hanh"). Chương này trình bày hệ thống kinh mạch như một *hiện tượng lịch sử và văn hóa* — đồng thời xem xét các bằng chứng khoa học hiện đại liên quan.
 
 == Nguồn gốc lịch sử
 
-Hệ thống kinh mạch lần đầu được hệ thống hóa trong *Hoàng Đế Nội Kinh* (黄帝内经), bộ sách y học cổ điển Trung Quốc ra đời khoảng thế kỷ 2 trước Công nguyên. Theo đó, cơ thể có 12 kinh mạch chính (6 kinh âm, 6 kinh dương) tương ứng với 12 tạng phủ, và 8 kỳ kinh (trong đó Đốc mạch và Nhâm mạch là quan trọng nhất).
+Hệ thống kinh mạch lần đầu được hệ thống hóa trong *Hoàng Đế Nội Kinh* (黄帝内经), bộ sách y học cổ điển Trung Quốc ra đời khoảng thế kỷ 2 trước Công nguyên. Theo đó, cơ thể có *12 kinh mạch chính* (正经) tương ứng với 12 tạng phủ:
+- 6 kinh âm: Phế (Phổi), Tâm (Tim), Tâm bào, Tỳ (Lá lách), Gan, Thận
+- 6 kinh dương: Đại trường, Tiểu trường, Tam tiêu, Dạ dày, Mật, Bàng quang
+
+Ngoài ra còn có 8 kỳ kinh (奇经), trong đó Đốc mạch (đi dọc lưng) và Nhâm mạch (đi dọc ngực bụng) là quan trọng nhất.
 
 Mỗi kinh mạch được cho là chạy theo một đường đi nhất định trên cơ thể, kết nối các #term("huyet") — những điểm có thể tác động để điều chỉnh dòng khí. Các kinh mạch tạo thành một mạng lưới khép kín, đưa khí và #term("khi-huyet") đi nuôi dưỡng toàn bộ cơ thể.
 
