@@ -2,11 +2,13 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Tế bào và mô
+= TẾ BÀO VÀ MÔ
 
-== Câu chuyện về một khám phá thay đổi y học
+== Một thế giới nhỏ bé bên trong bạn
 
-Năm 1665, nhà khoa học người Anh Robert Hooke đặt một lát bần mỏng dưới kính hiển vi thô sơ. Ông thấy cấu trúc của nó gồm vô số khoang nhỏ rỗng, giống phòng của các tu sĩ trong tu viện. Ông gọi chúng là "cell" (tế bào). Thật ra Hooke chỉ nhìn thấy thành tế bào thực vật đã chết — nhưng ông vừa đặt nền móng cho một trong những khám phá quan trọng nhất của sinh học.
+Hãy tưởng tượng: nếu thu nhỏ bạn xuống kích thước của một hạt bụi, rồi đưa bạn vào trong cơ thể, bạn sẽ có cơ hội khám phá một thế giới kỳ diệu. Ở đó - trong cơ thể người - không phải là những thành phố hay con đường thông thường, mà là hàng nghìn tỷ "nhà máy" thu nhỏ — mỗi nhà máy hoạt động nhịp nhàng, sản xuất năng lượng, xử lý thông tin, và giao tiếp với hàng xóm xung quanh. Đây chính là tế bào — những đơn vị nhỏ bé nhưng mạnh mẽ xây nên toàn bộ cơ thể bạn.
+
+Câu chuyện bắt đầu từ năm 1665, khi nhà khoa học người Anh Robert Hooke đặt một lát bần mỏng dưới kính hiển vi thô sơ. Ông thấy cấu trúc của nó gồm vô số khoang nhỏ rỗng, giống phòng của các tu sĩ trong tu viện. Ông gọi chúng là "cell" (tế bào). Thật ra Hooke chỉ nhìn thấy thành của các tế bào thực vật đã chết — nhưng ông vừa đặt nền móng cho một trong những khám phá quan trọng nhất của sinh học.
 
 Sau đó, Antonie van Leeuwenhoek, một người Hà Lan tự chế tạo thấu kính, đã lần đầu tiên nhìn thấy tế bào sống và vi sinh vật. Những quan sát này dẫn đến *Học thuyết tế bào* — nền tảng của mọi sinh học hiện đại:
 
@@ -25,15 +27,22 @@ Sau đó, Antonie van Leeuwenhoek, một người Hà Lan tự chế tạo thấ
   caption: [Mô hình khảm động của màng tế bào]
 )
 
-Bao bọc mọi tế bào là một lớp màng siêu mỏng nhưng cực kỳ tinh vi. Màng tế bào không phải bức tường tĩnh lặng — nó là một cấu trúc năng động, được mô tả bằng *Mô hình khảm động* (Fluid mosaic model) @singer1972.
+Mỗi tế bào được bao bọc bởi một lớp màng siêu mỏng nhưng cực kỳ tinh vi. Màng tế bào không phải bức tường tĩnh lặng — nó là một cấu trúc năng động, hoạt động 24/7 như một đội ngũ an ninh chuyên nghiệp.
 
-Hãy tưởng tượng màng tế bào như một lớp kép *phospholipid* (lipid có nhóm phosphate, tạo cấu trúc 2 lớp với đầu ưa nước và đuôi kỵ nước): các phân tử có "đầu" ưa nước quay ra ngoài và "đuôi" kỵ nước quay vào trong, tạo một rào cản chọn lọc. Nhúng trong lớp màng này là các protein — chúng hoạt động như cửa ngõ, máy bơm, và ăng-ten thu tín hiệu.
+Hãy tưởng tượng màng tế bào như một lớp kép các phân tử lipid có hai đầu: đầu "ưa nước" hướng ra ngoài, đuôi "kị nước" hướng vào trong. Thiết kế thông minh này tạo ra một rào cản chọn lọc — cho phép một số chất đi qua, ngăn chặn những chất khác. Nhúng trong lớp màng này là các protein hoạt động như cửa ngõ, máy bơm, và ăng-ten thu tín hiệu.
 
-=== Các chất đi qua màng thế nào?
+=== Cách màng tế bào kiểm soát giao thông
 
-- *Thụ động:* Nước, oxy, CO₂ tự do khuếch tán qua màng từ nơi nồng độ cao đến thấp, không tốn năng lượng.
-- *Chủ động:* Để đưa chất ngược chiều nồng độ (như bơm Na⁺ ra ngoài, K⁺ vào trong), tế bào phải tiêu tốn năng lượng dưới dạng ATP.
-- *Truyền tín hiệu:* Các protein thụ thể trên màng như ăng-ten, tiếp nhận hormone từ máu và kích hoạt phản ứng bên trong tế bào.
+#figure(
+  image("../assets/images/ch02_Membrane_transport.svg", width: 75%),
+  caption: [Ba loại vận chuyển qua màng tế bào: thụ động, chủ động, và truyền tín hiệu]
+)
+
+Màng tế bào kiểm soát giao thông theo ba cách chính:
+
+- *Thụ động:* Nước, oxy, CO₂ tự do đi qua màng từ nơi nồng độ cao đến thấp, giống như người đi theo luồng đông — không tốn năng lượng.
+- *Chủ động:* Để đưa chất ngược chiều (như bơm natri ra ngoài, kali vào trong), tế bào phải tiêu tốn năng lượng — giống như máy bơm nước ngược chiều.
+- *Truyền tin:* Các protein thụ thể trên màng như ăng-ten, tiếp nhận tin nhắn từ hormone trong máu và kích hoạt phản ứng bên trong tế bào.
 
 == Bào quan — Các "phòng ban" trong nhà máy tế bào
 
@@ -42,12 +51,12 @@ Hãy tưởng tượng màng tế bào như một lớp kép *phospholipid* (lip
   caption: [Cấu trúc tế bào động vật với các bào quan chính]
 )
 
-Bên trong màng tế bào là tế bào chất — một không gian chứa nhiều bào quan (organelle), mỗi bào quan làm một nhiệm vụ chuyên biệt:
+Bên trong màng tế bào là một không gian bận rộn chứa nhiều "phòng ban" nhỏ — mỗi phòng ban thực hiện một nhiệm vụ chuyên biệt, phối hợp nhịp nhàng như một nhà máy hiện đại:
 
-- *#term("ti-the"):* Nhà máy điện của tế bào. Đốt cháy đường và oxy để tạo ra *ATP* (adenosine triphosphate) — "đồng tiền năng lượng" mà mọi tế bào sử dụng. Đặc biệt, ti thể có DNA riêng và ở người, DNA này chỉ di truyền từ mẹ.
-- *Lưới nội chất (ER):* Có hai loại — ER hạt tổng hợp protein, ER trơn tổng hợp lipid và giải độc.
+- *#term("ti-the"):* Nhà máy điện của tế bào. Đốt cháy đường và oxy để tạo ra *ATP* — đồng tiền năng lượng mà mọi tế bào sử dụng. Đặc biệt, ti thể có DNA riêng và ở người, DNA này chỉ di truyền từ mẹ.
+- *Lưới nội chất (ER):* Xưởng sản xuất — ER hạt tổng hợp protein, ER trơn tổng hợp lipid và giải độc.
 - *Bộ máy Golgi:* Bưu điện của tế bào — đóng gói, dán nhãn, và gửi protein đến đúng địa chỉ.
-- *Lysosome:* Đội vệ sinh — chứa *enzyme* (protein xúc tác tăng tốc phản ứng hóa học) mạnh để tiêu hóa rác thải và vi khuẩn xâm nhập.
+- *Lysosome:* Đội vệ sinh — chứa enzyme mạnh để tiêu hóa rác thải và vi khuẩn xâm nhập.
 - *Bộ xương tế bào:* Mạng lưới vi ống và sợi protein giúp tế bào giữ hình dạng và vận chuyển vật chất bên trong.
 
 == Nhân tế bào — Trung tâm chỉ huy
@@ -57,54 +66,79 @@ Bên trong màng tế bào là tế bào chất — một không gian chứa nhi
   caption: [Cấu trúc nhân tế bào chứa ADN và các bào quan liên quan]
 )
 
-Nhân tế bào là bào quan lớn nhất, chứa toàn bộ bản thiết kế sự sống: #term("ad"). DNA trong nhân được quấn quanh các protein histone tạo thành #term("chromatin"). Khi tế bào chuẩn bị phân chia, chromatin cuộn chặt lại thành nhiễm sắc thể.
+Nhân tế bào là bào quan lớn nhất, đóng vai trò như trung tâm chỉ huy chứa toàn bộ bản thiết kế sự sống: #term("adn"). DNA trong nhân được quấn quanh các protein histone tạo thành #term("chromatin"). Khi tế bào chuẩn bị phân chia, chromatin cuộn chặt lại thành nhiễm sắc thể — giống như cuộn cuốn sách lại để dễ di chuyển.
 
-=== Phân bào và biệt hóa
+=== Từ một tế bào đến toàn bộ cơ thể
 
 #figure(
   image("../assets/images/ch02_Mitosis Stages.svg", width: 80%),
   caption: [Các giai đoạn của nguyên phân (mitosis)]
 )
 
-Cơ thể bạn bắt đầu từ một tế bào duy nhất — hợp tử. Tế bào đó phân chia bằng #term("mitosis"), tạo ra hai tế bào con giống hệt về mặt di truyền. Nhưng làm sao từ một tế bào lại có tế bào mắt, tế bào gan, tế bào cơ? Đó là nhờ *biệt hóa*: các tế bào "bật" hoặc "tắt" các gene khác nhau tùy vị trí và chức năng.
+Cơ thể bạn bắt đầu từ một tế bào duy nhất — hợp tử. Tế bào đó phân chia bằng #term("mitosis"), tạo ra hai tế bào con giống hệt về mặt di truyền. Quá trình này lặp đi lặp lại, một thành hai, hai thành bốn, bốn thành tám... cho đến khi hình thành hàng nghìn tỷ tế bào.
 
-Khác với nguyên phân, #term("meiosis") chỉ xảy ra ở tinh hoàn và buồng trứng, tạo ra tinh trùng và trứng với một nửa số nhiễm sắc thể.
+Nhưng làm sao từ một tế bào lại có tế bào mắt, tế bào gan, tế bào cơ? Đó là nhờ *đặc biệt hóa*: các tế bào "bật" hoặc "tắt" các gene khác nhau tùy vị trí và chức năng — giống như cùng một bản nhạc nhưng mỗi nhạc công chơi một đoạn khác nhau.
+
+#figure(
+  image("../assets/images/ch02_Cell_differentiation.svg", width: 70%),
+  caption: [Quá trình biệt hóa tế bào: từ hợp tử đến các loại mô chuyên biệt]
+)
+
+Khác với nguyên phân, #term("meiosis") chỉ xảy ra ở tinh hoàn và buồng trứng, tạo ra tinh trùng và trứng với một nửa số nhiễm sắc thể — thiết kế thông minh để khi gặp nhau tạo lại số đầy đủ.
 
 === Chết tế bào theo chương trình — Cái chết có ích
 
-#term("apoptosis") là quá trình tự hủy có kiểm soát @kerr1972. Nó khác với hoại tử (chết do tổn thương). Trong bào thai, các tế bào giữa các ngón tay phải chết theo chương trình để bạn có ngón tay rời. Tế bào già yếu hay bị đột biến (nguy cơ ung thư) cũng tự kích hoạt apoptosis để bảo vệ cơ thể.
+#term("apoptosis") là quá trình tự hủy có kiểm soát @kerr1972. Nó khác với hoại tử (chết do tổn thương). Trong bào thai, các tế bào giữa các ngón tay phải chết theo chương trình để bạn có ngón tay rời — nếu không, bạn sẽ có bàn tay giống bàn chải. Tế bào già yếu hay bị đột biến (nguy cơ ung thư) cũng tự kích hoạt apoptosis để bảo vệ cơ thể.
 
 #muc-bang-chung("B")[
-  *Telomere — Đồng hồ sinh học của tế bào:* Mỗi lần tế bào phân chia, đầu mút nhiễm sắc thể gọi là telomere ngắn đi một chút. Khi telomere quá ngắn, tế bào không thể phân chia thêm và bước vào trạng thái "già yếu" @hayflick1965. Giới hạn này được gọi là giới hạn Hayflick. Vai trò của nó trong lão hóa toàn cơ thể vẫn đang được tranh luận @blackburn2000.
+  *Telomere — Đồng hồ sinh học của tế bào:* Mỗi lần tế bào phân chia, đầu mút nhiễm sắc thể gọi là telomere ngắn đi một chút — giống như dây giày bị mòn dần mỗi khi buộc. Khi telomere quá ngắn, tế bào không thể phân chia thêm và bước vào trạng thái "già yếu" @hayflick1965. Giới hạn này được gọi là giới hạn Hayflick. Vai trò của nó trong lão hóa toàn cơ thể vẫn đang được tranh luận @blackburn2000.
 ]
 
 == Bốn loại mô — Vật liệu xây dựng cơ thể
 
-Các tế bào cùng loại liên kết với nhau bằng chất nền ngoại bào để tạo thành mô. Cơ thể có bốn loại mô cơ bản:
+Nếu tế bào là những viên gạch, thì mô là những bức tường được xây từ những viên gạch này. Các tế bào cùng loại liên kết với nhau bằng chất nền ngoại bào để tạo thành mô. Cơ thể có bốn loại mô cơ bản — mỗi loại đóng vai trò khác nhau như những vật liệu xây dựng chuyên dụng.
 
-=== Mô biểu bì — Lớp lót và hàng rào
+#figure(
+  image("../assets/images/ch02_Four_tissue_types.svg", width: 80%),
+  caption: [Bốn loại mô cơ bản và chức năng của từng loại]
+)
 
-Tạo nên bề mặt da và lót các khoang bên trong (thực quản, dạ dày, ruột). Biểu bì *đơn tầng* (một lớp) ở những nơi cần trao đổi chất như phế nang phổi. Biểu bì *đa tầng* (nhiều lớp) ở da, có chức năng bảo vệ. Các tế bào xếp khít như tường gạch.
+=== Mô biểu bì — Lớp lót và hàng rào bảo vệ
 
-=== Mô liên kết — Khung và keo dán
+Mô biểu bì tạo nên bề mặt da và lót các khoang bên trong như thực quản, dạ dày, ruột. Tùy vị trí, tế bào biểu bì xếp thành nhiều lớp hoặc một lớp:
 
-Loại mô đa dạng nhất cơ thể. Điểm chung: tế bào nằm rải rác trong chất nền ngoại bào. Gồm: mô liên kết lỏng lẻo (neo giữ cơ quan), gân và dây chằng, máu và bạch huyết, xương và sụn, mô mỡ (dự trữ năng lượng, cách nhiệt).
+- *Biểu bì đơn tầng* (một lớp) ở những nơi cần trao đổi chất nhanh như phế nang phổi — giống như rèm mỏng cho không khí đi qua.
+- *Biểu bì đa tầng* (nhiều lớp) ở da, có chức năng bảo vệ — giống như tường thành nhiều lớp ngăn chặn kẻ xâm nhập.
 
-=== Mô cơ — Máy co rút
+Các tế bào xếp khít như tường gạch, tạo rào cản ngăn vi khuẩn và vật chất lạ xâm nhập.
 
-Tế bào cơ có khả năng co rút để tạo lực:
-- *Cơ vân:* Gắn vào xương, vận động theo ý muốn.
-- *Cơ trơn:* Thành dạ dày, ruột, mạch máu — hoạt động tự động.
-- *Cơ tim:* Chỉ ở tim, bền bỉ suốt đời.
+=== Mô liên kết — Khung xương và keo dán
 
-=== Mô thần kinh — Mạng lưới thông tin
+Đây là loại mô đa dạng nhất cơ thể. Điểm chung: tế bào nằm rải rác trong chất nền ngoại bào — giống như các viên gạch được neo trong bê tông. Gồm:
 
-Gồm hai loại tế bào chính:
-- *Neuron:* Đơn vị truyền dẫn tín hiệu.
-- *Tế bào thần kinh đệm (Glia):* Nuôi dưỡng, bảo vệ và hỗ trợ neuron — dù ít được nhắc đến, chúng chiếm số lượng áp đảo trong não.
+- *Mô liên kết lỏng lẻo:* Neo giữ cơ quan tại vị trí.
+- *Gân và dây chằng:* Nối cơ với xương, xương với xương.
+- *Máu và bạch huyết:* Hệ thống vận chuyển chất lỏng.
+- *Xương và sụn:* Khung xương sống.
+- *Mô mỡ:* Dự trữ năng lượng và cách nhiệt.
+
+=== Mô cơ — Máy động tự nhiên
+
+Tế bào cơ có khả năng co rút để tạo lực — giống như những sợi dây đàn hoạt động. Có ba loại:
+
+- *Cơ vân:* Gắn vào xương, vận động theo ý muốn — bạn suy nghĩ rồi thực hiện.
+- *Cơ trơn:* Thành dạ dày, ruột, mạch máu — hoạt động tự động, không cần bạn suy nghĩ.
+- *Cơ tim:* Chỉ ở tim, bền bỉ co giãn suốt đời mà không bao giờ mệt.
+
+=== Mô thần kinh — Mạng lưới thông tin toàn cầu
+
+Gồm hai loại tế bào chính phối hợp như một đội ngũ truyền tin chuyên nghiệp:
+
+- *Neuron (nơ-ron):* Đơn vị truyền dẫn tín hiệu — giống như dây điện.
+- *Tế bào thần kinh đệm (Glia):* Nuôi dưỡng, bảo vệ và hỗ trợ neuron — dù ít được nhắc đến, chúng chiếm số lượng áp đảo trong não, giống như đội ngũ kỹ thuật bảo dưỡng hạ tầng.
 
 #muc-bang-chung("C")[
-  *Liệu pháp tế bào gốc — Hy vọng và thách thức:* Tế bào gốc là tế bào chưa biệt hóa, có thể phát triển thành nhiều loại tế bào khác. Các nhà khoa học đang thử nghiệm dùng tế bào gốc để sửa tim, tủy sống, hay điều trị tiểu đường type 1. Tuy lý thuyết hứa hẹn, hầu hết ứng dụng vẫn trong giai đoạn thử nghiệm lâm sàng — cần vượt qua rào cản miễn dịch và nguy cơ khối u trước khi phổ biến.
+  *Liệu pháp tế bào gốc — Hy vọng và thách thức:* Tế bào gốc là tế bào chưa được đặc biệt hóa, có thể phát triển thành nhiều loại tế bào khác. Các nhà khoa học đang thử nghiệm dùng tế bào gốc để sửa tim, tủy sống, hay điều trị tiểu đường type 1. Tuy lý thuyết hứa hẹn, hầu hết ứng dụng vẫn trong giai đoạn thử nghiệm lâm sàng — cần vượt qua rào cản miễn dịch và nguy cơ khối u trước khi phổ biến.
 ]
 
 #muc-bang-chung("D")[

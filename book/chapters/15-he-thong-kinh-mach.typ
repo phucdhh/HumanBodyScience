@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Hệ thống kinh mạch
+= HỆ THỐNG KINH MẠCH
 
 Trong y học cổ truyền phương Đông, #term("khi") (khí - khái niệm năng lượng sống trong Đông y, không tương đương chính xác với bất kỳ khái niệm sinh lý nào, nhưng gần nhất có thể là: lưu lượng máu + oxy + năng lượng tế bào + hoạt động thần kinh) là năng lượng sống chảy trong cơ thể qua một hệ thống các kênh gọi là #term("kinh-mach"). Hệ thống này là một trong những trụ cột của lý thuyết Đông y, cùng với #term("am-duong") và #term("ngu-hanh"). Chương này trình bày hệ thống kinh mạch như một *hiện tượng lịch sử và văn hóa* — đồng thời xem xét các bằng chứng khoa học hiện đại liên quan.
 

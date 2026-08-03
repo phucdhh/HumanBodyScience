@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Hệ thần kinh
+= HỆ THẦN KINH
 
 Não bộ của bạn là vật thể phức tạp nhất trong vũ trụ đã biết. Với khoảng 86 tỷ #term("neuron") — tế bào thần kinh — và hàng trăm nghìn tỷ kết nối, nó xử lý thông tin nhanh hơn bất kỳ siêu máy tính nào @herculano2012. Chính bộ máy này cho phép bạn đọc những dòng chữ này, hiểu chúng, và cảm nhận được điều gì đó về chúng.
 

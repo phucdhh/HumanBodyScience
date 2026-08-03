@@ -20,14 +20,16 @@
 
 // Các chương
 #pagebreak()
-#set heading(numbering: "1.", outlined: true)
-#include "chapters/loi-noi-dau.typ"
+#{
+  set heading(numbering: none)
+  include "chapters/loi-noi-dau.typ"
+}
 #pagebreak()
 #include "chapters/00-nhap-mon.typ"
 #include "chapters/01-co-the-nguoi-la-gi.typ"
 #include "chapters/02-te-bao-va-mo.typ"
 #include "chapters/03-he-xuong-va-co.typ"
-#include "chapters/04-he-than-kinh-va-nao-bo.typ"
+#include "chapters/04-he-than-kinh.typ"
 #include "chapters/05-he-noi-tiet.typ"
 #include "chapters/06-he-mien-dich.typ"
 #include "chapters/07-tim-mach-va-ho-hap.typ"

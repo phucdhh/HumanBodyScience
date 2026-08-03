@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Giấc ngủ và lão hóa
+= GIẤC NGỦ VÀ LÃO HOÁ
 
 Hai hiện tượng phổ quát nhất của đời sống — #term("giac-ngu") và #term("lao-hoa") — vừa quen thuộc vừa bí ẩn. Ai cũng ngủ, ai cũng già, nhưng chỉ trong vài thập kỷ gần đây khoa học mới bắt đầu hiểu được cơ chế đằng sau chúng.
 

@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Hệ miễn dịch
+= HỆ MIỄN DỊCH
 
 Mỗi ngày, cơ thể bạn bị tấn công bởi vô số vi khuẩn, virus, nấm và ký sinh trùng. Chúng ở trong không khí bạn thở, trên bề mặt bạn chạm, trong thức ăn bạn ăn. Thế mà phần lớn thời gian bạn không hề biết gì về chúng. Đó là nhờ #term("mien-dich") — một hệ thống phòng thủ tinh vi gồm hàng nghìn tỷ tế bào, hoạt động không ngừng nghỉ để bảo vệ bạn.
 

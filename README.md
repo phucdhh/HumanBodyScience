@@ -16,7 +16,7 @@
 - ✅ **17 chương hoàn chỉnh** - Từ phương pháp khoa học đến y học cổ truyền
 - ✅ **Hệ thống mức bằng chứng A/B/C/D** - Phân biệt rõ kiến thức đã kiểm chứng vs quan niệm truyền thống
 - ✅ **150+ thuật ngữ được giải thích rõ ràng** - Mỗi thuật ngữ inline khi xuất hiện lần đầu + Mục lục thuật ngữ A-Z ở cuối sách
-- ✅ **33 hình ảnh minh họa** - Vector graphics chất lượng cao từ Wikimedia Commons
+- ✅ **38 hình ảnh minh họa** - Vector graphics chất lượng cao từ Wikimedia Commons
 - ✅ **Danh sách hình ảnh tự động** - Sau mục lục
 - ✅ **PDF 6.2 MB** - Biên dịch tự động qua CI/CD
 
@@ -26,7 +26,7 @@
 |------------|------------|
 | Nội dung | 17 chương (15 nội dung + 2 bổ sung) ✅ |
 | Thuật ngữ | 150+ thuật ngữ giải thích inline + Mục lục A-Z ✅ |
-| Hình ảnh | 33 hình đã chèn 🟢 |
+| Hình ảnh | 38 hình đã chèn vào 15 chương 🟢 |
 | Trang bìa | Hoàn thành ✅ |
 | Biên dịch | PDF 6.2 MB ✅ |
 | Phản biện | Đang tiến hành 🟨 |

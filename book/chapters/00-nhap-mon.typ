@@ -35,7 +35,7 @@ Sau khi công bố, một kết quả chỉ thực sự đáng tin khi các nhó
   *Tại sao khoa học có thể "sai" — và đó lại là điểm mạnh:* Không phải bài báo khoa học nào qua bình duyệt cũng đúng. Có thể có sai sót trong thiết kế, gian lận dữ liệu, hoặc đơn giản là kết quả ngẫu nhiên. Nhưng chính cơ chế tự sửa sai — qua bình duyệt, tái lặp, và tổng quan hệ thống — làm cho Khoa học thực chứng đáng tin cậy hơn bất kỳ nguồn tri thức nào khác. Chưa có hệ thống nào khác có khả năng nhận ra và sửa lỗi của chính mình một cách có tổ chức như vậy.
 ]
 
-== Thang bằng chứng trong y học — Không phải bằng chứng nào cũng như nhau
+== Thang bằng chứng trong y học
 
 === Từ chuyện bà hàng xóm đến thử nghiệm lâm sàng
 
@@ -60,7 +60,7 @@ Hãy tưởng tượng bạn muốn biết thuốc X có chữa được bệnh 
   *Tương quan không phải nhân quả — Câu chuyện rượu vang đỏ:* Nhiều nghiên cứu quan sát từng chỉ ra rằng phụ nữ uống rượu vang đỏ lượng nhỏ có sức khỏe tim mạch tốt hơn. Nhưng liệu đó có phải nhờ rượu vang? Hóa ra, những phụ nữ uống rượu vang đỏ thường có thu nhập cao hơn, lối sống lành mạnh hơn, và khám sức khỏe định kỳ hơn. Khi các RCT được tiến hành, lợi ích của rượu vang đỏ gần như biến mất. Đây là lý do "tương quan không phải nhân quả" — một nguyên tắc quan trọng giúp bạn không bị đánh lừa bởi những con số biết nói.
 ]
 
-== Khoa học cũng có giới hạn — Và đó là điều bình thường
+== Khoa học cũng có giới hạn
 
 === Những thiên kiến cần biết
 
@@ -70,7 +70,7 @@ Ngay cả các RCT tốt nhất cũng không hoàn hảo:
 - *Thiên kiến công bố:* Các tạp chí khoa học thích đăng kết quả "thú vị" (dương tính) hơn kết quả "nhàm chán" (âm tính), làm méo mó bức tranh tổng thể.
 - *Thiên kiến chọn mẫu:* Người tình nguyện tham gia thử nghiệm thường khỏe hơn, trẻ hơn, và tuân thủ điều trị tốt hơn dân số chung.
 
-=== "Có ý nghĩa thống kê" ≠ "Có ý nghĩa lâm sàng"
+=== "Có ý nghĩa thống kê" và "Có ý nghĩa lâm sàng"
 
 Một hiểu lầm phổ biến: Một nghiên cứu với 10.000 người phát hiện thuốc X làm giảm huyết áp thêm 1.2 mmHg, với p < 0.001 (rất có ý nghĩa thống kê). Bạn có nên uống thuốc X này không? Gần như chắc chắn là không. Con số 1.2 mmHg là mức thay đổi quá nhỏ để có lợi ích sức khỏe thực tế — nó nằm trong phạm vi dao động tự nhiên của huyết áp trong ngày. Với mẫu đủ lớn, ngay cả khác biệt vô nghĩa cũng có thể "có ý nghĩa thống kê".
 

@@ -2,9 +2,9 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Di truyền và phát triển
+= DI TRUYỀN VÀ PHÁT TRIỂN
 
-Bạn mang trong mình một bản thiết kế dài 3 tỷ ký tự — #term("ad") — được viết bằng bốn chữ cái hóa học (A, T, G, C). Bản thiết kế này quy định màu mắt, nhóm máu, chiều cao tiềm năng, và một phần tính cách của bạn. Và nó được truyền lại từ tổ tiên xa xưa nhất của bạn, qua hàng triệu thế hệ.
+Bạn mang trong mình một bản thiết kế dài 3 tỷ ký tự — #term("adn") — được viết bằng bốn chữ cái hóa học (A, T, G, C). Bản thiết kế này quy định màu mắt, nhóm máu, chiều cao tiềm năng, và một phần tính cách của bạn. Và nó được truyền lại từ tổ tiên xa xưa nhất của bạn, qua hàng triệu thế hệ.
 
 Trong chương này, chúng ta sẽ khám phá di truyền học — khoa học về cách thông tin di truyền được lưu trữ, truyền lại, và thể hiện ra bên ngoài.
 

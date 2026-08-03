@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Y học hiện đại và y học truyền thống
+= Y HỌC HIỆN ĐẠI VÀ Y HỌC TRUYỀN THỐNG
 
 Đây là chương dễ gây tranh cãi nhất trong cuốn sách. Y học cổ truyền đã tồn tại hàng nghìn năm, là một phần không thể tách rời của văn hóa và lịch sử. Y học hiện đại dựa trên bằng chứng thực nghiệm mới chỉ xuất hiện khoảng 150 năm. Cả hai đều muốn chữa bệnh và cứu người — nhưng cách tiếp cận thì rất khác nhau.
 

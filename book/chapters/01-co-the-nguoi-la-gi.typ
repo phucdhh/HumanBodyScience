@@ -8,7 +8,7 @@ Cơ thể bạn là một trong những cỗ máy phức tạp nhất trong vũ 
 
 Trong chương này, chúng ta sẽ nhìn toàn cảnh trước khi đi vào chi tiết từng hệ cơ quan của cơ thể người ở các chương sau.
 
-== Từ nguyên tử đến con người — Các cấp độ tổ chức của sự sống
+== Từ nguyên tử đến cơ thể người
 
 Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp độ xây dựng trên cấp độ trước:
 
@@ -25,15 +25,13 @@ Vậy thì dưới nguyên tử (nhỏ hơn cả nguyên tử) thì sao? Khoa h�
 
 Một khái niệm quan trọng để hiểu cơ thể là *đặc tính nổi lên* (emergent properties): những đặc điểm xuất hiện ở cấp độ cao hơn mà không thể (hoặc rất khó) thấy ở cấp độ thấp hơn. Ví dụ: nước có thể làm ướt, nhưng hydrogen và oxygen riêng lẻ thì không — đây là đặc tính nổi lên.
 
-Một nguyên tử carbon không có sự sống. Một phân tử DNA cũng không. Nhưng tập hợp đủ số lượng phân tử đúng loại, trong đúng cấu trúc — sự sống xuất hiện. Tương tự, một tế bào thần kinh không có ý thức. Nhưng 86 tỷ tế bào thần kinh với hàng trăm nghìn tỷ kết nối tạo ra ý thức, cảm xúc và ký ức.
+Quan sát một nguyên tử carbon, chúng ta khó cảm nhận được sự sống của nó. Một phân tử DNA cũng vậy, dạng vật chất của nó thì có thể thấy được. Tương tự, ta khó biết một tế bào thần kinh có ý thức hay không. Nhưng gần 86 tỷ tế bào thần kinh với hàng trăm nghìn tỷ kết nối tạo ra ý thức, cảm xúc và ký ức của con người, thứ mà ta có thể dùng mắt thường để quan sát được.
 
-Điều này có ý nghĩa thực tế: một loại thuốc tác động lên một phân tử có thể gây hiệu ứng bậc cao không lường trước. Đó là lý do thử nghiệm trên người luôn cần thiết, dù thí nghiệm trong phòng thí nghiệm đã cho kết quả tốt.
+Điều này có ý nghĩa thực tế: một loại thuốc tác động lên một phân tử có thể gây hiệu ứng lên các cấu trúc bậc cao hơn mà có thể không lường trước được. Đó là lý do thử nghiệm trên người luôn cần thiết, dù thí nghiệm trong phòng thí nghiệm đã cho kết quả tốt.
 
-== Bạn không bao giờ "một mình" — Hệ vi sinh vật cộng sinh
+== Bạn không bao giờ "một mình"
 
-Có một sự thật đáng kinh ngạc: cơ thể bạn là nơi sinh sống của khoảng 38 nghìn tỷ vi khuẩn — xấp xỉ bằng số tế bào người trong cơ thể @sender2016. Cùng với nấm, virus và *archaea* (vi sinh vật cổ đại, khác với vi khuẩn), tổng trọng lượng "cộng đồng vi sinh" này vào khoảng 1.5-2 kg. Về mặt di truyền, chúng sở hữu số gene gấp 150-200 lần gene người.
-
-Quan trọng hơn: chúng ta không chỉ "chứa" chúng — chúng ta *phụ thuộc* vào chúng để sống. Hệ vi sinh đường ruột (gut microbiome) đóng vai trò thiết yếu trong:
+Có một sự thật đáng kinh ngạc: cơ thể bạn là nơi sinh sống của khoảng 38 nghìn tỷ vi khuẩn — xấp xỉ bằng số tế bào người trong cơ thể @sender2016. Cùng với nấm, virus và *archaea* (vi sinh vật cổ đại, khác với vi khuẩn), tổng trọng lượng "cộng đồng vi sinh" này vào khoảng 1.5-2 kg. Về mặt di truyền, chúng sở hữu số gene gấp 150-200 lần gene người. Quan trọng hơn, cơ thể chúng ta không chỉ "chứa" chúng — chúng ta còn *phụ thuộc* vào chúng để tồn tại. Chẳng hạn, hệ vi sinh đường ruột (gut microbiome) đóng vai trò thiết yếu trong:
 
 - Tiêu hóa chất xơ mà enzyme của người không phân giải được.
 - Tổng hợp vitamin K2, biotin, folate.
@@ -41,21 +39,30 @@ Quan trọng hơn: chúng ta không chỉ "chứa" chúng — chúng ta *phụ t
 - Giao tiếp với não qua "trục ruột-não" (gut-brain axis).
 
 #muc-bang-chung("B")[
-  *Trục ruột-não — Bộ não thứ hai?:* Khoảng 90% serotonin — chất dẫn truyền thần kinh liên quan đến tâm trạng — được sản xuất ở *đường ruột*, không phải ở não @cryan2019. Nghiên cứu trên chuột cho thấy thay đổi hệ vi sinh đường ruột có thể thay đổi hành vi. Ở người, cơ chế cụ thể vẫn đang được nghiên cứu, nhưng đây là một hướng đi hứa hẹn của y học hiện đại.
+  *Trục ruột-não — Bộ não thứ hai?* Khoảng 90% serotonin — chất dẫn truyền thần kinh liên quan đến tâm trạng — được sản xuất ở *đường ruột*, không phải ở não @cryan2019. Nghiên cứu trên chuột cho thấy thay đổi hệ vi sinh đường ruột có thể thay đổi hành vi. Ở người, cơ chế cụ thể vẫn đang được nghiên cứu, nhưng đây là một hướng đi hứa hẹn của y học hiện đại.
 ]
 
-Khái niệm *Holobiont* (siêu sinh vật) mô tả bạn không chỉ là 37 nghìn tỷ tế bào người, mà là toàn bộ hệ sinh thái bao gồm cả vi sinh vật cộng sinh. Trẻ sinh qua ngả âm đạo nhận hệ vi sinh từ mẹ khác với trẻ sinh mổ, và điều này ảnh hưởng đến nguy cơ dị ứng, béo phì và bệnh tự miễn về sau.
+Khái niệm *Holobiont* (siêu sinh vật) mô tả bạn không chỉ là 37 nghìn tỷ tế bào người, mà là toàn bộ hệ sinh thái bao gồm cả vi sinh vật cộng sinh. Một điều thú vị là đứa trẻ sinh bình thường nhận hệ vi sinh từ mẹ khác với trẻ sinh mổ, và điều này ảnh hưởng đến nguy cơ mắc các bệnh như dị ứng, béo phì và bệnh tự miễn dịch về sau.
 
 == Cân bằng nội môi — Nguyên lý vàng của sự sống
 
 #figure(
-  image("../assets/images/ch01_Thyrotropic feedback control.svg", width: 65%),
+  image("../assets/images/ch01_Thyrotropic_feedback_simple.svg", width: 70%),
   caption: [Vòng phản hồi âm điều khiển hormone giáp]
 )
 
+*Giải thích:* Cơ chế này hoạt động như một hệ thống "bộ điều chỉnh tự động" của cơ thể. Để dễ hiểu, hãy tưởng tượng một dây chuyền sản xuất:
+
+1. *#term("giau-vi")* hoạt động như "sếp tổng" — phát hiện khi cơ thể cần thêm năng lượng
+2. Khi đó, nó ra lệnh cho *#term("tuyen-yen")* (tuyến điều khiển) 
+3. *#term("tuyen-yen")* kích thích *#term("tuyen-giap")* sản xuất hormone điều hòa chuyển hóa
+4. Khi đủ hormone, chúng gửi tín hiệu báo lại "đủ rồi, không cần thêm nữa" (đường nét đứt màu đỏ)
+
+Các hormone này giúp cơ thể chuyển hóa thức ăn thành năng lượng. Khi nhiều quá sẽ báo giảm sản xuất, khi ít quá sẽ báo tăng sản xuất — đây chính là #term("feedback-am").
+
 === Cơ thể duy trì ổn định thế nào?
 
-Nhà sinh lý học Claude Bernard từ thế kỷ 19 đã có một nhận định sâu sắc: "Sự ổn định của môi trường bên trong là điều kiện tiên quyết cho sự sống." Walter Cannon sau đó đặt tên cho khái niệm này là *#term("homeostasis")* — cân bằng nội môi.
+Nhà sinh lý học Claude Bernard từ thế kỷ 19 đã có một nhận định sâu sắc: "Sự ổn định của môi trường bên trong là điều kiện tiên quyết cho sự sống." Walter Cannon sau đó đặt tên cho khái niệm này là *#term("homeostasis")*.
 
 Cơ thể bạn liên tục điều chỉnh để giữ các thông số sống còn trong một phạm vi hẹp:
 
@@ -99,7 +106,7 @@ Não ra lệnh → *hệ thần kinh* truyền tín hiệu đến *hệ cơ* →
 Đồng thời, *da* tiết mồ hôi để thải nhiệt. *Thận* điều chỉnh nước tiểu để bù mồ hôi. Sau khi chạy, *hệ miễn dịch* dọn dẹp vi tổn thương trong cơ. Và *hệ tiêu hóa* cung cấp lại nhiên liệu. Tất cả diễn ra đồng thời, không cần bạn nghĩ đến bước nào.
 
 #muc-bang-chung("C")[
-  *Cơ thể được tiến hóa cho một thế giới khác:* Bộ gene của chúng ta được tối ưu hóa cho cuộc sống săn bắt-hái lượm — vận động nhiều, ăn uống đa dạng và không liên tục, ngủ theo chu kỳ ngày đêm tự nhiên. Nhiều "bệnh văn minh" (tiểu đường type 2, béo phì, trầm cảm) có thể hiểu qua lăng kính *không phù hợp tiến hóa* (evolutionary mismatch): cơ thể bạn được thiết kế cho thảo nguyên châu Phi, nhưng đang sống trong thế giới thức khuya, ít vận động và ăn nhiều đường tinh chế.
+  *Cơ thể người được thiết kế với ý đồ từ trước:* Bộ gene của chúng ta được tối ưu hóa cho cuộc sống "săn bắt-hái lượm" — vận động nhiều, ăn uống đa dạng và không liên tục, ngủ theo chu kỳ ngày đêm tự nhiên. Nhiều "bệnh hiện đại" (như tiểu đường type 2, béo phì, trầm cảm, stress) có thể hiểu qua lăng kính *không phù hợp với cấu trúc cơ thể người* (human body mismatch): cơ thể bạn được thiết kế thông thường như vậy, nhưng bạn lại đang sống trong một nhịp sống khác thường: thức khuya, ít vận động và ăn nhiều đường tinh chế.
 ]
 
 #question-section()

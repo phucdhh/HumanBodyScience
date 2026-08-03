@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Tim mạch và hô hấp
+= TIM MẠCH VÀ HÔ HẤP
 
 Hai hệ thống này phối hợp chặt chẽ đến mức khó tách rời: #term("tim-mach") bơm máu đi khắp cơ thể, #term("ho-hap") cung cấp oxy để nạp vào máu và thải CO₂ ra ngoài. Cùng nhau, chúng tạo thành hệ thống giao hàng và thông gió cho toàn bộ cơ thể.
 

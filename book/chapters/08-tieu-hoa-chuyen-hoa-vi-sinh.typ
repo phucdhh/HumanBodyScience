@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Tiêu hóa, chuyển hóa và hệ vi sinh vật
+= TIÊU HOÁ, CHUYỂN HOÁ VÀ HỆ VI SINH VẬT
 
 Mỗi ngày bạn ăn khoảng 1-2 kg thức ăn. Trong vài giờ tới, cơ thể sẽ biến đổi số thức ăn đó từ những miếng thịt, rau, cơm thành các phân tử siêu nhỏ — axit amin, đường đơn, acid béo — để nuôi sống 37 nghìn tỷ tế bào. Đây là nhiệm vụ của #term("tieu-hoa") — một trong những hệ thống ấn tượng nhất của cơ thể.
 

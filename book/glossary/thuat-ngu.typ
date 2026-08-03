@@ -20,6 +20,9 @@
   "ti-the": ("Ti thể", "Mitochondria", "Nhà máy năng lượng tế bào"),
   "golgi": ("Bộ máy Golgi", "Golgi apparatus", "Bào quan đóng gói protein"),
   "lysosome": ("Lysosome", "Lysosome", "Túi enzyme tiêu hóa chất thải"),
+  "lui-noi-chat": ("Lưới nội chất", "Endoplasmic reticulum", "Xưởng sản xuất protein và lipid"),
+  "bo-xuong-te-bao": ("Bộ xương tế bào", "Cytoskeleton", "Mạng lưới protein giữ hình dạng tế bào"),
+  "bao-quan": ("Bào quan", "Organelle", "Cấu trúc chuyên biệt trong tế bào"),
   
   // Phân bào và di truyền
   "chromatin": ("Chất nhiễm sắc", "Chromatin", "ADN và protein đóng gói trong nhân"),
@@ -38,6 +41,12 @@
   "mo-lien-ket": ("Mô liên kết", "Connective tissue", "Mô nối các cấu trúc"),
   "mo-co": ("Mô cơ", "Muscle tissue", "Mô có khả năng co"),
   "mo-than-kinh": ("Mô thần kinh", "Nervous tissue", "Mô dẫn truyền tín hiệu điện"),
+  "bieu-bi-don-tang": ("Biểu bì đơn tầng", "Simple epithelium", "Mô biểu bì một lớp tế bào"),
+  "bieu-bi-da-tang": ("Biểu bì đa tầng", "Stratified epithelium", "Mô biểu bì nhiều lớp tế bào"),
+  "co-van": ("Cơ vân", "Skeletal muscle", "Cơ gắn vào xương, vận động theo ý muốn"),
+  "co-tron": ("Cơ trơn", "Smooth muscle", "Cơ hoạt động tự động trong nội tạng"),
+  "co-tim": ("Cơ tim", "Cardiac muscle", "Cơ chỉ ở tim, bền bỉ suốt đời"),
+  "glia": ("Tế bào thần kinh đệm", "Glia", "Tế bào hỗ trợ và bảo vệ neuron"),
   
   // === HỆ XƯƠNG VÀ CƠ ===
   "collagen": ("Collagen", "Collagen", "Protein cấu trúc chính của xương và da"),
@@ -78,10 +87,15 @@
   // === HỆ NỘI TIẾT ===
   "hormone": ("Hormone", "Hormone", "Chất truyền tin hóa học trong máu"),
   "noi-tiet": ("Nội tiết", "Endocrine", "Hệ thống tuyến tiết hormone"),
+  "giau-vi": ("Giấu vị", "Hypothalamus", "Vùng não điều khiển các tuyến nội tiết"),
   "tuyen-yen": ("Tuyến yên", "Pituitary gland", "Tuyến chủ, điều khiển các tuyến khác"),
   "tuyen-giap": ("Tuyến giáp", "Thyroid gland", "Tuyến điều hòa chuyển hóa"),
   "tuyen-thuong-than": ("Tuyến thượng thận", "Adrenal gland", "Tuyến tiết cortisol và adrenaline"),
   "tuy-tang": ("Tụy", "Pancreas", "Tuyến tiết insulin và glucagon"),
+  "trh": ("TRH", "Thyrotropin-releasing hormone", "Hormone kích thích tuyến yên tiết TSH"),
+  "tsh": ("TSH", "Thyroid-stimulating hormone", "Hormone kích thích tuyến giáp sản xuất hormone giáp"),
+  "t3": ("T3", "Triiodothyronine", "Hormone giáp hoạt động mạnh, điều hòa chuyển hóa"),
+  "t4": ("T4", "Thyroxine", "Hormone giáp chính, điều hòa chuyển hóa"),
   "insulin": ("Insulin", "Insulin", "Hormone hạ đường huyết"),
   "glucagon": ("Glucagon", "Glucagon", "Hormone tăng đường huyết"),
   "cortisol": ("Cortisol", "Cortisol", "Hormone stress, điều hòa chuyển hóa"),
@@ -172,6 +186,7 @@
   // === Y HỌC TRUYỀN THỐNG ===
   "kinh-mach": ("Kinh mạch", "Meridian", "Đường dẫn khí trong y học cổ truyền"),
   "khi": ("Khí", "Qi/Chi", "Năng lượng sống trong triết học phương Đông"),
+  "khi-huyet": ("Khí huyết", "Qi and Blood", "Hai chất sống cơ bản trong Đông y"),
   "huyet": ("Huyệt", "Acupoint", "Điểm châm cứu trên kinh mạch"),
   "khi-cong": ("Khí công", "Qigong", "Bài tập rèn luyện khí"),
   "am-duong": ("Âm-Dương", "Yin-Yang", "Hai mặt đối lập và bổ sung nhau"),
@@ -199,12 +214,3 @@
   }
 }
 
-// Hàm tạo định nghĩa thuật ngữ inline (hiển thị giải thích)
-#let define(key) = {
-  if key in thuat-ngu {
-    let entry = thuat-ngu.at(key)
-    [*#entry.at(0)* (#entry.at(1)): _#entry.at(2)_]
-  } else {
-    "[" + key + "]"
-  }
-}

@@ -8,6 +8,8 @@ set -e
 BOOK_NAME="HumanBodyScience"
 BUILD_DIR="downloads"
 CHANGELOG_FILE="$BUILD_DIR/changelog.txt"
+TOTAL_FIGURES=$(grep -r "#figure" chapters/*.typ | wc -l | tr -d ' ')
+TOTAL_CONTENT_CHAPTERS=$(find chapters -maxdepth 1 -type f -name '[0-9][0-9]-*.typ' ! -name '99-*' | wc -l | tr -d ' ')
 
 # Create downloads directory if not exists
 mkdir -p "$BUILD_DIR"
@@ -66,8 +68,8 @@ EOF
 
 ### Thay đổi
 - [Tự động] Build thành công
-- Tổng số hình: $(grep -r "#figure" chapters/*.typ | wc -l | tr -d ' ')
-- Tổng số chương: 15
+- Tổng số hình: $TOTAL_FIGURES
+- Tổng số chương nội dung: $TOTAL_CONTENT_CHAPTERS
 
 EOF
     
@@ -104,4 +106,3 @@ else
     echo "✗ Build failed!"
     exit 1
 fi
-

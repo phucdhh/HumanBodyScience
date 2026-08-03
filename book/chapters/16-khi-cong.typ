@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Khí công
+= KHÍ CÔNG
 
 #term("khi-cong") (气功) là một hệ thống bài tập kết hợp giữa vận động chậm, điều hòa hơi thở và tập trung tâm trí, có nguồn gốc từ y học cổ truyền Trung Quốc. Tên gọi này có nghĩa là "luyện tập khí" — năng lượng sống được cho là luân chuyển trong cơ thể qua hệ thống kinh mạch.
 

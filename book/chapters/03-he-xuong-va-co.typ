@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Hệ xương và cơ
+= HỆ XƯƠNG VÀ CƠ
 
 == Bộ xương — Khung đỡ sống
 
@@ -11,7 +11,7 @@ Khi nghĩ đến xương, nhiều người hình dung bộ hài cốt khô trong
 === Giải phẫu đại cương
 
 #figure(
-  image("../assets/images/ch03_Human_skeleton_front_en.svg", width: 60%),
+  image("../assets/images/ch03_Human_skeleton_front_en.svg", width: 50%),
   caption: [Bộ xương người nhìn từ phía trước]
 )
 

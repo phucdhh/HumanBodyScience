@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Cơ thể người và thần học
+= CƠ THỂ NGƯỜI VÀ THẦN HỌC
 
 Xuyên suốt lịch sử, con người đã đặt câu hỏi: chúng ta chỉ là cỗ máy sinh học, hay còn có điều gì đó vượt lên trên thể xác? Câu hỏi này nằm ở giao điểm giữa khoa học và thần học — hai cách tiếp cận tri thức rất khác nhau, nhưng cùng quan tâm đến bản chất con người.
 

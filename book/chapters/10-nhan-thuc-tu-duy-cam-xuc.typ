@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Nhận thức, tư duy và cảm xúc
+= NHẬN THỨC, TƯ DUY VÀ CẢM XÚC
 
 Làm thế nào từ 86 tỷ tế bào thần kinh và hàng trăm nghìn tỷ kết nối lại có thể sinh ra tình yêu, nỗi sợ, một bài thơ, hay khả năng tự hỏi "mình là ai?" Đây là câu hỏi lớn nhất của khoa học thần kinh và triết học về #term("y-thuc").
 

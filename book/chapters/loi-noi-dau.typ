@@ -2,9 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-#set heading(numbering: none)
-
-= LỜI NÓI ĐẦU
+= Lời nói đầu
 
 Cơ thể người là một kỳ quan. Từ mỗi nhịp đập của trái tim đến những suy nghĩ thoáng qua, từ khả năng chữa lành vết thương đến việc tạo ra một con người mới — tất cả đều ẩn chứa những điều huyền diệu mà chúng ta nên dành thời gian khám phá, dành nhiều thời gian tìm hiểu. Cuốn sách này sinh ra từ một câu hỏi đơn giản: *Làm thế nào để hiểu cơ thể mình một cách khoa học, nhưng vẫn dễ tiếp cận?*
 

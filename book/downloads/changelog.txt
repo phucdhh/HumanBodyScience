@@ -2,6 +2,97 @@
 # Lịch sử các phiên bản xuất bản
 
 
+## Phiên bản 2026.08.03.1820 (03/08/2026 18:20)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.03.1820.pdf
+- Kích thước: 6.2M
+- Biên dịch: 03/08/2026 lúc 18:20:09
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 38
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.02.0204 (02/08/2026 02:04)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.02.0204.pdf
+- Kích thước: 6.2M
+- Biên dịch: 02/08/2026 lúc 02:04:28
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 38
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.02.0157 (02/08/2026 01:57)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.02.0157.pdf
+- Kích thước: 6.2M
+- Biên dịch: 02/08/2026 lúc 01:57:23
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 38
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.01.2228 (01/08/2026 22:28)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.01.2228.pdf
+- Kích thước: 6.2M
+- Biên dịch: 01/08/2026 lúc 22:28:02
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 38
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.08.01.2218 (01/08/2026 22:18)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.01.2218.pdf
+- Kích thước: 6.2M
+- Biên dịch: 01/08/2026 lúc 22:18:24
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 35
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.08.01.2157 (01/08/2026 21:57)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.01.2157.pdf
+- Kích thước: 6.2M
+- Biên dịch: 01/08/2026 lúc 21:57:46
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 35
+- Tổng số chương: 15
+
+
+## Phiên bản 2026.08.01.2152 (01/08/2026 21:52)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.01.2152.pdf
+- Kích thước: 6.2M
+- Biên dịch: 01/08/2026 lúc 21:52:32
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 35
+- Tổng số chương: 15
+
+
 ## Phiên bản 2026.08.01.2137 (01/08/2026 21:37)
 
 ### Thông tin file

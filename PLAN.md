@@ -28,7 +28,7 @@ book/
 │   ├── 01-co-the-nguoi-la-gi.typ
 │   ├── 02-te-bao-va-mo.typ
 │   ├── 03-he-xuong-va-co.typ
-│   ├── 04-he-than-kinh-va-nao-bo.typ
+│   ├── 04-he-than-kinh.typ
 │   ├── 05-he-noi-tiet.typ
 │   ├── 06-he-mien-dich.typ
 │   ├── 07-tim-mach-va-ho-hap.typ
@@ -38,7 +38,11 @@ book/
 │   ├── 11-giac-ngu-va-lao-hoa.typ
 │   ├── 12-co-the-nguoi-va-than-hoc.typ
 │   ├── 13-y-hoc-hien-dai-truyen-thong.typ
-│   └── 14-suc-khoe-benh-tat-phong-ngua.typ
+│   ├── 14-suc-khoe-benh-tat-phong-ngua.typ
+│   ├── 15-he-thong-kinh-mach.typ
+│   ├── 16-khi-cong.typ
+│   ├── 99-muc-luc-thuat-ngu.typ
+│   └── loi-noi-dau.typ
 ├── glossary/
 │   └── thuat-ngu.typ        # Bảng thuật ngữ chuẩn hóa (dữ liệu dùng chung)
 ├── assets/
@@ -113,9 +117,9 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 -   [x] Phân chia thứ tự viết theo mức độ phụ thuộc kiến thức (ví dụ:
         Chương 0, 1, 2 nên hoàn thành trước vì các chương sau tham
         chiếu đến khái niệm nền tảng ở đây).
--   [x] Hoàn thành nội dung tất cả 15 chương (00-14) với tổng 1337+ dòng code Typst.
+-   [x] Hoàn thành nội dung tất cả 17 chương (00-16) với tổng 1765+ dòng code Typst.
 -   [x] Áp dụng nhất quán hệ thống mức bằng chứng A/B/C/D trong toàn bộ các chương.
--   [x] Cập nhật bảng thuật ngữ với ~50 thuật ngữ song ngữ Việt-Anh.
+-   [x] Cập nhật bảng thuật ngữ với 150+ thuật ngữ song ngữ Việt-Anh.
 -   [ ] Mỗi chương đi qua chu trình: viết nháp → tự rà soát mức bằng
         chứng và thuật ngữ → chuyên gia phản biện → chỉnh sửa → biên
         tập ngôn ngữ.
@@ -151,10 +155,10 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 |---|---|---|---|
 | - | Lời nói đầu | Hoàn thành | - |
 | 0 | Nhập môn: Khoa học biết điều này bằng cách nào? | Đang phản biện | ✓ (1) |
-| 1 | Cơ thể người là gì? | Đang phản biện | ✓ (2) |
-| 2 | Tế bào và mô | Đang phản biện | ✓ (5) |
+| 1 | Cơ thể người là gì? | Đang phản biện | ✓ (1) |
+| 2 | Tế bào và mô | Đang phản biện | ✓ (7) |
 | 3 | Hệ xương và cơ | Đang phản biện | ✓ (3) |
-| 4 | Hệ thần kinh | Đang phản biện | ✓ (6) |
+| 4 | Hệ thần kinh | Đang phản biện | ✓ (4) |
 | 5 | Hệ nội tiết | Đang phản biện | ✓ (3) |
 | 6 | Hệ miễn dịch | Đang phản biện | ✓ (2) |
 | 7 | Tim mạch và hô hấp | Đang phản biện | ✓ (5) |
@@ -171,9 +175,9 @@ Dự án sử dụng trình biên dịch [Typst](https://typst.app/).
 **Tổng kết:**
 - Nội dung: **Lời nói đầu + 17 chương** (15 chính + 2 bổ sung)
 - Thuật ngữ: **150+ thuật ngữ** với Mục lục A-Z ở cuối sách + giải thích inline khi xuất hiện lần đầu (✅ Hoàn thành cả 3 giai đoạn)
-- Hình ảnh: **33 hình** đã chèn vào 12 chương
-- Biên dịch: ✓ Thành công (**PDF 6.2 MB**, tăng từ 5.5 MB)
-- Hình ảnh có sẵn: 172 file SVG từ Wikimedia Commons
+- Hình ảnh: **38 hình** đã chèn vào 15 chương
+- Biên dịch: ✓ Thành công (**PDF 6.2 MB**)
+- Hình ảnh có sẵn: **193 file hình** (SVG/JPG) trong `book/assets/images`
 - **Danh sách hình ảnh:** Tự động sau Mục lục
 
 Trạng thái đề xuất dùng: `Chưa bắt đầu` → `Đang viết nháp` → `Đang
@@ -202,15 +206,15 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
     định kỳ ở Giai đoạn 5.
 
 
-## Cập nhật tiến độ mới nhất (01/08/2026)
+## Cập nhật tiến độ mới nhất (02/08/2026)
 
 ### Đã hoàn thành
 
 ✅ **Nội dung:** 
-- 17/17 chương đã viết xong (15 chính + 2 bổ sung: Kinh mạch, Khí công) với tổng 1337+ dòng code Typst
+- 17/17 chương đã viết xong (15 chính + 2 bổ sung: Kinh mạch, Khí công) với tổng 1765+ dòng code Typst
 - Áp dụng nhất quán hệ thống mức bằng chứng A/B/C/D
-- ~50 thuật ngữ song ngữ Việt-Anh trong glossary
-- ~40 tài liệu tham khảo trong references.bib
+- 152 thuật ngữ song ngữ Việt-Anh trong glossary
+- 61 tài liệu tham khảo trong references.bib
 
 ✅ **Thuật ngữ (Hoàn thành 100%):**
 - **150+ thuật ngữ** trong Mục lục thuật ngữ (99-muc-luc-thuat-ngu.typ) sắp xếp A-Z
@@ -221,8 +225,8 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
 - 3 hàm hỗ trợ: `term()`, `term-en()`, `define()`
 
 ✅ **Hình ảnh:**
-- 172 hình ảnh được tải từ Wikimedia Commons (Public Domain, CC BY-SA, CC0)
-- **33 hình** đã được chèn vào 12 chương với caption mô tả
+- 193 file hình (SVG/JPG) hiện có trong `book/assets/images`
+- **38 hình** đã được chèn vào 15 chương với caption mô tả
 - Tạo file README.md và attributions.json hướng dẫn sử dụng
 - **Danh sách hình ảnh tự động** sau Mục lục
 
@@ -246,21 +250,21 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
 🔲 **Giai đoạn 4:**
 - [ ] Thiết kế bìa sách
 - [ ] Hoàn thiện trang tiêu đề, mục lục
-- [ ] Thêm hình ảnh cho các chương còn thiếu (10, 12, 13, 14)
+- [ ] Thêm hình ảnh cho 2 chương còn thiếu (15, 16)
 - [ ] Cập nhật attribution đầy đủ cho tất cả hình ảnh
 
 ### Vấn đề cần giải quyết
 
 ⚠️ **Hình ảnh:**
 - 2 file SVG bị lỗi (organ-systems.svg, homeostasis.svg) - cần thay thế
-- 4 chương chưa có hình minh họa (10, 12, 13, 14)
+- 2 chương chưa có hình minh họa (15, 16)
 
 ⚠️ **Attribution:**
-- Cần cập nhật thông tin chi tiết tác giả/giấy phép cho 155 hình mới
+- Cần cập nhật thông tin chi tiết tác giả/giấy phép cho toàn bộ hình trong `book/assets/images`
 - Có thể mở rộng script Python để tự động tạo danh sách attribution
 
 ### Khuyến nghị
 
 1. **Ưu tiên cao:** Tìm phản biện chuyên môn cho từng chương
-2. **Ưu tiên trung bình:** Bổ sung hình ảnh cho 4 chương còn thiếu
+2. **Ưu tiên trung bình:** Bổ sung hình ảnh cho 2 chương còn thiếu
 3. **Ưu tiên thấp:** Hoàn thiện attribution đầy đủ (có thể làm sau)

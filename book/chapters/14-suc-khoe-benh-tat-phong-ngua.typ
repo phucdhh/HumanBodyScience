@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Sức khỏe, bệnh tật và phòng ngừa
+= SỨC KHỎE, BỆNH TẬT VÀ PHÒNG NGỪA
 
 Đây là chương cuối cùng của cuốn sách — nơi chúng ta tổng kết những nguyên lý cốt lõi về #term("suc-khoe") và #term("benh-tat"), và đặt ra câu hỏi: biết tất cả những điều này rồi, chúng ta sống thế nào cho khỏe?
 

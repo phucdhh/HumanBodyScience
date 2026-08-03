@@ -2,7 +2,7 @@
 #import "../config/theme.typ": muc-bang-chung
 #import "../glossary/thuat-ngu.typ": term
 
-= Hệ nội tiết
+= HỆ NỘI TIẾT
 
 Hệ thần kinh truyền tín hiệu nhanh như điện tín — tức thời nhưng ngắn hạn. #term("noi-tiet") lại hoạt động như bưu điện: gửi những "bức thư" hóa học gọi là #term("hormone") qua đường máu, đến khắp cơ thể, chậm hơn nhưng tác dụng lâu dài và sâu rộng hơn.
 
