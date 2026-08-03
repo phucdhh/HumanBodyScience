@@ -97,53 +97,76 @@ Viêm xương khớp (osteoarthritis) là bệnh khớp phổ biến nhất th�
 
 == Hệ cơ — Động cơ của sự sống
 
+Từ cái nháy mắt đến nhịp tim đập, từ hơi thở nhẹ nhàng đến cú nâng tạ nặng — tất cả đều nhờ cơ. Cơ thể người trưởng thành có hơn 600 cơ, chiếm tới 40-50% trọng lượng cơ thể.
+
+=== Cấu tạo cơ bắp — Một "sợi cáp" được bện từ hàng nghìn sợi nhỏ
+
+#figure(
+  image("../assets/images/ch03_Muscle_structure_hariadhi.svg", width: 60%),
+  caption: [Cấu trúc một cơ xương: cơ bắp (vàng) → bó sợi → sợi cơ → gân (trắng) bám vào xương]
+)
+
+Để hiểu cơ co lại thế nào, trước hết hãy xem cơ được "bện" ra sao. Cơ bắp giống một sợi cáp thép trên cầu treo: cáp trông to đấy, nhưng thực ra là hàng nghìn sợi thép nhỏ bện lại với nhau. Cơ cũng như vậy:
+
+- Toàn bộ *cơ bắp* (như bắp tay của bạn) là một bó lớn.
+- Bên trong nó là hàng chục *bó sợi* nhỏ hơn (fascicle).
+- Mỗi bó sợi lại gồm hàng nghìn *sợi cơ* (muscle fiber) — mỗi sợi thực chất là một tế bào rất dài nhưng rất mảnh.
+- Và trong mỗi sợi cơ lại chứa vô số *tơ cơ* (myofibril) — nơi diễn ra "cú co" thực sự.
+
+Hai đầu cơ bắp thon lại thành *gân* (tendon) — sợi dai và chắc — bám chặt vào xương. Vì vậy khi cơ co ngắn lại, nó kéo xương theo, tạo ra động tác. Ở phần tiếp theo, chúng ta sẽ nhìn vào cấp độ tinh vi nhất: các tơ cơ bên trong sợi cơ.
+
+=== Cơ co lại như thế nào? — Chèo thuyền trong tế bào
+
 #figure(
   image("../assets/images/ch03_Sliding Filament Theory.svg", width: 70%),
-  caption: [Cơ chế trượt sợi cơ: actin và myosin tương tác để cơ co]
+  caption: [Thuyết trượt sợi: các sợi mỏng trượt chồng vào các sợi dày khi cơ co — giống hai chiếc lược chải vào nhau]
 )
 
-Từ nháy mắt đến nhịp tim, từ thở nhẹ đến nâng tạ — tất cả đều nhờ cơ. Hệ cơ người trưởng thành gồm hơn 600 cơ, chiếm 40-50% trọng lượng cơ thể.
+*Cách đọc hình:* Hình trên là mặt cắt của một đoạn tơ cơ, vẽ ở ba trạng thái — lúc thư giãn, lúc đang co, và lúc co hết cỡ. Hai loại sợi protein được vẽ khác màu: sợi mỏng (màu nhạt) và sợi dày (màu đậm). Nhìn từ trái sang phải, bạn sẽ thấy các sợi mỏng *trượt sâu vào giữa* các sợi dày, làm đoạn tơ cơ ngắn lại — đó chính là cơ co.
 
-=== Cơ chế co cơ — Chèo thuyền trong tế bào
+Cơ co được là nhờ hai loại sợi protein nằm xen kẽ nhau trong mỗi tơ cơ:
 
-#figure(
-  image("../assets/images/ch03_Sliding Filament Theory.svg", width: 75%),
-  caption: [Thuyết trượt sợi: cơ chế co cơ ở cấp độ phân tử]
-)
+- *Actin* — sợi mỏng, đóng vai trò như "đường ray" đứng yên.
+- *Myosin* — sợi dày, đóng vai trò như "tay chèo": đầu của nó có thể bám vào actin và kéo.
 
-Cơ co được là nhờ hai loại sợi protein — *actin* (sợi mỏng, như đường ray cố định) và *myosin* (sợi dày, như tay chèo có đầu động cơ) — trượt lên nhau. Cơ chế giống động tác chèo thuyền: đầu myosin bám vào actin, kéo, nhả ra, và bám lại.
+Cơ chế giống hệt động tác chèo thuyền: tay chèo (myosin) bám vào nước (actin), kéo mạnh, nhả ra, rồi lại bám và kéo tiếp. Cứ thế, các sợi mỏng bị kéo trượt lên nhau, khiến tơ cơ — và cả cơ bắp — ngắn lại.
 
-Quy trình gồm:
-1. Não gửi tín hiệu qua dây thần kinh đến cơ.
-2. Tín hiệu giải phóng canxi từ nơi dự trữ trong tế bào cơ.
-3. Canxi làm lộ vị trí bám trên sợi actin.
-4. Đầu myosin bám vào actin, uốn cong kéo actin trượt vào — cơ ngắn lại.
-5. ATP cung cấp năng lượng để myosin nhả ra và sẵn sàng cho chu kỳ tiếp @huxley1954.
-6. Khi tín hiệu dừng, canxi được bơm trở lại, cơ giãn ra.
+Quá trình diễn ra theo 6 bước:
+
+1. *Não ra lệnh:* Não gửi tín hiệu điện qua dây thần kinh đến cơ.
+2. *Bật công tắc:* Tín hiệu giải phóng canxi từ kho dự trữ trong tế bào cơ. Canxi chính là "người mở khóa" của cả quá trình.
+3. *Mở chốt:* Canxi làm lộ ra các vị trí bám trên sợi actin — giống như mở khóa cho "tay chèo" có chỗ bấu.
+4. *Chèo một nhịp:* Đầu myosin bám vào actin, uốn cong và kéo actin trượt vào — cơ ngắn lại một chút.
+5. *Nạp lại sức:* Phân tử ATP (năng lượng) giúp myosin nhả ra khỏi actin và sẵn sàng cho nhịp kéo tiếp theo @huxley1954.
+6. *Nhả phanh:* Khi não ngừng ra lệnh, canxi được bơm về kho, các "tay chèo" nhả ra, cơ giãn trở lại.
+
+Các bước 3-5 lặp đi lặp lại hàng trăm lần mỗi giây — đó là lý do cơ co liên tục mà vẫn mượt mà.
 
 === Sợi cơ chậm và nhanh — Chạy marathon hay chạy nước rút?
 
-Không phải sợi cơ nào cũng giống nhau:
+Không phải sợi cơ nào cũng giống nhau. Chúng chia thành hai loại chính:
 
-- *Sợi Type I (co chậm):* Màu đỏ, dùng oxy để đốt mỡ và đường, co chậm nhưng bền bỉ. Marathon, bơi đường dài. Vận động viên marathon đỉnh cao có 80-90% sợi Type I ở chân.
-- *Sợi Type II (co nhanh):* Màu trắng, dùng đường không cần oxy, co mạnh và nhanh nhưng kiệt sức sớm. Cử tạ, sprint 100m.
+- *Sợi Type I (co chậm):* Màu đỏ, ưa dùng oxy để đốt mỡ và đường, co chậm nhưng bền bỉ như một "xe tải" — thích hợp cho chạy marathon, bơi đường dài. Vận động viên marathon đỉnh cao có tới 80-90% sợi Type I ở chân.
+- *Sợi Type II (co nhanh):* Màu trắng, dùng đường không cần oxy, co mạnh và nhanh như một "xe đua" nhưng mau kiệt sức — thích hợp cho cử tạ, chạy nước rút 100m.
 
-Tỷ lệ sợi Type I và II trong cơ là yếu tố di truyền quan trọng quyết định khuynh hướng thể thao của mỗi người.
+Tỷ lệ sợi Type I và Type II trong cơ là yếu tố di truyền quan trọng, góp phần quyết định bạn có khuynh hướng giỏi môn thể thao nào.
 
-=== Năng lượng cho cơ — Ba nguồn nhiên liệu
+=== Năng lượng cho cơ — Ba "nhà máy" sản xuất năng lượng
 
-ATP là "đồng tiền" năng lượng duy nhất của tế bào cơ. Cơ thể có ba cách sản xuất ATP:
+Mọi tế bào cơ chỉ dùng đúng một loại "đồng tiền" năng lượng: phân tử *ATP*. Vấn đề là ATP chỉ tồn tại được vài giây — nên cơ thể phải sản xuất nó liên tục, bằng ba "nhà máy" khác nhau:
 
-1. *Hệ thống phosphocreatine:* Siêu nhanh, không cần oxy, chỉ đủ cho 10-15 giây đầu của vận động cực mạnh (nâng tạ tối đa).
-2. *Đường phân kỵ khí:* Nhanh, không cần oxy, dùng glucose, tạo axit lactic gây mỏi. Chủ yếu cho hoạt động 30 giây — 2 phút (bơi 100m).
-3. *Oxy hóa hiếu khí:* Chậm nhưng bền, xảy ra trong ti thể, tạo lượng ATP khổng lồ từ carbohydrate, chất béo. Cho hoạt động kéo dài trên 2 phút.
+1. *Nhà máy phosphocreatine:* Khởi động siêu nhanh, không cần oxy, nhưng chỉ đủ cho 10-15 giây đầu của vận động cực mạnh (như nâng tạ tối đa).
+2. *Nhà máy đường phân (kỵ khí):* Nhanh, không cần oxy, dùng đường glucose. Phụ phẩm là axit lactic — chất gây cảm giác mỏi cơ. Hoạt động chủ yếu cho các cử động kéo dài 30 giây đến 2 phút (như bơi 100m).
+3. *Nhà máy oxy hóa (hiếu khí):* Chậm nhưng bền, đốt carbohydrate và chất béo ngay trong ti thể, cho ra lượng ATP lớn. Phục vụ hoạt động kéo dài trên 2 phút (như chạy bộ, đi bộ đường dài).
+
+Ba "nhà máy" này không loại trừ nhau — chúng hoạt động song song, chỉ khác nhau ở mức đóng góp tùy theo cường độ và thời lượng vận động.
 
 #muc-bang-chung("B")[
-  *Cơ lớn lên trong lúc nghỉ, không phải lúc tập:* Khi nâng tạ, bạn gây vi tổn thương (micro-tears) trong sợi cơ. Trong quá trình hồi phục, cơ thể tổng hợp thêm protein co rút mới, làm dày và chắc sợi cơ. Vì vậy, ngủ đủ giấc và ăn đủ đạm quan trọng không kém tập luyện. Một người tập siêng nhưng ngủ ít và ăn thiếu đạm sẽ tiến bộ rất chậm.
+  *Cơ lớn lên trong lúc nghỉ, không phải lúc tập:* Khi nâng tạ, bạn gây ra những vết rách cực nhỏ (micro-tears) trong sợi cơ. Chính trong lúc nghỉ ngơi và ngủ, cơ thể mới sửa những vết rách đó bằng cách tổng hợp thêm protein, làm sợi cơ dày và chắc hơn trước. Vì vậy, ngủ đủ giấc và ăn đủ đạm quan trọng không kém việc tập luyện. Một người tập chăm chỉ nhưng ngủ ít, ăn thiếu đạm sẽ tiến bộ rất chậm.
 ]
 
 #muc-bang-chung("D")[
-  *"Cơ biến thành mỡ nếu ngưng tập" — Sai:* Tế bào cơ và tế bào mỡ là hai loại hoàn toàn khác nhau, không thể chuyển hóa lẫn nhau. Điều thực sự xảy ra khi bạn ngưng tập: cơ teo dần vì không còn kích thích, trong khi nếu ăn không giảm, calo dư thừa tích thành mỡ. Kết quả là "ít cơ hơn, nhiều mỡ hơn" — hai quá trình độc lập, không phải một quá trình chuyển đổi.
+  *"Cơ biến thành mỡ nếu ngưng tập" — Sai:* Tế bào cơ và tế bào mỡ là hai loại hoàn toàn khác nhau, không thể chuyển hóa lẫn nhau. Điều thực sự xảy ra khi bạn ngưng tập: cơ teo dần vì không còn được kích thích, còn nếu bạn vẫn ăn nhiều như cũ thì năng lượng dư thừa tích thành mỡ. Kết quả là "ít cơ hơn, nhiều mỡ hơn" — hai quá trình độc lập xảy ra cùng lúc, chứ không phải cơ "biến thành" mỡ.
 ]
 
 #question-section()

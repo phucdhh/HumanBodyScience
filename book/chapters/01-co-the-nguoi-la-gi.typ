@@ -44,74 +44,91 @@ Có một sự thật đáng kinh ngạc: cơ thể bạn là nơi sinh sống c
 
 Khái niệm *Holobiont* (siêu sinh vật) mô tả bạn không chỉ là 37 nghìn tỷ tế bào người, mà là toàn bộ hệ sinh thái bao gồm cả vi sinh vật cộng sinh. Một điều thú vị là đứa trẻ sinh bình thường nhận hệ vi sinh từ mẹ khác với trẻ sinh mổ, và điều này ảnh hưởng đến nguy cơ mắc các bệnh như dị ứng, béo phì và bệnh tự miễn dịch về sau.
 
-== Cân bằng nội môi — Nguyên lý vàng của sự sống
+== Cân bằng nội môi — Cơ thể luôn tự giữ thăng bằng
+
+Hãy tưởng tượng cơ thể bạn là một ngôi nhà thông minh. Trong ngôi nhà đó có một máy điều hòa tự động: trời nóng thì nó bật mát, trời lạnh thì nó bật ấm, khi có khói thì nó mở cửa sổ — tất cả tự làm, không cần bạn bấm nút nào.
+
+Cơ thể bạn cũng vậy. Nó liên tục tự kiểm tra và tự sửa để giữ cho "môi trường bên trong" luôn ổn định, dù bên ngoài thay đổi thế nào. Các nhà khoa học gọi khả năng kỳ diệu này là #term("homeostasis") — *cân bằng nội môi*. Nói đơn giản: đó là cách cơ thể giữ mọi thứ "vừa đủ" để bạn sống khỏe, giống như một chiếc máy điều hòa giữ nhiệt độ trong nhà luôn dễ chịu.
 
 #figure(
   image("../assets/images/ch01_Thyrotropic_feedback_simple.svg", width: 70%),
-  caption: [Vòng phản hồi âm điều khiển hormone giáp]
+  caption: [Một vòng phản hồi âm điều khiển hormone tuyến giáp]
 )
 
-*Giải thích:* Cơ chế này hoạt động như một hệ thống "bộ điều chỉnh tự động" của cơ thể. Để dễ hiểu, hãy tưởng tượng một dây chuyền sản xuất:
+*Một ví dụ cụ thể — tuyến giáp và "người quản lý" trong não:* Tuyến giáp là tuyến nhỏ hình cánh bướm ở cổ, làm nhiệm vụ "điều tiết tốc độ hoạt động" của cơ thể. Cơ chế điều khiển nó cũng giống một công ty:
 
-1. *#term("giau-vi")* hoạt động như "sếp tổng" — phát hiện khi cơ thể cần thêm năng lượng
-2. Khi đó, nó ra lệnh cho *#term("tuyen-yen")* (tuyến điều khiển) 
-3. *#term("tuyen-yen")* kích thích *#term("tuyen-giap")* sản xuất hormone điều hòa chuyển hóa
-4. Khi đủ hormone, chúng gửi tín hiệu báo lại "đủ rồi, không cần thêm nữa" (đường nét đứt màu đỏ)
+1. *#term("giau-vi")* — vùng não đóng vai trò "người quản lý" — luôn rà soát xem cơ thể đang thiếu hay thừa năng lượng.
+2. Khi thấy cần thêm năng lượng, quản lý ra lệnh cho *#term("tuyen-yen")* — "trưởng phòng nhân sự" của các tuyến nội tiết.
+3. "Trưởng phòng" nhắn tin cho *#term("tuyen-giap")*: hãy sản xuất hormone để cơ thể chạy nhanh hơn.
+4. Khi hormone đã đủ, tuyến giáp "báo cáo lại" cho não (đường nét đứt màu đỏ): "Xong rồi, không cần thêm nữa."
 
-Các hormone này giúp cơ thể chuyển hóa thức ăn thành năng lượng. Khi nhiều quá sẽ báo giảm sản xuất, khi ít quá sẽ báo tăng sản xuất — đây chính là #term("feedback-am").
+Nhờ vậy, hormone luôn ở mức vừa đủ — không thừa cũng không thiếu. Đây là một *vòng phản hồi âm* (#term("feedback-am")) — cơ chế quan trọng nhất để cơ thể tự giữ thăng bằng, sẽ được nói rõ dưới đây.
 
-=== Cơ thể duy trì ổn định thế nào?
+=== Cơ thể giữ ổn định đến mức nào?
 
-Nhà sinh lý học Claude Bernard từ thế kỷ 19 đã có một nhận định sâu sắc: "Sự ổn định của môi trường bên trong là điều kiện tiên quyết cho sự sống." Walter Cannon sau đó đặt tên cho khái niệm này là *#term("homeostasis")*.
+Từ thế kỷ 19, nhà sinh lý học người Pháp Claude Bernard đã nhận ra một chân lý: *"Sự ổn định của môi trường bên trong là điều kiện tiên quyết cho sự sống."* Về sau, nhà sinh lý học Walter Cannon đặt tên cho ý tưởng này là #term("homeostasis").
 
-Cơ thể bạn liên tục điều chỉnh để giữ các thông số sống còn trong một phạm vi hẹp:
+Để thấy cơ thể chặt chẽ đến mức nào, hãy nhìn các con số:
 
-- *Nhiệt độ:* 36.5-37.5°C. Lên 41°C, protein bắt đầu biến tính. Xuống 28°C, tim nguy cơ rung thất.
-- *Đường huyết:* 4-6 mmol/L lúc đói. Não phụ thuộc gần như hoàn toàn vào glucose.
-- *Độ pH máu:* 7.35-7.45. Thay đổi 0.2 đơn vị có thể gây rối loạn nghiêm trọng.
-- *Oxy:* Ngừng cung cấp 4-6 phút là đủ gây tổn thương não không hồi phục.
+- *Nhiệt độ cơ thể:* chỉ dao động quanh 36.5-37.5°C. Nóng lên 41°C, các protein — "công cụ" làm việc của tế bào — bắt đầu hư hại. Lạnh xuống 28°C, tim có nguy cơ ngừng bơm máu.
+- *Đường trong máu:* 4-6 mmol/L khi đói. Não là "thực khách" khó tính — nó gần như chỉ ăn đường, nên thiếu đường là não lập tức "biểu tình".
+- *Độ chua/kiềm của máu:* phải nằm trong dải hẹp 7.35-7.45. Lệch chỉ 0.2 đơn vị là cơ thể đã rối loạn nghiêm trọng.
+- *Oxy:* ngừng cung cấp 4-6 phút là đủ gây tổn thương não không phục hồi.
 
-=== Vòng phản hồi âm — "Bộ điều nhiệt" của cơ thể
+=== Vòng phản hồi âm — Cơ chế "tự chữa" của cơ thể
 
-Cơ chế chính để duy trì cân bằng nội môi là *vòng phản hồi âm* (negative feedback), hoạt động giống như máy điều hòa:
+Giống như máy điều hòa trong ngôi nhà của bạn, cơ thể dùng một cơ chế gọi là *vòng phản hồi âm* để tự điều chỉnh. Cơ chế này chỉ có 4 bước, lặp đi lặp lại liên tục:
 
-1. Cảm biến phát hiện thay đổi (ví dụ: nhiệt độ tăng).
-2. Thông tin gửi đến trung tâm điều khiển (não).
-3. Hiệu ứng được kích hoạt để chống lại thay đổi (đổ mồ hôi để làm mát).
-4. Khi thông số về bình thường, tín hiệu ngừng lại.
+1. *Phát hiện:* một "cảm biến" nhận ra mọi thứ đang lệch khỏi mức chuẩn (ví dụ: trời nóng, thân nhiệt tăng).
+2. *Báo cáo:* cảm biến gửi thông tin về "trung tâm điều khiển" (não).
+3. *Xử lý:* não ra lệnh làm ngược lại với sự lệch đó — nóng thì toát mồ hôi để tỏa nhiệt.
+4. *Ngừng lại:* khi mọi thứ đã về mức chuẩn, não "tắt máy" cho đến khi cần điều chỉnh lần tiếp theo.
 
-Ví dụ điển hình: điều hòa đường huyết.
-- Ăn xong, đường huyết tăng → Tụy tiết insulin → Tế bào hấp thu đường, gan dự trữ → Đường huyết giảm về bình thường.
-- Đói, đường huyết giảm → Tụy tiết glucagon → Gan giải phóng đường dự trữ → Đường huyết tăng trở lại.
+Ví dụ dễ hiểu nhất là điều hòa đường huyết:
 
-=== Vòng phản hồi dương — Khi cơ thể "tăng tốc"
+- *Sau bữa ăn,* đường trong máu tăng cao → #term("tuy-tang") tiết ra insulin — như "chìa khóa" mở cửa cho tế bào hấp thu đường → gan cất phần đường dư vào "kho" → đường huyết hạ về mức bình thường.
+- *Lúc đói,* đường huyết tụt xuống thấp → tụy tiết ra glucagon → gan mở kho, phát đường dự trữ ra máu → đường huyết tăng trở lại.
 
-Đôi khi cơ thể cần khuếch đại thay đổi thay vì chống lại nó. Đó là *vòng phản hồi dương* (positive feedback). Ví dụ:
+Nhờ vòng qua vòng lại như vậy, mức đường trong máu luôn được giữ ổn định dù bạn ăn hay nhịn.
 
-- *Sinh đẻ:* Đầu thai nhi chạm cổ tử cung → kích thích tiết oxytocin → tăng co thắt → thai nhi bị đẩy sâu hơn vào cổ tử cung → tiết thêm oxytocin → cho đến khi em bé chào đời.
-- *Đông máu:* Mỗi bước trong chuỗi phản ứng kích hoạt bước tiếp theo với tốc độ ngày càng nhanh — cần thiết để cầm máu kịp thời.
+=== Vòng phản hồi dương — Khi cơ thể "tăng tốc" có chủ đích
+
+Thông thường cơ thể thích "kìm lại" để mọi thứ ổn định. Nhưng có những lúc cơ thể cần một phản ứng dây chuyền — càng tăng càng mạnh, cho đến khi hoàn tất một việc quan trọng. Đó là *vòng phản hồi dương* (#term("feedback-duong")). Hai ví dụ tiêu biểu:
+
+- *Sinh con:* Đầu em bé chạm vào cổ tử cung → cơ thể tiết ra oxytocin (hormone làm tử cung co bóp) → cơn co mạnh hơn → đầu bé bị đẩy sâu hơn → lại tiết thêm oxytocin... Cứ thế càng lúc càng mạnh cho đến khi em bé chào đời, rồi vòng phản hồi mới dừng lại.
+- *Cầm máu:* Khi bị đứt tay, máu kết thành cục theo một chuỗi phản ứng ngày càng nhanh — kết càng nhiều càng tốt — để bịt kín vết thương kịp thời.
 
 #muc-bang-chung("A")[
-  *Sốt là phản ứng bảo vệ:* Khi cơ thể phát hiện vi khuẩn xâm nhập, hệ miễn dịch "nâng" ngưỡng nhiệt độ mục tiêu lên 38-39°C. Sốt giúp ức chế vi khuẩn, tăng tốc tế bào miễn dịch, và thúc đẩy sản xuất protein bảo vệ tế bào. Dùng thuốc hạ sốt ngay khi thân nhiệt chỉ hơn 38°C có thể can thiệp vào phản ứng tự nhiên của cơ thể. Thuốc thực sự cần thiết khi sốt trên 39-40°C hoặc khi người bệnh quá khó chịu, mất nước.
+  *Sốt — phản ứng phòng vệ thông minh, đừng hạ vội:* Khi bị vi khuẩn tấn công, cơ thể chủ động "nâng ngưỡng nhiệt độ" lên 38-39°C — giống như bạn tăng độ ấm trong nhà để đuổi kẻ xâm nhập. Sốt làm vi khuẩn khó sinh sôi và giúp tế bào miễn dịch làm việc nhanh hơn. Vì vậy, sốt nhẹ không cần hạ gấp. Chỉ nên dùng thuốc hạ sốt khi nhiệt độ trên 39-40°C hoặc khi người bệnh quá khó chịu, mất nước. Sốt cao kéo dài thì vẫn phải đi khám bác sĩ.
 ]
 
-== Các hệ cơ quan và sự phụ thuộc lẫn nhau
+== Các hệ cơ quan — Một "công ty" luôn phối hợp nhịp nhàng
 
-Cơ thể có 11 hệ cơ quan lớn. Mỗi hệ có chức năng riêng nhưng không thể hoạt động độc lập: xương, cơ, thần kinh, nội tiết, tuần hoàn, bạch huyết/miễn dịch, hô hấp, tiêu hóa, tiết niệu, sinh dục, và da.
+Cơ thể có 11 hệ cơ quan, mỗi hệ như một "phòng ban" chuyên trách trong một công ty lớn:
 
-Khi bạn chạy bộ, hãy xem các hệ phối hợp ra sao:
+- *Xương* là khung nhà, *cơ* là hệ thống máy móc.
+- *Thần kinh* là hệ thống dây điện truyền tín hiệu; *nội tiết* là hệ thống gửi thư (hormone).
+- *Tuần hoàn* (tim, mạch máu) là đội vận chuyển hàng hóa; *hô hấp* (phổi) là hệ thống thông gió.
+- *Tiêu hóa* là bộ phận tiếp liệu; *tiết niệu* (thận) là hệ thống xử lý chất thải.
+- *Miễn dịch* là đội an ninh; *da* là bức tường bảo vệ bên ngoài; *sinh dục* là bộ phận duy trì nòi giống.
 
-Não ra lệnh → *hệ thần kinh* truyền tín hiệu đến *hệ cơ* → cơ chân co rút, đốt ATP. Nhu cầu oxy và năng lượng tăng vọt → *hệ hô hấp* thở nhanh hơn → *hệ tuần hoàn* tim đập nhanh, mạch máu giãn để đưa oxy đến cơ → *hệ nội tiết* tiết adrenaline tăng tốc toàn bộ quá trình.
+Điều quan trọng nhất: không "phòng ban" nào làm việc một mình. Hãy theo dõi một cú chạy bộ buổi sáng để thấy sự phối hợp:
 
-Đồng thời, *da* tiết mồ hôi để thải nhiệt. *Thận* điều chỉnh nước tiểu để bù mồ hôi. Sau khi chạy, *hệ miễn dịch* dọn dẹp vi tổn thương trong cơ. Và *hệ tiêu hóa* cung cấp lại nhiên liệu. Tất cả diễn ra đồng thời, không cần bạn nghĩ đến bước nào.
+- Não ra lệnh → *thần kinh* truyền tín hiệu xuống *cơ* → chân bắt đầu co duỗi.
+- Cơ làm việc cần nhiều năng lượng và oxy → *phổi* thở nhanh hơn, *tim* đập nhanh hơn, mạch máu giãn ra để "chở" oxy đến chân.
+- *Tuyến thượng thận* phóng thích adrenaline — như tiếng còi báo động — khiến toàn bộ quá trình chạy nhanh hơn.
+- *Da* toát mồ hôi để giải nhiệt. *Thận* điều chỉnh lượng nước tiểu để bù lại nước mất qua mồ hôi.
+- Sau khi chạy, *hệ miễn dịch* dọn dẹp những chỗ cơ bị tổn thương nhỏ; *tiêu hóa* nạp lại nhiên liệu cho lần chạy sau.
+
+Tất cả diễn ra cùng lúc, hoàn toàn tự động — bạn chỉ cần nghĩ đến việc chạy, còn "công ty" lo phần còn lại.
 
 #muc-bang-chung("C")[
-  *Cơ thể người được thiết kế với ý đồ từ trước:* Bộ gene của chúng ta được tối ưu hóa cho cuộc sống "săn bắt-hái lượm" — vận động nhiều, ăn uống đa dạng và không liên tục, ngủ theo chu kỳ ngày đêm tự nhiên. Nhiều "bệnh hiện đại" (như tiểu đường type 2, béo phì, trầm cảm, stress) có thể hiểu qua lăng kính *không phù hợp với cấu trúc cơ thể người* (human body mismatch): cơ thể bạn được thiết kế thông thường như vậy, nhưng bạn lại đang sống trong một nhịp sống khác thường: thức khuya, ít vận động và ăn nhiều đường tinh chế.
+  *Cơ thể bạn "sinh ra để chạy", không phải để ngồi:* Qua hàng triệu năm tiến hóa, cơ thể người được tối ưu cho cuộc sống săn bắt – hái lượm: vận động nhiều, ăn uống đa dạng theo mùa, ngủ theo nhịp ngày đêm. Nhưng xã hội hiện đại khiến chúng ta ngồi nhiều, thức khuya, và nạp nhiều đường tinh chế. Nhiều "bệnh hiện đại" như tiểu đường type 2, béo phì hay trầm cảm có thể hiểu qua lăng kính này: *cơ thể thì vẫn cổ xưa, lối sống thì quá mới* — sự không khớp nhau (mismatch) giữa hai điều đó.
 ]
 
 #question-section()
 
-1. Chọn một hoạt động hằng ngày (ăn cơm, học bài, leo cầu thang) và phân tích ít nhất 4 hệ cơ quan tham gia.
-2. "Sốt càng cao càng diệt được vi khuẩn — không nên hạ sốt." Tuyên bố này đúng hay sai? Giải thích dựa trên nguyên lý cân bằng nội môi.
-3. Kháng sinh phổ rộng dùng dài ngày ảnh hưởng đến "siêu sinh vật" (holobiont) thế nào?
-4. Tại sao khái niệm "đặc tính nổi lên" quan trọng trong việc hiểu giới hạn của nghiên cứu in vitro (trong ống nghiệm)?
+1. Chọn một hoạt động hằng ngày (ăn cơm, leo cầu thang, đi bộ) và kể tên ít nhất 4 "phòng ban" (hệ cơ quan) tham gia, cùng vai trò của từng phòng.
+2. "Sốt càng cao càng tốt — không nên hạ sốt." Câu này đúng hay sai? Giải thích dựa trên nguyên lý cân bằng nội môi.
+3. Uống kháng sinh dài ngày có thể ảnh hưởng đến những "công dân" vi khuẩn có ích trong ruột bạn như thế nào?
+4. Tại sao hiểu khái niệm "đặc tính nổi lên" giúp ta hiểu giới hạn của việc nghiên cứu tế bào trong ống nghiệm (ngoài cơ thể)?
