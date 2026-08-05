@@ -34,3 +34,16 @@
     ]
   )
 }
+
+// Bảng dữ liệu với header được tô màu
+#let bang-du-lieu(header: (), body: ()) = {
+  let ncols = header.len()
+  table(
+    columns: (1fr,) * ncols,
+    stroke: 0.5pt + luma(180),
+    inset: (x: 8pt, y: 5pt),
+    align: center,
+    ..header.map(h => table.cell(fill: luma(235), text(weight: "bold", h))),
+    ..body.flatten().map(c => table.cell(c)),
+  )
+}

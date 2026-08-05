@@ -116,5 +116,93 @@
     "credit": "Own work",
     "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Skeletal_muscle_svg_hariadhi.svg",
     "commons_url": "https://commons.wikimedia.org/wiki/File:Skeletal_muscle_svg_hariadhi.svg"
+  },
+  {
+    "local": "ch04_Brain_diagram_without_text.svg",
+    "status": "ok",
+    "commons_title": "File:Brain diagram without text.svg",
+    "license": "Public domain",
+    "author": "Mysid, arrows added by Was a bee",
+    "description": "Principal fissures and lobes of the cerebrum viewed laterally. Figure 728 from Gray's Anatomy.",
+    "credit": "Vectorized in CorelDraw by Mysid, based on the online edition of Gray's Anatomy",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Brain_diagram_without_text.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Brain_diagram_without_text.svg"
+  },
+  {
+    "local": "ch04_Diagram_showing_the_lobes_of_the_brain_CRUK_308.svg",
+    "status": "ok",
+    "commons_title": "File:Diagram showing the lobes of the brain CRUK 308.svg",
+    "license": "CC BY-SA 4.0",
+    "author": "Cancer Research UK",
+    "description": "Diagram showing the lobes of the brain.",
+    "credit": "Released by Cancer Research UK as part of an open knowledge project",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Diagram_showing_the_lobes_of_the_brain_CRUK_308.svg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Diagram_showing_the_lobes_of_the_brain_CRUK_308.svg"
+  },
+  {
+    "local": "ch15_12_kinh_chinh_Chinese_meridians.JPG",
+    "status": "ok",
+    "commons_title": "File:Chinese meridians.JPG",
+    "license": "Public domain",
+    "author": "KVDP",
+    "description": "A schematic of the Chinese (human body) meridians, color-coded to their elements.",
+    "credit": "Own work, based on an image from the Northern Crane Martial Arts Association dojo",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Chinese_meridians.JPG",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Chinese_meridians.JPG"
+  },
+  {
+    "local": "ch15_kinh_tam_bao_Minh_Acupuncture_chart.jpg",
+    "status": "ok",
+    "commons_title": "File:Acupuncture chart 300px.jpg",
+    "license": "Public domain",
+    "author": "Unknown (Ming dynasty artist); source Imagery From the History of Medicine",
+    "description": "Chinese acupuncture chart from the Ming dynasty showing the Jueyin Pericardium Meridian of Hand.",
+    "credit": "Public domain faithful reproduction of a two-dimensional work of art",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Acupuncture_chart_300px.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Acupuncture_chart_300px.jpg"
+  },
+  {
+    "local": "ch15_bieu_do_giai_phau_huyet_dao_JPG.JPG",
+    "status": "ok",
+    "commons_title": "File:Anatomical charts of channel acupoints for the new acupuncture.JPG",
+    "license": "Public domain",
+    "author": "Theodoric (Tang Xue Feng). Xin zhen jiu jing xue jie pou tu.",
+    "description": "Anatomical charts of channel acupoints for the new acupuncture, courtesy of the National Library of Medicine.",
+    "credit": "National Library of Medicine, Images from the History of Medicine (E00175)",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/97/Anatomical_charts_of_channel_acupoints_for_the_new_acupuncture.JPG",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Anatomical_charts_of_channel_acupoints_for_the_new_acupuncture.JPG"
+  },
+  {
+    "local": "ch16_baduanjin_Baduanjin_qigong_edit1.jpg",
+    "status": "ok",
+    "commons_title": "File:Baduanjin qigong edit1.jpg",
+    "license": "Public domain",
+    "author": "Gueyang Shanren (Qing dynasty illustration)",
+    "description": "A Qing-dynasty illustration of the Baduanjin qigong exercise 'Separate Heaven and Earth' (Bát Đoạn Cẩm).",
+    "credit": "Source: Schøyen Collection",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/51/Baduanjin_qigong_edit1.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Baduanjin_qigong_edit1.jpg"
+  },
+  {
+    "local": "ch16_bieu_do_tuan_hoan_khi_Wellcome_L0038694.jpg",
+    "status": "ok",
+    "commons_title": "File:Chinese woodcut; Circulation of Qi during Qigong practice Wellcome L0038694.jpg",
+    "license": "CC BY 4.0",
+    "author": "Wellcome Collection, London (Liu Sijing, Qing dynasty, Kangxi reign)",
+    "description": "Chinese woodcut from 'Che sheng ba bian neijing' (The Penetrating Mirror of the Interior in Eight Books) showing the circulation of genuine Qi (chân khí) during Qigong practice.",
+    "credit": "Wellcome Collection (Wellcome Images L0038694), CC BY 4.0",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/96/Chinese_woodcut%3B_Circulation_of_Qi_during_Qigong_practice_Wellcome_L0038694.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:Chinese_woodcut;_Circulation_of_Qi_during_Qigong_practice_Wellcome_L0038694.jpg"
+  },
+  {
+    "local": "ch16_thai_cuc_quyen_World_Tai_Chi_Day.jpg",
+    "status": "ok",
+    "commons_title": "File:World Tai Chi Day.jpg",
+    "license": "CC BY-SA 4.0",
+    "author": "ShorelineTaiji",
+    "description": "World Tai Chi Day in Shoreline, Washington, USA — the 'Single Whip' posture of Yang-style Tai Chi Chuan (Thái Cực Quyền).",
+    "credit": "Own work (ShorelineTaiji), CC BY-SA 4.0",
+    "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/World_Tai_Chi_Day.jpg",
+    "commons_url": "https://commons.wikimedia.org/wiki/File:World_Tai_Chi_Day.jpg"
   }
 ]
