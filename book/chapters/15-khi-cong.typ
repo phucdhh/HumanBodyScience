@@ -4,7 +4,7 @@
 
 = KHÍ CÔNG
 
-#term("khi-cong") (气功) là một hệ thống bài tập kết hợp giữa vận động chậm, điều hòa hơi thở và tập trung tâm trí, có nguồn gốc từ y học cổ truyền Trung Quốc. Tên gọi này có nghĩa là "luyện tập khí" — năng lượng sống được cho là luân chuyển trong cơ thể qua hệ thống kinh mạch (đã giới thiệu ở Chương 15).
+#term("khi-cong") (气功) là một hệ thống bài tập kết hợp giữa vận động chậm, điều hòa hơi thở và tập trung tâm trí, có nguồn gốc từ y học cổ truyền Trung Quốc. Tên gọi này có nghĩa là "luyện tập khí" — năng lượng sống được cho là luân chuyển trong cơ thể qua hệ thống kinh mạch (đã giới thiệu ở Chương 14).
 
 Chương này xem xét khí công dưới *hai góc nhìn*: như một hiện tượng văn hóa-lịch sử và như một can thiệp sức khỏe có thể kiểm tra bằng phương pháp khoa học. Điểm mấu chốt xuyên suốt cả chương: chúng ta có thể tập khí công và đạt được những lợi ích sức khỏe thật sự — mà không cần tin rằng khái niệm "khí" đúng theo nghĩa cổ truyền. Hai điều đó là hai câu hỏi khác nhau.
 
@@ -35,7 +35,7 @@ Khí công thường được phân thành ba nhóm chính:
 
 === Hình dung về "khí": bản đồ chân khí
 
-Trong khí công, người tập được dạy "hạ khí đan điền" (đưa khí chìm xuống vùng bụng dưới — Đan Điền, xem Chương 15), rồi dùng ý niệm dẫn khí chạy theo vòng khép kín Đốc mạch-Nhâm mạch (còn gọi là *tiểu chu thiên* — vòng quay nhỏ). Các bản đồ cổ vẽ dòng chảy "chân khí" này lên cơ thể người.
+Trong khí công, người tập được dạy "hạ khí đan điền" (đưa khí chìm xuống vùng bụng dưới — Đan Điền, xem Chương 14), rồi dùng ý niệm dẫn khí chạy theo vòng khép kín Đốc mạch-Nhâm mạch (còn gọi là *tiểu chu thiên* — vòng quay nhỏ). Các bản đồ cổ vẽ dòng chảy "chân khí" này lên cơ thể người.
 
 #figure(
   image("../assets/images/ch16_bieu_do_tuan_hoan_khi_Wellcome_L0038694.jpg", width: 55%),
@@ -88,7 +88,7 @@ Các động tác chậm đòi hỏi kiểm soát tư thế liên tục, kích h
 
 Một phần tác dụng của khí công đến từ: kỳ vọng của người tập, sự chú ý của người hướng dẫn, hiệu ứng cộng đồng (tập nhóm), và niềm tin vào hiệu quả của phương pháp. Đây không phải là "không có thật" — hiệu ứng giả dược là một hiện tượng sinh lý thực sự, nhưng cần được phân biệt với tác dụng đặc hiệu của bài tập.
 
-== Công năng đặc dị — Siêu năng lực có được khoa học công nhận?
+== Công năng đặc dị
 
 Những người tập khí công ở Trung Quốc thập niên 80-90, và một số bài viết phổ biến trên mạng hiện nay, thường nhắc tới *công năng đặc dị* (特異功能) — những khả năng như tha tâm thông, thấu thị, nhìn xuyên qua, dịch chuyển đồ vật bằng ý nghĩ...
 
@@ -113,7 +113,7 @@ Các bài viết thường dẫn chứng những thí nghiệm như thẻ ESP c�
 
 Nhiều loại công năng đã được giới thiệu hoặc lưu truyền, tuy vậy những bằng chứng xác đáng về chúng vẫn đang còn chưa rõ ràng. Điều đó không phủ nhận giá trị của khí công như một bài tập sức khỏe — nhưng buộc chúng ta phải tách bạch hai điều: *bài tập có lợi ích* (có bằng chứng) và *"phát khí" hay siêu năng lực* (không có bằng chứng).
 
-Một lưu ý nữa về *ngoại khí* (phát khí từ tay để chữa bệnh cho người khác): như đã nêu ở Chương 15, các thử nghiệm có kiểm soát về ngoại khí hầu hết cho kết quả âm tính hoặc không tái lập được. Lợi ích mà người bệnh có thể cảm nhận được khi được "trị liệu ngoại khí" thường đến từ sự thư giãn, chú ý và kỳ vọng — không phải từ một loại năng lượng đặc biệt truyền qua không khí.
+Một lưu ý nữa về *ngoại khí* (phát khí từ tay để chữa bệnh cho người khác): như đã nêu ở Chương 14, các thử nghiệm có kiểm soát về ngoại khí hầu hết cho kết quả âm tính hoặc không tái lập được. Lợi ích mà người bệnh có thể cảm nhận được khi được "trị liệu ngoại khí" thường đến từ sự thư giãn, chú ý và kỳ vọng — không phải từ một loại năng lượng đặc biệt truyền qua không khí.
 
 == So sánh với các can thiệp tâm-thân khác
 
@@ -148,7 +148,7 @@ Khí công là một thực hành văn hóa có giá trị lịch sử sâu sắ
 - *Chưa rõ:* Các tuyên bố về chữa bệnh đặc hiệu hoặc cơ chế "khí" theo nghĩa cổ truyền (Mức C/D).
 - *Không có bằng chứng:* Công năng đặc dị, phát khí chữa bệnh từ xa, thay thế y học hiện đại (Mức D).
 
-Giống như châm cứu (Chương 15), khí công có thể là một bổ sung an toàn và có lợi cho sức khỏe tổng thể, nhưng không nên thay thế các phương pháp điều trị có bằng chứng mạnh hơn. Câu hỏi trung tâm mà chương này muốn người đọc mang về: phần lớn lợi ích của khí công đến từ *sinh lý học thật sự* (thần kinh, hô hấp, vận động, thư giãn) — không cần đến một loại "năng lượng đặc biệt" chưa từng được chứng minh.
+Giống như châm cứu (Chương 14), khí công có thể là một bổ sung an toàn và có lợi cho sức khỏe tổng thể, nhưng không nên thay thế các phương pháp điều trị có bằng chứng mạnh hơn. Câu hỏi trung tâm mà chương này muốn người đọc mang về: phần lớn lợi ích của khí công đến từ *sinh lý học thật sự* (thần kinh, hô hấp, vận động, thư giãn) — không cần đến một loại "năng lượng đặc biệt" chưa từng được chứng minh.
 
 #question-section()
 

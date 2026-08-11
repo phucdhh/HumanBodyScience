@@ -40,14 +40,11 @@
 #include "chapters/12-co-the-nguoi-va-than-hoc.typ"
 #include "chapters/13-y-hoc-hien-dai-truyen-thong.typ"
 #pagebreak()
+#include "chapters/14-he-thong-kinh-mach.typ"
 #pagebreak()
-#include "chapters/14-suc-khoe-benh-tat-phong-ngua.typ"
-
-// === PHỤ LỤC - CHƯƠNG BỔ SUNG ===
+#include "chapters/15-khi-cong.typ"
 #pagebreak()
-#include "chapters/15-he-thong-kinh-mach.typ"
-#pagebreak()
-#include "chapters/16-khi-cong.typ"
+#include "chapters/16-suc-khoe-benh-tat-phong-ngua.typ"
 
 // === PHỤ LỤC - MỤC LỤC THUẬT NGỮ ===
 #pagebreak()

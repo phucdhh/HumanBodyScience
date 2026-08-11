@@ -38,9 +38,9 @@ book/
 │   ├── 11-giac-ngu-va-lao-hoa.typ
 │   ├── 12-co-the-nguoi-va-than-hoc.typ
 │   ├── 13-y-hoc-hien-dai-truyen-thong.typ
-│   ├── 14-suc-khoe-benh-tat-phong-ngua.typ
-│   ├── 15-he-thong-kinh-mach.typ
-│   ├── 16-khi-cong.typ
+│   ├── 14-he-thong-kinh-mach.typ
+│   ├── 15-khi-cong.typ
+│   ├── 16-suc-khoe-benh-tat-phong-ngua.typ
 │   ├── 99-muc-luc-thuat-ngu.typ
 │   └── loi-noi-dau.typ
 ├── glossary/

@@ -2,6 +2,19 @@
 # Lịch sử các phiên bản xuất bản
 
 
+## Phiên bản 2026.08.11.1150 (11/08/2026 11:50)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.11.1150.pdf
+- Kích thước: 9.0M
+- Biên dịch: 11/08/2026 lúc 11:50:10
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 44
+- Tổng số chương nội dung: 17
+
+
 ## Phiên bản 2026.08.06.0215 (06/08/2026 02:15)
 
 ### Thông tin file

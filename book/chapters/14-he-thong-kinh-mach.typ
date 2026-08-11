@@ -72,7 +72,7 @@ Khác với 12 chính kinh gắn với tạng phủ, 8 kỳ kinh (奇经八脉) 
 - *Đốc mạch (督脉):* Chạy dọc chính giữa lưng, từ xương cụt lên đỉnh đầu tới môi trên. Được gọi là "biển của các kinh dương" — nơi hội tụ dương khí của cả cơ thể.
 - *Nhâm mạch (任脉):* Chạy dọc chính giữa mặt trước, từ vùng đáy chậu lên ngực, cổ tới môi dưới. Được gọi là "biển của các kinh âm" — nơi hội tụ âm khí.
 
-Hai đường này, cùng với Xung mạch (chạy dọc giữa bụng), thường được nhắc đến như "ba mạch đan" — nền tảng của nhiều bài tập khí công (xem Chương 16). Sáu kỳ kinh còn lại (Đới mạch, Âm kiều, Dương kiều, Âm duy, Dương duy) ít được nhắc đến hơn.
+Hai đường này, cùng với Xung mạch (chạy dọc giữa bụng), thường được nhắc đến như "ba mạch đan" — nền tảng của nhiều bài tập khí công (xem Chương 15). Sáu kỳ kinh còn lại (Đới mạch, Âm kiều, Dương kiều, Âm duy, Dương duy) ít được nhắc đến hơn.
 
 #muc-bang-chung("D")[
   *Hệ thống kinh mạch trong Hoàng Đế Nội Kinh:* Theo quan niệm cổ truyền, khí lưu thông trong kinh mạch theo nhịp điệu tuần hoàn 24 giờ — mỗi kinh có 2 giờ "cao điểm" trong ngày. Ví dụ: kinh Phế hoạt động mạnh từ 3-5 giờ sáng, kinh Đại trường từ 5-7 giờ sáng. Đây là một mô hình lý thuyết, chưa có bằng chứng thực nghiệm xác nhận cơ chế này dưới góc nhìn sinh lý học hiện đại.
@@ -160,7 +160,7 @@ Trong hàng trăm huyệt đạo được ghi nhận (hơn 360 huyệt chính), 
 
 === Đan Điền (丹田) — "Ruộng cát", kho chứa khí
 
-*Vị trí:* Đan Điền là một *vùng* hơn là một điểm đơn lẻ — vùng bụng dưới, khoảng dưới rốn 3 thốn (tương ứng gần huyệt Khí Hải và Quan Nguyên trên Nhâm mạch). Đây là khái niệm trung tâm nhất của khí công và võ thuật cổ truyền (xem Chương 16).
+*Vị trí:* Đan Điền là một *vùng* hơn là một điểm đơn lẻ — vùng bụng dưới, khoảng dưới rốn 3 thốn (tương ứng gần huyệt Khí Hải và Quan Nguyên trên Nhâm mạch). Đây là khái niệm trung tâm nhất của khí công và võ thuật cổ truyền (xem Chương 15).
 
 *Vai trò:* Đan Điền được xem là "lò nấu" hay "kho" khí — nơi khí được tích trữ, tinh luyện và từ đó tỏa đi khắp cơ thể. Người tập được dạy "hạ khí đan điền" (thở để khí chìm xuống bụng dưới), và dùng ý niệm dẫn dắt chuyển động từ điểm này — nguồn gốc của việc tập trung sức mạnh từ "trọng tâm" cơ thể.
 
