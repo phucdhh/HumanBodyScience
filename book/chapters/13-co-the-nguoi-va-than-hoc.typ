@@ -37,7 +37,7 @@ Hầu hết các nền văn hóa và tôn giáo đều phân biệt giữa thể
 
 === Ý thức — Bài toán chưa có lời giải
 
-Như đã thảo luận ở Chương 10, khoa học chưa giải thích được tại sao hoạt động thần kinh lại tạo ra trải nghiệm chủ quan. Một số nhà khoa học thần kinh cho rằng ý thức hoàn toàn có thể giải thích bằng cơ chế vật lý của não — không cần đến khái niệm linh hồn. Số khác — bao gồm một số nhà triết học và khoa học — cho rằng có thể tồn tại khía cạnh phi vật chất của ý thức mà khoa học hiện tại chưa thể đo lường.
+Như đã thảo luận ở Chương 11, khoa học chưa giải thích được tại sao hoạt động thần kinh lại tạo ra trải nghiệm chủ quan. Một số nhà khoa học thần kinh cho rằng ý thức hoàn toàn có thể giải thích bằng cơ chế vật lý của não — không cần đến khái niệm linh hồn. Số khác — bao gồm một số nhà triết học và khoa học — cho rằng có thể tồn tại khía cạnh phi vật chất của ý thức mà khoa học hiện tại chưa thể đo lường.
 
 === Trải nghiệm tâm linh và não bộ
 

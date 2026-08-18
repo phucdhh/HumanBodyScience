@@ -1,5 +1,5 @@
 #import "../config/template.typ": question-section
-#import "../config/theme.typ": muc-bang-chung
+#import "../config/theme.typ": muc-bang-chung, color-level-a, color-level-b, color-level-c, color-level-d
 #import "../glossary/thuat-ngu.typ": term
 
 = CƠ THỂ NGƯỜI LÀ GÌ?
@@ -19,6 +19,27 @@ Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp 
 - *Hệ cơ quan:* Các cơ quan phối hợp với nhau. Ví dụ: hệ tiêu hóa gồm miệng, thực quản, dạ dày, ruột, gan, tụy.
 - *Cơ thể:* Tất cả các hệ vận hành đồng bộ với một "Hệ điều hành" - nói theo ngôn ngữ máy tính - để tạo nên *bạn*.
 
+#figure(
+  numbering: none,
+  caption: [
+    Thang bậc tổ chức của cơ thể — càng lên cao, mỗi cấp càng phức tạp và nảy sinh những đặc tính mới
+  ],
+  grid(
+    columns: 1fr,
+    row-gutter: 4pt,
+    align(center, rect(width: 45%, height: 1.7em, fill: color-level-c.lighten(88%), stroke: 0.8pt + color-level-c, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Nguyên tử & phân tử]))),
+    align(center, rect(width: 56%, height: 1.7em, fill: color-level-b.lighten(88%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Tế bào]))),
+    align(center, rect(width: 67%, height: 1.7em, fill: color-level-b.lighten(80%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mô]))),
+    align(center, rect(width: 78%, height: 1.7em, fill: color-level-b.lighten(72%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Cơ quan]))),
+    align(center, rect(width: 89%, height: 1.7em, fill: color-level-b.lighten(64%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Hệ cơ quan]))),
+    align(center, rect(width: 100%, height: 1.7em, fill: color-level-b.lighten(55%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Cơ thể người]))),
+  ),
+)
+
+*Theo dấu một phân tử oxy — "đi dạo" một vòng trên thang bậc:* Bạn hít một hơi thật sâu: trong đó có vô số phân tử oxy (O₂). Chúng đi qua khí quản vào hai lá phổi, xuyên qua màng mỏng của phế nang vào máu, "bám" vào hemoglobin trong hồng cầu, được tim bơm đến tận những mạch máu nhỏ nhất, rồi được trao cho tế bào và cuối cùng tới ty thể — "nhà máy năng lượng" — để đốt nhiên liệu sinh năng lượng. Cũng là một nguyên tử oxy, nhưng chức năng của nó chỉ có ý nghĩa ở từng bậc: đứng một mình nó chỉ là khí; gắn vào hemoglobin nó thành "hàng hóa" được vận chuyển; vào ty thể nó thành nhiên liệu đốt. Cùng một loại viên gạch, mỗi tầng nhà lại dùng nó theo một cách khác.
+
+*Để cảm nhận độ dài của thang bậc:* một nguyên tử nhỏ đến mức phải hàng chục nghìn cái xếp sát nhau mới dài bằng đường kính một tế bào người (10-30 micro mét). Từ đó, khoảng 200 loại tế bào khác nhau hợp thành các mô, các mô hợp thành cơ quan, và hàng chục nghìn tỷ tế bào xếp thành một cơ thể cao hơn mét rưỡi — mỗi "loại" tế bào lại được tuyển đúng vào vị trí của nó.
+
 Vậy thì dưới nguyên tử (nhỏ hơn cả nguyên tử) thì sao? Khoa học thực chứng đã cho thấy có những hạt nhỏ hơn cấu thành nên nguyên tử, và những hạt nhỏ hơn đó lại được cấu thành từ những hạt nhỏ hơn nữa. Bạn hãy tự tìm hiểu xem. Tương tự, bạn cũng có thể đặt câu hỏi, nếu xét thân thể người như một đơn vị cho một tổng thể nào đó, thì tổng thể đó là gì? Và nếu tổng thể đó lại được xem như là một đơn vị để cấu thành nên tổng thể lớn hơn, thì tổng thể lớn hơn đó là gì?
 
 === Đặc tính nổi lên — Tổng thể lớn hơn tổng các bộ phận
@@ -26,6 +47,8 @@ Vậy thì dưới nguyên tử (nhỏ hơn cả nguyên tử) thì sao? Khoa h�
 Một khái niệm quan trọng để hiểu cơ thể là *đặc tính nổi lên* (emergent properties): những đặc điểm xuất hiện ở cấp độ cao hơn mà không thể (hoặc rất khó) thấy ở cấp độ thấp hơn. Ví dụ: nước có thể làm ướt, nhưng hydrogen và oxygen riêng lẻ thì không — đây là đặc tính nổi lên.
 
 Quan sát một nguyên tử carbon, chúng ta khó cảm nhận được sự sống của nó. Một phân tử DNA cũng vậy, dạng vật chất của nó thì có thể thấy được. Tương tự, ta khó biết một tế bào thần kinh có ý thức hay không. Nhưng gần 86 tỷ tế bào thần kinh với hàng trăm nghìn tỷ kết nối tạo ra ý thức, cảm xúc và ký ức của con người, thứ mà ta có thể dùng mắt thường để quan sát được.
+
+*Một cách ví von dễ nhớ:* một chữ cái không "chứa" câu chuyện, nhưng hàng nghìn chữ xếp lại thì làm được — điều mà không chữ cái nào đơn lẻ mang theo cả. Cũng vậy, một neuron không nhớ gì; nhưng 86 tỷ neuron kết nối với nhau thì lưu giữ cả một đời ký ức.
 
 Điều này có ý nghĩa thực tế: một loại thuốc tác động lên một phân tử có thể gây hiệu ứng lên các cấu trúc bậc cao hơn mà có thể không lường trước được. Đó là lý do thử nghiệm trên người luôn cần thiết, dù thí nghiệm trong phòng thí nghiệm đã cho kết quả tốt.
 
@@ -37,6 +60,15 @@ Có một sự thật đáng kinh ngạc: cơ thể bạn là nơi sinh sống c
 - Tổng hợp vitamin K2, biotin, folate.
 - Huấn luyện hệ miễn dịch từ những năm tháng đầu đời @dominguez2010.
 - Giao tiếp với não qua "trục ruột-não" (gut-brain axis).
+
+#figure(
+  image("../assets/images/ch08_202004 Gut microbiota.svg", width: 70%),
+  caption: [
+    Cộng đồng vi sinh vật sống trong ruột — những "cư dân thường trú" của cơ thể bạn
+  ],
+)
+
+*Một ví dụ cho thấy những "cư dân" này quan trọng đến mức nào:* người dùng kháng sinh dài ngày có nguy cơ bị vi khuẩn có hại sinh sôi mất kiểm soát — điển hình là loài *Clostridioides difficile* gây tiêu chảy nặng — vì những đối thủ cạnh tranh đã bị tiêu diệt. Cách điều trị hiệu quả nhất hiện nay không phải thêm một loại thuốc, mà là *cấy ghép vi sinh vật đường ruột* (fecal microbiota transplant): lấy một mẫu phân của người khỏe mạnh, xử lý và đưa vào ruột người bệnh để chuyển vào đó "cả một hệ sinh thái lành mạnh", với tỷ lệ khỏi bệnh tới 80-90% @thursby2017. Việc một "cộng đồng vi khuẩn" có thể chữa bệnh mà thuốc kháng sinh không chữa nổi cho thấy hệ vi sinh không hề là những kẻ "đi nhờ xe" thụ động.
 
 #muc-bang-chung("B")[
   *Trục ruột-não — Bộ não thứ hai?* Khoảng 90% serotonin — chất dẫn truyền thần kinh liên quan đến tâm trạng — được sản xuất ở *đường ruột*, không phải ở não @cryan2019. Nghiên cứu trên chuột cho thấy thay đổi hệ vi sinh đường ruột có thể thay đổi hành vi. Ở người, cơ chế cụ thể vẫn đang được nghiên cứu, nhưng đây là một hướng đi hứa hẹn của y học hiện đại.
@@ -91,7 +123,16 @@ Ví dụ dễ hiểu nhất là điều hòa đường huyết:
 
 Nhờ vòng qua vòng lại như vậy, mức đường trong máu luôn được giữ ổn định dù bạn ăn hay nhịn.
 
-=== Vòng phản hồi dương — Khi cơ thể "tăng tốc" có chủ đích
+#figure(
+  image("../assets/images/ch05_An example of a negative feedback loop is the process of increasing and decreasing glucose levels in out bloodstream.svg", width: 80%),
+  caption: [
+    Vòng phản hồi âm của insulin và glucagon giữ đường huyết ở mức ổn định
+  ],
+)
+
+*Một ví dụ quen thuộc khác — nhiệt độ cơ thể:* Trời nắng nóng → thân nhiệt tăng → hệ thần kinh phát hiện → ra lệnh giãn mạch dưới da và đổ mồ hôi → nhiệt tỏa ra ngoài → thân nhiệt trở về mức chuẩn và cơ thể "tắt máy". Ngược lại, trời rét → cơ run lên để sinh nhiệt, mạch máu ở tay chân co lại để dồn hơi ấm cho não, tim và phổi. Cùng một "máy điều hòa", hai chế độ ngược nhau, cùng một mục tiêu: giữ thân nhiệt ở khoảng 37°C.
+
+=== Vòng phản hồi dương — Khi cơ thể "tăng tốc"
 
 Thông thường cơ thể thích "kìm lại" để mọi thứ ổn định. Nhưng có những lúc cơ thể cần một phản ứng dây chuyền — càng tăng càng mạnh, cho đến khi hoàn tất một việc quan trọng. Đó là *vòng phản hồi dương* (#term("feedback-duong")). Hai ví dụ tiêu biểu:
 
@@ -102,7 +143,7 @@ Thông thường cơ thể thích "kìm lại" để mọi thứ ổn định. N
   *Sốt — phản ứng phòng vệ thông minh, đừng hạ vội:* Khi bị vi khuẩn tấn công, cơ thể chủ động "nâng ngưỡng nhiệt độ" lên 38-39°C — giống như bạn tăng độ ấm trong nhà để đuổi kẻ xâm nhập. Sốt làm vi khuẩn khó sinh sôi và giúp tế bào miễn dịch làm việc nhanh hơn. Vì vậy, sốt nhẹ không cần hạ gấp. Chỉ nên dùng thuốc hạ sốt khi nhiệt độ trên 39-40°C hoặc khi người bệnh quá khó chịu, mất nước. Sốt cao kéo dài thì vẫn phải đi khám bác sĩ.
 ]
 
-== Các hệ cơ quan — Một "công ty" luôn phối hợp nhịp nhàng
+== Các hệ cơ quan — Một "công ty" phối hợp nhịp nhàng
 
 Cơ thể có 11 hệ cơ quan, mỗi hệ như một "phòng ban" chuyên trách trong một công ty lớn:
 
@@ -111,6 +152,30 @@ Cơ thể có 11 hệ cơ quan, mỗi hệ như một "phòng ban" chuyên trác
 - *Tuần hoàn* (tim, mạch máu) là đội vận chuyển hàng hóa; *hô hấp* (phổi) là hệ thống thông gió.
 - *Tiêu hóa* là bộ phận tiếp liệu; *tiết niệu* (thận) là hệ thống xử lý chất thải.
 - *Miễn dịch* là đội an ninh; *da* là bức tường bảo vệ bên ngoài; *sinh dục* là bộ phận duy trì nòi giống.
+
+#figure(
+  numbering: none,
+  caption: [
+    Mười một hệ cơ quan — mỗi hệ một "phòng ban", không ai làm việc một mình
+  ],
+  grid(
+    columns: (1fr, 1fr, 1fr),
+    column-gutter: 6pt,
+    row-gutter: 6pt,
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-a.lighten(92%), stroke: 0.6pt + color-level-a, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ xương], text(size: 7pt, fill: rgb("#666666"))[khung nhà & nhà máy máu]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-a.lighten(92%), stroke: 0.6pt + color-level-a, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ cơ], text(size: 7pt, fill: rgb("#666666"))[mọi vận động của bạn]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-b.lighten(92%), stroke: 0.6pt + color-level-b, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ thần kinh], text(size: 7pt, fill: rgb("#666666"))[hệ thống dây điện]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-b.lighten(92%), stroke: 0.6pt + color-level-b, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ nội tiết], text(size: 7pt, fill: rgb("#666666"))[gửi "thư" hormone]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-c.lighten(92%), stroke: 0.6pt + color-level-c, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ tuần hoàn], text(size: 7pt, fill: rgb("#666666"))[đội vận chuyển]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-c.lighten(92%), stroke: 0.6pt + color-level-c, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ hô hấp], text(size: 7pt, fill: rgb("#666666"))[hệ thống thông gió]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-c.lighten(92%), stroke: 0.6pt + color-level-c, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ tiêu hóa], text(size: 7pt, fill: rgb("#666666"))[bộ phận tiếp liệu]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-c.lighten(92%), stroke: 0.6pt + color-level-c, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ tiết niệu], text(size: 7pt, fill: rgb("#666666"))[xử lý chất thải]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-b.lighten(92%), stroke: 0.6pt + color-level-b, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ miễn dịch], text(size: 7pt, fill: rgb("#666666"))[đội an ninh]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-b.lighten(92%), stroke: 0.6pt + color-level-b, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Da], text(size: 7pt, fill: rgb("#666666"))[bức tường thành]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-b.lighten(92%), stroke: 0.6pt + color-level-b, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Hệ sinh dục], text(size: 7pt, fill: rgb("#666666"))[giữ nòi giống]))),
+    align(center, rect(width: 100%, height: 2.4em, fill: color-level-a.lighten(85%), stroke: 0.6pt + color-level-a, radius: 2pt, stack(spacing: 1pt, text(size: 8.5pt, weight: "bold")[Bạn], text(size: 7pt, fill: rgb("#666666"))[11 phòng ban đồng bộ]))),
+  ),
+)
 
 Điều quan trọng nhất: không "phòng ban" nào làm việc một mình. Hãy theo dõi một cú chạy bộ buổi sáng để thấy sự phối hợp:
 
@@ -121,6 +186,8 @@ Cơ thể có 11 hệ cơ quan, mỗi hệ như một "phòng ban" chuyên trác
 - Sau khi chạy, *hệ miễn dịch* dọn dẹp những chỗ cơ bị tổn thương nhỏ; *tiêu hóa* nạp lại nhiên liệu cho lần chạy sau.
 
 Tất cả diễn ra cùng lúc, hoàn toàn tự động — bạn chỉ cần nghĩ đến việc chạy, còn "công ty" lo phần còn lại.
+
+*Cũng "công ty ấy", một thử thách khác — trời bỗng đổ lạnh:* Da bạn phát hiện cái lạnh → *thần kinh* báo về não → não ra lệnh *cơ* run lên để sinh nhiệt, *nội tiết* tăng tiết hormone tuyến giáp để đẩy nhanh "lò đốt" của tế bào; *tuần hoàn* co mạch máu ở tay chân để dồn hơi ấm cho phần lõi (não, tim, phổi) — như ưu tiên điện cho "phòng máy chủ"; *da* dựng lông, nổi "da gà" — một di tích tiến hóa từ thời tổ tiên còn nhiều lông. Vẫn là sự phối hợp như buổi chạy bộ, nhưng lần này để giữ nhiệt thay vì tản nhiệt.
 
 #muc-bang-chung("C")[
   *Cơ thể bạn "sinh ra để chạy", không phải để ngồi:* Qua hàng triệu năm tiến hóa, cơ thể người được tối ưu cho cuộc sống săn bắt – hái lượm: vận động nhiều, ăn uống đa dạng theo mùa, ngủ theo nhịp ngày đêm. Nhưng xã hội hiện đại khiến chúng ta ngồi nhiều, thức khuya, và nạp nhiều đường tinh chế. Nhiều "bệnh hiện đại" như tiểu đường type 2, béo phì hay trầm cảm có thể hiểu qua lăng kính này: *cơ thể thì vẫn cổ xưa, lối sống thì quá mới* — sự không khớp nhau (mismatch) giữa hai điều đó.

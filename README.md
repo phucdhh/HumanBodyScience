@@ -86,9 +86,9 @@ Nguyên tắc: **không để độc giả phải tự đoán** một khẳng đ
 11. Giấc ngủ và lão hóa.
 12. Cơ thể người và thần học.
 13.  Y học hiện đại và y học truyền thống.
-14.  Hệ thống kinh mạch.
-15.  Khí công.
-16.  Sức khỏe, bệnh tật và phòng ngừa.
+14.  Sức khỏe, bệnh tật và phòng ngừa.
+15.  Hệ thống kinh mạch.
+16.  Khí công.
 
 > Chương 0, 8 (phần vi sinh vật), 11 và 12 là nội dung bổ sung so với bản đề cương ban đầu, nhằm phản ánh các mảng kiến thức liên ngành đang được quan tâm nhiều và giúp sách có chiều sâu hơn.
 

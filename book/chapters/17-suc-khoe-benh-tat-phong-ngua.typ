@@ -10,7 +10,7 @@
 
 #figure(
   image("../assets/images/ch01_Circulatory System en.svg", width: 60%),
-  caption: [Hệ tuần hoàn - một trong các hệ thống quan trọng duy trì sức khỏe]
+  caption: [Hệ tuần hoàn - duy trì sức khỏe]
 )
 
 Tổ chức Y tế Thế giới (WHO) định nghĩa sức khỏe là "trạng thái khỏe mạnh hoàn toàn về thể chất, tinh thần và xã hội, không chỉ đơn thuần là không có bệnh hay tàn tật" @who1948.
@@ -50,7 +50,7 @@ Dựa trên toàn bộ kiến thức từ 13 chương trước, đây là các n
 
 - *Không hút thuốc:* Đây là điều quan trọng nhất bạn có thể làm cho sức khỏe.
 - *Vận động:* Ít nhất 150 phút aerobic cường độ vừa + 2 buổi tập kháng lực/tuần. Vận động là "thuốc" tốt nhất cho tim, phổi, xương, não và tâm trạng.
-- *Ngủ đủ 7-9 tiếng/đêm:* Như đã thảo luận ở Chương 11.
+- *Ngủ đủ 7-9 tiếng/đêm:* Như đã thảo luận ở Chương 12.
 - *Ăn uống lành mạnh:* Nhiều rau, củ, quả, chất xơ; hạn chế đường, thực phẩm chế biến sẵn, chất béo chuyển hóa. Chế độ Địa Trung Hải có nhiều bằng chứng nhất.
 - *Duy trì cân nặng hợp lý:* BMI 18.5-22.9 (cho người châu Á).
 - *Hạn chế rượu bia:* Không uống vẫn tốt nhất. Nếu uống, tối đa 1 đơn vị cồn/ngày (nữ) hoặc 2 (nam).

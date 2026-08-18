@@ -10,7 +10,7 @@ Chương này trình bày y học cổ truyền trước hết như một *hiệ
 
 == Y học hiện đại — Dựa trên bằng chứng
 
-Y học hiện đại (hay y học dựa trên bằng chứng — evidence-based medicine) đặt câu hỏi: "Phương pháp này có hiệu quả hơn giả dược không?" và trả lời bằng các thử nghiệm lâm sàng ngẫu nhiên có đối chứng (RCT) và tổng quan hệ thống (như đã trình bày chi tiết ở Chương 0).
+Y học hiện đại (hay y học dựa trên bằng chứng — evidence-based medicine) đặt câu hỏi: "Phương pháp này có hiệu quả hơn giả dược không?" và trả lời bằng các thử nghiệm lâm sàng ngẫu nhiên có đối chứng (RCT) và tổng quan hệ thống (như đã trình bày chi tiết ở Chương 1).
 
 Điểm mạnh:
 - Có thể chứng minh hoặc bác bỏ hiệu quả của phương pháp điều trị.

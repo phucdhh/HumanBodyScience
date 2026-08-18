@@ -177,6 +177,12 @@
   "p-value": ("P-value", "P-value", "Xác suất kết quả xảy ra do ngẫu nhiên"),
   "binh-duyet": ("Bình duyệt đồng nghiệp", "Peer review", "Đánh giá nghiên cứu bởi chuyên gia"),
   "falsifiable": ("Khả phủ chứng", "Falsifiability", "Có thể chứng minh là sai - tiêu chí của khoa học"),
+  "nghien-cuu-quan-sat": ("Nghiên cứu quan sát", "Observational study", "Quan sát nhóm người mà không can thiệp"),
+  "tong-quan-he-thong": ("Tổng quan hệ thống", "Systematic review", "Tổng hợp có phương pháp mọi nghiên cứu cùng chủ đề"),
+  "phan-tich-gop": ("Phân tích gộp", "Meta-analysis", "Gộp số liệu nhiều nghiên cứu để tăng cỡ mẫu"),
+  "nocebo": ("Hiệu ứng nocebo", "Nocebo effect", "Triệu chứng xảy ra do kỳ vọng tác dụng phụ"),
+  "khoang-tin-cay": ("Khoảng tin cậy", "Confidence interval", "Dải giá trị ước tính chứa kết quả thật với xác suất cho trước"),
+  "hoi-quy-trung-binh": ("Hồi quy về trung bình", "Regression to the mean", "Giá trị cực đoan có xu hướng trở về mức trung bình khi đo lại"),
   
   // === SỨC KHỎE VÀ BỆNH TẬT ===
   "benh-tat": ("Bệnh tật", "Disease", "Rối loạn cấu trúc hoặc chức năng cơ thể"),

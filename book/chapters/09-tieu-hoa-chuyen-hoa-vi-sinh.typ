@@ -70,7 +70,7 @@ Tại đây, *gan* đổ mật (giúp nhũ hóa chất béo) và *tụy* đổ e
   caption: [Hệ thống bạch huyết và các bộ phận kết nối với đường ruột]
 )
 
-Như đã giới thiệu ở Chương 1, ruột già của bạn chứa khoảng 38 nghìn tỷ vi khuẩn. Cộng đồng vi sinh này:
+Như đã giới thiệu ở Chương 2, ruột già của bạn chứa khoảng 38 nghìn tỷ vi khuẩn. Cộng đồng vi sinh này:
 
 - Tiêu hóa chất xơ mà enzyme người không phân giải được, tạo ra *axit béo chuỗi ngắn* (SCFA) nuôi tế bào ruột và ảnh hưởng đến chuyển hóa toàn cơ thể @thursby2017.
 - Tổng hợp vitamin K và một số vitamin nhóm B.

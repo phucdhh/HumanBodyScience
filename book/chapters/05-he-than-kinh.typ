@@ -107,7 +107,7 @@ Vỏ não là lớp ngoài cùng của não, nơi diễn ra các chức năng b�
 
 Cơ thể khỏe mạnh khi hai "chân ga - chân phanh" này cân bằng. Căng thẳng kéo dài khiến chân ga bị nhấn mãi — có liên quan đến nhiều bệnh như tăng huyết áp, rối loạn tiêu hóa và suy giảm miễn dịch.
 
-== Tính mềm dẻo thần kinh — Não không "cứng", não biết thay đổi
+== Tính mềm dẻo thần kinh — Não không "cứng" mà biết thay đổi
 
 Người ta từng tin não người trưởng thành là "cứng": neuron chết đi không thay thế được, và cấu trúc não cố định sau tuổi ấu thơ. Quan điểm này đã bị lật đổ hoàn toàn.
 

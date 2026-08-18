@@ -36,11 +36,11 @@ Nằm ở nền sọ, chỉ to bằng hạt đậu, #term("tuyen-yen") được 
 - *Suy giáp:* T3/T4 quá ít — tăng cân, mệt mỏi, lạnh, trầm cảm.
 - *Bướu cổ:* Tuyến giáp phình to do thiếu iốt — từng rất phổ biến ở vùng núi Việt Nam trước khi có muối iốt.
 
-=== Tuyến thượng thận (Adrenal glands) — Tuyến đối phó căng thẳng
+=== Tuyến thượng thận (Adrenal glands)
 
 #figure(
   image("../assets/images/ch05_HPA-axis - anterior view (with text).svg", width: 70%),
-  caption: [Trục HPA (Hypothalamus-Pituitary-Adrenal): hệ thống phản ứng với stress]
+  caption: [Trục HPA (Hypothalamus-Pituitary-Adrenal)]
 )
 
 Nằm trên đỉnh mỗi quả thận, mỗi tuyến thượng thận gồm hai phần với hai chức năng hoàn toàn khác nhau:
@@ -73,7 +73,7 @@ Khi hormone gắn vào thụ thể, nó kích hoạt một chuỗi phản ứng 
 
 === Vòng phản hồi âm — Điều khiển tự động
 
-Hệ nội tiết sử dụng vòng phản hồi âm (đã giới thiệu ở Chương 1) để tự điều chỉnh:
+Hệ nội tiết sử dụng vòng phản hồi âm (đã giới thiệu ở Chương 2) để tự điều chỉnh:
 
 1. Tuyến yên tiết TSH → kích thích tuyến giáp tiết T3/T4.
 2. T3/T4 trong máu tăng → báo ngược về tuyến yên và vùng dưới đồi.
@@ -103,7 +103,7 @@ Cơ chế này giống như bộ điều nhiệt: khi phòng đủ ấm, máy s�
 
 #question-section()
 
-1. So sánh cách truyền tín hiệu của hệ thần kinh (Chương 4) và hệ nội tiết — điểm mạnh và điểm yếu của mỗi hệ?
+1. So sánh cách truyền tín hiệu của hệ thần kinh (Chương 5) và hệ nội tiết — điểm mạnh và điểm yếu của mỗi hệ?
 2. Giải thích cơ chế vòng phản hồi âm trong điều hòa hormone giáp. Tại sao người bị suy giáp thường có TSH cao?
 3. Insulin và glucagon hoạt động như thế nào để duy trì đường huyết ổn định?
 4. Một người bạn rủ bạn tham gia khóa "detox 7 ngày để cân bằng nội tiết". Dựa trên kiến thức chương này, bạn sẽ trả lời thế nào?

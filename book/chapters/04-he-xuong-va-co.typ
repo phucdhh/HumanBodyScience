@@ -29,7 +29,7 @@ Cắt ngang một xương dài, bạn sẽ thấy hai dạng cấu trúc:
 - *Xương đặc* (compact bone): Lớp vỏ cứng bên ngoài, được tổ chức thành các đơn vị hình trụ có mạch máu ở trung tâm. Sắp xếp này chịu được lực nén và uốn cực tốt.
 - *Xương xốp* (spongy bone): Ở hai đầu xương, cấu trúc như tổ ong — giảm trọng lượng và định hướng lực tối ưu. Khoảng trống giữa các bè xương là nơi chứa tủy đỏ.
 
-=== Chu trình tái tạo xương — Công trường không ngừng nghỉ
+=== Chu trình tái tạo xương
 
 Bạn có biết toàn bộ hệ xương được thay mới hoàn toàn sau mỗi 10 năm? Xương liên tục được tái tạo bởi hai loại tế bào:
 
@@ -99,11 +99,11 @@ Viêm xương khớp (osteoarthritis) là bệnh khớp phổ biến nhất th�
 
 Từ cái nháy mắt đến nhịp tim đập, từ hơi thở nhẹ nhàng đến cú nâng tạ nặng — tất cả đều nhờ cơ. Cơ thể người trưởng thành có hơn 600 cơ, chiếm tới 40-50% trọng lượng cơ thể.
 
-=== Cấu tạo cơ bắp — Một "sợi cáp" được bện từ hàng nghìn sợi nhỏ
+=== Cấu tạo cơ bắp — "sợi cáp" được bện lại
 
 #figure(
   image("../assets/images/ch03_Muscle_structure_hariadhi.svg", width: 60%),
-  caption: [Cấu trúc một cơ xương: cơ bắp (vàng) → bó sợi → sợi cơ → gân (trắng) bám vào xương]
+  caption: [Cấu trúc một cơ xương]
 )
 
 Để hiểu cơ co lại thế nào, trước hết hãy xem cơ được "bện" ra sao. Cơ bắp giống một sợi cáp thép trên cầu treo: cáp trông to đấy, nhưng thực ra là hàng nghìn sợi thép nhỏ bện lại với nhau. Cơ cũng như vậy:
@@ -119,7 +119,7 @@ Hai đầu cơ bắp thon lại thành *gân* (tendon) — sợi dai và chắc 
 
 #figure(
   image("../assets/images/ch03_Sliding Filament Theory.svg", width: 70%),
-  caption: [Thuyết trượt sợi: các sợi mỏng trượt chồng vào các sợi dày khi cơ co — giống hai chiếc lược chải vào nhau]
+  caption: [Thuyết trượt sợi: các sợi mỏng trượt chồng vào các sợi dày khi cơ co]
 )
 
 *Cách đọc hình:* Hình trên là mặt cắt của một đoạn tơ cơ, vẽ ở ba trạng thái — lúc thư giãn, lúc đang co, và lúc co hết cỡ. Hai loại sợi protein được vẽ khác màu: sợi mỏng (màu nhạt) và sợi dày (màu đậm). Nhìn từ trái sang phải, bạn sẽ thấy các sợi mỏng *trượt sâu vào giữa* các sợi dày, làm đoạn tơ cơ ngắn lại — đó chính là cơ co.
@@ -142,7 +142,7 @@ Quá trình diễn ra theo 6 bước:
 
 Các bước 3-5 lặp đi lặp lại hàng trăm lần mỗi giây — đó là lý do cơ co liên tục mà vẫn mượt mà.
 
-=== Sợi cơ chậm và nhanh — Chạy marathon hay chạy nước rút?
+=== Sợi cơ chậm và nhanh — Chạy marathon hay nước rút?
 
 Không phải sợi cơ nào cũng giống nhau. Chúng chia thành hai loại chính:
 
@@ -151,7 +151,7 @@ Không phải sợi cơ nào cũng giống nhau. Chúng chia thành hai loại c
 
 Tỷ lệ sợi Type I và Type II trong cơ là yếu tố di truyền quan trọng, góp phần quyết định bạn có khuynh hướng giỏi môn thể thao nào.
 
-=== Năng lượng cho cơ — Ba "nhà máy" sản xuất năng lượng
+=== Năng lượng cho cơ — "nhà máy" sản xuất năng lượng
 
 Mọi tế bào cơ chỉ dùng đúng một loại "đồng tiền" năng lượng: phân tử *ATP*. Vấn đề là ATP chỉ tồn tại được vài giây — nên cơ thể phải sản xuất nó liên tục, bằng ba "nhà máy" khác nhau:
 

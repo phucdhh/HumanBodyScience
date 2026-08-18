@@ -104,7 +104,7 @@
   set heading(numbering: (..nums) => {
     let vals = nums.pos()
     if vals.len() == 1 {
-      return "Chương " + str(vals.at(0) - 1) + ": "
+      return "Chương " + str(vals.at(0)) + ": "
     } else if vals.len() == 2 {
       return str(vals.at(1)) + ". "
     } else if vals.len() == 3 {
@@ -117,7 +117,7 @@
   })
 
   // Table of contents
-  outline(depth: 3, indent: auto)
+  outline(depth: 3, indent: 2em)
   pagebreak()
 
   // List of figures

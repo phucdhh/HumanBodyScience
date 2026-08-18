@@ -38,7 +38,7 @@ Khi đêm càng về sáng, thời gian REM càng dài — đó là lý do bạn
 
 #figure(
   image("../assets/images/ch11_Biological clock human.svg", width: 70%),
-  caption: [Đồng hồ sinh học điều hòa nhịp sinh học (*circadian rhythm* - nhịp điệu sinh lý theo chu kỳ 24 giờ, như giấc ngủ-thức, thân nhiệt, hormone) dựa trên ánh sáng]
+  caption: [Đồng hồ sinh học điều hòa nhịp sinh học]
 )
 
 Lão hóa là sự suy giảm dần chức năng của các mô và cơ quan theo thời gian. Đây là quá trình tự nhiên, không phải bệnh — nhưng nó làm tăng nguy cơ mắc nhiều bệnh (tim mạch, ung thư, Alzheimer, loãng xương).
@@ -48,7 +48,7 @@ Lão hóa là sự suy giảm dần chức năng của các mô và cơ quan the
 Năm 2013, Carlos López-Otín và cộng sự xác định 9 dấu ấn sinh học của lão hóa @lopez2013. Các cơ chế chính gồm:
 
 - *Mất ổn định genome:* Đột biến ADN tích lũy theo thời gian.
-- *Co ngắn telomere:* Mỗi lần tế bào phân chia, telomere ngắn lại (đã thảo luận ở Chương 2). Khi telomere quá ngắn, tế bào ngừng phân chia.
+- *Co ngắn telomere:* Mỗi lần tế bào phân chia, telomere ngắn lại (đã thảo luận ở Chương 3). Khi telomere quá ngắn, tế bào ngừng phân chia.
 
 #figure(
   image("../assets/images/ch11_Telomerisation.svg", width: 60%),

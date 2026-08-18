@@ -4,7 +4,7 @@
 
 = KHÍ CÔNG
 
-#term("khi-cong") (气功) là một hệ thống bài tập kết hợp giữa vận động chậm, điều hòa hơi thở và tập trung tâm trí, có nguồn gốc từ y học cổ truyền Trung Quốc. Tên gọi này có nghĩa là "luyện tập khí" — năng lượng sống được cho là luân chuyển trong cơ thể qua hệ thống kinh mạch (đã giới thiệu ở Chương 14).
+#term("khi-cong") (气功) là một hệ thống bài tập kết hợp giữa vận động chậm, điều hòa hơi thở và tập trung tâm trí, có nguồn gốc từ y học cổ truyền Trung Quốc. Tên gọi này có nghĩa là "luyện tập khí" — năng lượng sống được cho là luân chuyển trong cơ thể qua hệ thống kinh mạch (đã giới thiệu ở Chương 15).
 
 Chương này xem xét khí công dưới *hai góc nhìn*: như một hiện tượng văn hóa-lịch sử và như một can thiệp sức khỏe có thể kiểm tra bằng phương pháp khoa học. Điểm mấu chốt xuyên suốt cả chương: chúng ta có thể tập khí công và đạt được những lợi ích sức khỏe thật sự — mà không cần tin rằng khái niệm "khí" đúng theo nghĩa cổ truyền. Hai điều đó là hai câu hỏi khác nhau.
 
@@ -35,7 +35,7 @@ Khí công thường được phân thành ba nhóm chính:
 
 === Hình dung về "khí": bản đồ chân khí
 
-Trong khí công, người tập được dạy "hạ khí đan điền" (đưa khí chìm xuống vùng bụng dưới — Đan Điền, xem Chương 14), rồi dùng ý niệm dẫn khí chạy theo vòng khép kín Đốc mạch-Nhâm mạch (còn gọi là *tiểu chu thiên* — vòng quay nhỏ). Các bản đồ cổ vẽ dòng chảy "chân khí" này lên cơ thể người.
+Trong khí công, người tập được dạy "hạ khí đan điền" (đưa khí chìm xuống vùng bụng dưới — Đan Điền, xem Chương 15), rồi dùng ý niệm dẫn khí chạy theo vòng khép kín Đốc mạch-Nhâm mạch (còn gọi là *tiểu chu thiên* — vòng quay nhỏ). Các bản đồ cổ vẽ dòng chảy "chân khí" này lên cơ thể người.
 
 #figure(
   image("../assets/images/ch16_bieu_do_tuan_hoan_khi_Wellcome_L0038694.jpg", width: 55%),
@@ -88,15 +88,15 @@ Các động tác chậm đòi hỏi kiểm soát tư thế liên tục, kích h
 
 Một phần tác dụng của khí công đến từ: kỳ vọng của người tập, sự chú ý của người hướng dẫn, hiệu ứng cộng đồng (tập nhóm), và niềm tin vào hiệu quả của phương pháp. Đây không phải là "không có thật" — hiệu ứng giả dược là một hiện tượng sinh lý thực sự, nhưng cần được phân biệt với tác dụng đặc hiệu của bài tập.
 
-== Công năng đặc dị
+== Công năng đặc dị — Siêu năng lực có được khoa học công nhận?
 
-Những người tập khí công ở Trung Quốc thập niên 80-90, và một số bài viết phổ biến trên mạng hiện nay, thường nhắc tới *công năng đặc dị* (特異功能) — những khả năng như tha tâm thông, thấu thị, nhìn xuyên qua, dịch chuyển đồ vật bằng ý nghĩ...
+Những người tập khí công ở Trung Quốc thập niên 80-90, và một số bài viết phổ biến trên mạng hiện nay, thường nhắc tới *công năng đặc dị* (特異功能) — những khả năng như tha tâm thông, thấu thị, nhìn xuyên qua, dịch chuyển đồ vật bằng ý nghĩ... Có những bài viết khẳng định "6 loại công năng đặc dị đã được khoa học phương Tây công nhận". Cần nói rõ ngay từ đầu: *nhận định đó gây hiểu lầm nghiêm trọng và không có cơ sở khoa học.*
 
 #muc-bang-chung("D")[
-  *"Công năng đặc dị" là gì?* Thuật ngữ này chỉ những khả năng siêu thường (siêu năng lực, thuộc lĩnh vực parapsychology): dịch chuyển vật thể từ xa, nhận biết vật thể không dùng mắt, thấu thị (nhìn xuyên), dao thị (nhìn xa), dự đoán tương lai, truyền cảm tâm linh... Đây là đối tượng nghiên cứu của cận tâm lý học (parapsychology) — một lĩnh vực chưa được cộng đồng khoa học chính thống công nhận, do thiếu bằng chứng có thể tái lập trong điều kiện kiểm soát nghiêm ngặt. Xếp mức D: quan niệm truyền thống / tín ngưỡng.
+  *"Công năng đặc dị" là gì?* Thuật ngữ này chỉ những khả năng siêu thường (siêu năng lực, thuộc lĩnh vực parapsychology): dịch chuyển vật thể từ xa, nhận biết vật thể không dùng mắt, thấu thị (nhìn xuyên), dao thị (nhìn xa), dự đoán tương lai, truyền cảm tâm linh... Đây là đối tượng nghiên cứu của cận tâm lý học (parapsychology) — một lĩnh vực chưa bao giờ được cộng đồng khoa học chính thống công nhận, do thiếu bằng chứng có thể tái lập trong điều kiện kiểm soát nghiêm ngặt. Xếp mức D: quan niệm truyền thống / tín ngưỡng.
 ]
 
-Một số loại công năng đặc dị thường được kể đến là:
+Sáu loại thường được kể đến trong các nguồn tiếng Việt là:
 
 - *Công năng ban vận (dịch chuyển vật thể từ xa)* — dùng ý nghĩ làm vật di chuyển mà không chạm vào.
 - *Nhận biết vật thể bằng bộ phận khác ngoài con mắt* — đọc chữ, nhận màu sắc bằng tai, chân, lòng bàn tay...
@@ -111,9 +111,9 @@ Các bài viết thường dẫn chứng những thí nghiệm như thẻ ESP c�
   *Vì sao "công năng đặc dị" không được khoa học công nhận?* Các hiện tượng siêu năng lực (gọi chung là Psi) dù được nghiên cứu hơn một thế kỷ vẫn thiếu ba điều kiện căn bản của một tuyên bố khoa học: (1) *Tính tái lập* — cùng điều kiện nhưng kết quả không ổn định, không ai lặp lại được một cách đáng tin; (2) *Kiểm soát chặt* — khi các lỗ hổng phương pháp (cơ hội gian lận, chọn mẫu, lỗi thống kê) bị loại bỏ thì hiệu quả biến mất; và (3) *không có cơ chế* — không có định luật vật lý hay sinh học nào đã biết giải thích được "năng lượng" đó. Nhiều tổng quan khoa học nghiêm túc kết luận: chưa có bằng chứng đáng tin cậy. Đây là mức D: không có bằng chứng.
 ]
 
-Nhiều loại công năng đã được giới thiệu hoặc lưu truyền, tuy vậy những bằng chứng xác đáng về chúng vẫn đang còn chưa rõ ràng. Điều đó không phủ nhận giá trị của khí công như một bài tập sức khỏe — nhưng buộc chúng ta phải tách bạch hai điều: *bài tập có lợi ích* (có bằng chứng) và *"phát khí" hay siêu năng lực* (không có bằng chứng).
+Vậy nên câu "6 loại được khoa học Tây công nhận" là *không đúng*. Đó là sản phẩm của phong trào khí công Trung Quốc thập niên 80-90 (nơi nhiều tuyên bố siêu năng lực được công bố rầm rộ nhưng sau đó không ai kiểm chứng nổi), được lặp lại trên các trang tin không chuyên. Điều đó không phủ nhận giá trị của khí công như một bài tập sức khỏe — nhưng buộc chúng ta phải tách bạch hai điều: *bài tập có lợi ích* (có bằng chứng) và *"phát khí" hay siêu năng lực* (không có bằng chứng).
 
-Một lưu ý nữa về *ngoại khí* (phát khí từ tay để chữa bệnh cho người khác): như đã nêu ở Chương 14, các thử nghiệm có kiểm soát về ngoại khí hầu hết cho kết quả âm tính hoặc không tái lập được. Lợi ích mà người bệnh có thể cảm nhận được khi được "trị liệu ngoại khí" thường đến từ sự thư giãn, chú ý và kỳ vọng — không phải từ một loại năng lượng đặc biệt truyền qua không khí.
+Một lưu ý nữa về *ngoại khí* (phát khí từ tay để chữa bệnh cho người khác): như đã nêu ở Chương 15, các thử nghiệm có kiểm soát về ngoại khí hầu hết cho kết quả âm tính hoặc không tái lập được. Lợi ích mà người bệnh có thể cảm nhận được khi được "trị liệu ngoại khí" thường đến từ sự thư giãn, chú ý và kỳ vọng — không phải từ một loại năng lượng đặc biệt truyền qua không khí.
 
 == So sánh với các can thiệp tâm-thân khác
 
@@ -148,7 +148,7 @@ Khí công là một thực hành văn hóa có giá trị lịch sử sâu sắ
 - *Chưa rõ:* Các tuyên bố về chữa bệnh đặc hiệu hoặc cơ chế "khí" theo nghĩa cổ truyền (Mức C/D).
 - *Không có bằng chứng:* Công năng đặc dị, phát khí chữa bệnh từ xa, thay thế y học hiện đại (Mức D).
 
-Giống như châm cứu (Chương 14), khí công có thể là một bổ sung an toàn và có lợi cho sức khỏe tổng thể, nhưng không nên thay thế các phương pháp điều trị có bằng chứng mạnh hơn. Câu hỏi trung tâm mà chương này muốn người đọc mang về: phần lớn lợi ích của khí công đến từ *sinh lý học thật sự* (thần kinh, hô hấp, vận động, thư giãn) — không cần đến một loại "năng lượng đặc biệt" chưa từng được chứng minh.
+Giống như châm cứu (Chương 15), khí công có thể là một bổ sung an toàn và có lợi cho sức khỏe tổng thể, nhưng không nên thay thế các phương pháp điều trị có bằng chứng mạnh hơn. Câu hỏi trung tâm mà chương này muốn người đọc mang về: phần lớn lợi ích của khí công đến từ *sinh lý học thật sự* (thần kinh, hô hấp, vận động, thư giãn) — không cần đến một loại "năng lượng đặc biệt" chưa từng được chứng minh.
 
 #question-section()
 

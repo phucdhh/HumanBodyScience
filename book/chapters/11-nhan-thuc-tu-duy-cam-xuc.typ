@@ -60,7 +60,7 @@ Cảm giác dễ chịu, động lực, và khoái cảm được điều khiể
 
 Làm thế nào từ các tế bào thần kinh và synapse lại xuất hiện trải nghiệm chủ quan — cảm giác "đỏ" khi nhìn hoa hồng, cảm giác đau khi bị kim châm? Triết gia David Chalmers gọi đây là "bài toán khó" (hard problem) của ý thức.
 
-Khoa học có thể mô tả *tương quan thần kinh* của ý thức (vùng não nào hoạt động khi bạn ý thức điều gì), nhưng chưa thể giải thích *tại sao* hoạt động thần kinh lại tạo ra trải nghiệm chủ quan. Một số giả thuyết cho rằng ý thức là một *đặc tính nổi lên* (emergent property — như đã thảo luận ở Chương 1) của sự phức tạp thần kinh, nhưng đây vẫn là một trong những bí ẩn lớn nhất của khoa học.
+Khoa học có thể mô tả *tương quan thần kinh* của ý thức (vùng não nào hoạt động khi bạn ý thức điều gì), nhưng chưa thể giải thích *tại sao* hoạt động thần kinh lại tạo ra trải nghiệm chủ quan. Một số giả thuyết cho rằng ý thức là một *đặc tính nổi lên* (emergent property — như đã thảo luận ở Chương 2) của sự phức tạp thần kinh, nhưng đây vẫn là một trong những bí ẩn lớn nhất của khoa học.
 
 #muc-bang-chung("A")[
   *Thiền và chánh niệm — Bằng chứng khoa học:* Hàng trăm nghiên cứu trong hai thập kỷ qua cho thấy thiền chánh niệm (mindfulness meditation) làm thay đổi cấu trúc não: tăng mật độ chất xám ở vỏ não trước trán (kiểm soát chú ý và cảm xúc), giảm kích thước hạnh nhân (phản ứng sợ hãi), và cải thiện kết nối giữa các vùng não. Lợi ích: giảm căng thẳng, lo âu, trầm cảm; cải thiện chú ý và khả năng điều hòa cảm xúc.

@@ -65,7 +65,7 @@ Máu chiếm khoảng 7-8% trọng lượng cơ thể (khoảng 5 lít ở ngư�
 - *Huyết tương (55%):* Phần lỏng, chứa nước, protein, hormone, chất dinh dưỡng, chất thải.
 - *Tế bào máu (45%):*
   - #term("hong-cau"): Chiếm đa số — chứa *hemoglobin* (protein chứa sắt, gắn oxy và CO₂, làm máu có màu đỏ) để vận chuyển oxy. Sống khoảng 120 ngày.
-  - *Bạch cầu:* Tế bào miễn dịch (đã nói ở Chương 6).
+  - *Bạch cầu:* Tế bào miễn dịch (đã nói ở Chương 7).
   - *Tiểu cầu:* Mảnh tế bào nhỏ giúp đông máu khi bị thương.
 
 == Hô hấp — Lấy oxy, thải CO₂

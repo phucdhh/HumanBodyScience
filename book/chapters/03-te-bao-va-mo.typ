@@ -35,7 +35,7 @@ Hãy tưởng tượng màng tế bào như một lớp kép các phân tử lip
 
 #figure(
   image("../assets/images/ch02_Membrane_transport.svg", width: 75%),
-  caption: [Ba loại vận chuyển qua màng tế bào: thụ động, chủ động, và truyền tín hiệu]
+  caption: [Ba loại vận chuyển qua màng tế bào]
 )
 
 Màng tế bào kiểm soát giao thông theo ba cách chính:

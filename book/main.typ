@@ -25,26 +25,26 @@
   include "chapters/loi-noi-dau.typ"
 }
 #pagebreak()
-#include "chapters/00-nhap-mon.typ"
-#include "chapters/01-co-the-nguoi-la-gi.typ"
-#include "chapters/02-te-bao-va-mo.typ"
-#include "chapters/03-he-xuong-va-co.typ"
-#include "chapters/04-he-than-kinh.typ"
-#include "chapters/05-he-noi-tiet.typ"
-#include "chapters/06-he-mien-dich.typ"
-#include "chapters/07-tim-mach-va-ho-hap.typ"
-#include "chapters/08-tieu-hoa-chuyen-hoa-vi-sinh.typ"
-#include "chapters/09-di-truyen-va-phat-trien.typ"
-#include "chapters/10-nhan-thuc-tu-duy-cam-xuc.typ"
-#include "chapters/11-giac-ngu-va-lao-hoa.typ"
-#include "chapters/12-co-the-nguoi-va-than-hoc.typ"
-#include "chapters/13-y-hoc-hien-dai-truyen-thong.typ"
+#include "chapters/01-nhap-mon.typ"
+#include "chapters/02-co-the-nguoi-la-gi.typ"
+#include "chapters/03-te-bao-va-mo.typ"
+#include "chapters/04-he-xuong-va-co.typ"
+#include "chapters/05-he-than-kinh.typ"
+#include "chapters/06-he-noi-tiet.typ"
+#include "chapters/07-he-mien-dich.typ"
+#include "chapters/08-tim-mach-va-ho-hap.typ"
+#include "chapters/09-tieu-hoa-chuyen-hoa-vi-sinh.typ"
+#include "chapters/10-di-truyen-va-phat-trien.typ"
+#include "chapters/11-nhan-thuc-tu-duy-cam-xuc.typ"
+#include "chapters/12-giac-ngu-va-lao-hoa.typ"
+#include "chapters/13-co-the-nguoi-va-than-hoc.typ"
+#include "chapters/14-y-hoc-hien-dai-truyen-thong.typ"
 #pagebreak()
-#include "chapters/14-he-thong-kinh-mach.typ"
+#include "chapters/15-he-thong-kinh-mach.typ"
 #pagebreak()
-#include "chapters/15-khi-cong.typ"
+#include "chapters/16-khi-cong.typ"
 #pagebreak()
-#include "chapters/16-suc-khoe-benh-tat-phong-ngua.typ"
+#include "chapters/17-suc-khoe-benh-tat-phong-ngua.typ"
 
 // === PHỤ LỤC - MỤC LỤC THUẬT NGỮ ===
 #pagebreak()
