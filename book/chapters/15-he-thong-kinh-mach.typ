@@ -8,10 +8,10 @@ Trong y học cổ truyền phương Đông, #term("khi") (khí - khái niệm n
 
 #figure(
   image("../assets/images/ch15_12_kinh_chinh_Chinese_meridians.JPG", width: 50%),
-  caption: [Sơ đồ kinh mạch trên cơ thể người — mỗi đường màu là một kinh mạch. Trong sơ đồ này các kinh được tô màu theo ngũ hành tương ứng]
+  caption: [Sơ đồ kinh mạch trên cơ thể người]
 )
 
-Khi nhìn vào bản đồ kinh mạch cổ truyền, người đọc hiện đại thường đặt câu hỏi: những đường vẽ ấy là thật hay là tưởng tượng? Câu trả lời, như chương này sẽ trình bày, nằm giữa hai thái cực đó: hệ thống kinh mạch không tồn tại như những "ống dẫn khí" vật lý theo nghĩa đen, nhưng cũng không phải là phát minh tùy tiện — nó dựa trên những quan sát có thật về cơ thể, được tổ chức theo một khung lý thuyết riêng.
+Mỗi đường màu trên sơ đồ là một kinh mạch, được tô màu theo ngũ hành tương ứng. Khi nhìn vào bản đồ kinh mạch cổ truyền, người đọc hiện đại thường đặt câu hỏi: những đường vẽ ấy là thật hay là tưởng tượng? Câu trả lời, như chương này sẽ trình bày, nằm giữa hai thái cực đó: hệ thống kinh mạch không tồn tại như những "ống dẫn khí" vật lý theo nghĩa đen, nhưng cũng không phải là phát minh tùy tiện — nó dựa trên những quan sát có thật về cơ thể, được tổ chức theo một khung lý thuyết riêng.
 
 Cách đọc sơ đồ trên: mỗi đường kẻ chạy dọc trên thân và tay chân là một "kinh". Các đường cùng màu thuộc cùng một hành trong Ngũ hành. Lưu ý sơ đồ vẽ *đối xứng hai bên* — nghĩa là thực ra có hai kinh giống hệt nhau ở bên trái và bên phải cơ thể, cộng với một kinh chạy dọc giữa mặt trước (Nhâm mạch) và một kinh chạy dọc giữa mặt sau (Đốc mạch).
 
@@ -21,14 +21,19 @@ Hệ thống kinh mạch lần đầu được hệ thống hóa trong *Hoàng �
 - 6 kinh âm: Phế (Phổi), Tâm (Tim), Tâm bào, Tỳ (Lá lách), Gan, Thận
 - 6 kinh dương: Đại trường, Tiểu trường, Tam tiêu, Dạ dày, Mật, Bàng quang
 
-Ngoài ra còn có 8 kỳ kinh (奇经), trong đó Đốc mạch (đi dọc lưng) và Nhâm mạch (đi dọc ngực bụng) là quan trọng nhất.
+#figure(
+  image("../assets/images/lung_meridian.svg", width: 50%),
+  caption: [Đường đi của kinh Phế (Phổi) dọc theo cánh tay]
+)
+
+Trên sơ đồ, các điểm (huyệt) được đánh số để ứng dụng trong châm cứu. Ngoài ra còn có 8 kỳ kinh (奇经), trong đó Đốc mạch (đi dọc lưng) và Nhâm mạch (đi dọc ngực bụng) là quan trọng nhất.
 
 #figure(
   image("../assets/images/ch15_kinh_tam_bao_Minh_Acupuncture_chart.jpg", width: 30%),
-  caption: [Bản đồ huyệt vị thời nhà Minh (1368–1644) vẽ kinh Tâm bào — một trong 12 kinh chính. Các bản đồ như thế này được các thầy thuốc dùng làm tài liệu truyền dạy]
+  caption: [Bản đồ huyệt vị thời nhà Minh vẽ kinh Tâm bào]
 )
 
-Mỗi kinh mạch được cho là chạy theo một đường đi nhất định trên cơ thể, kết nối các #term("huyet") — những điểm có thể tác động để điều chỉnh dòng khí. Các kinh mạch tạo thành một mạng lưới khép kín, đưa khí và #term("khi-huyet") đi nuôi dưỡng toàn bộ cơ thể.
+Kinh Tâm bào là một trong 12 kinh chính. Các bản đồ như thế này từng được các thầy thuốc dùng làm tài liệu truyền dạy. Mỗi kinh mạch được cho là chạy theo một đường đi nhất định trên cơ thể, kết nối các #term("huyet") — những điểm có thể tác động để điều chỉnh dòng khí. Các kinh mạch tạo thành một mạng lưới khép kín, đưa khí và #term("khi-huyet") đi nuôi dưỡng toàn bộ cơ thể.
 
 #bang-du-lieu(
   header: ("Kinh mạch", "Loại", "Chi", "Tạng phủ tương ứng"),
@@ -114,10 +119,10 @@ Các huyệt trên cơ thể — dù có hay không có kinh mạch theo nghĩa 
 
 #figure(
   image("../assets/images/ch15_bieu_do_giai_phau_huyet_dao_JPG.JPG", width: 45%),
-  caption: [Bảng huyệt vị minh họa gắn với giải phẫu hiện đại (thế kỷ 20) — cho thấy các điểm huyệt được "soi" lại dưới ánh sáng giải phẫu học phương Tây]
+  caption: [Bảng huyệt vị kết hợp giải phẫu hiện đại (thế kỷ 20)]
 )
 
-Hình trên minh họa một trong những nỗ lực nối hai thế giới: các nhà giải phẫu hiện đại cố gắng vẽ lại hệ thống huyệt vị cổ truyền lên nền cấu trúc cơ thể thật (xương, cơ, mạch máu, thần kinh). Điều này giúp các thầy thuốc châm cứu định vị huyệt chính xác hơn — nhưng đồng thời cho thấy các đường kinh mạch, dưới kính hiển vi và dao mổ, không hiện ra như những ống dẫn riêng biệt.
+Hình trên minh họa một trong những nỗ lực nối hai thế giới: các nhà giải phẫu hiện đại cố gắng vẽ lại hệ thống huyệt vị cổ truyền lên nền cấu trúc cơ thể thật (xương, cơ, mạch máu, thần kinh) và cho thấy các điểm huyệt được "soi" lại dưới ánh sáng giải phẫu học phương Tây. Điều này giúp các thầy thuốc châm cứu định vị huyệt chính xác hơn — nhưng đồng thời cho thấy các đường kinh mạch, dưới kính hiển vi và dao mổ, không hiện ra như những ống dẫn riêng biệt.
 
 === Các huyệt đạo cốt yếu
 
@@ -127,14 +132,17 @@ Trong hàng trăm huyệt đạo được ghi nhận (hơn 360 huyệt chính), 
   header: ("Huyệt", "Vị trí", "Vai trò theo Đông y"),
   body: (
     ("Bách Hội", "Đỉnh đầu, giữa hai tai", "Nơi hội tụ các kinh dương; điều trị đau đầu, chóng mặt, giúp minh mẫn"),
+    ("Ngọc Chẩm", "Phía sau đầu, ngang với u chẩm", "Nằm trên kinh Bàng quang; trị đau đầu, chóng mặt, các chứng ở mắt và mũi"),
+    ("Thái Dương", "Chỗ lõm hai bên thái dương", "Là kỳ huyệt (ngoài kinh chính); giảm đau đầu, mỏi mắt, cảm mạo"),
     ("Ấn Đường", "Giữa hai lông mày", "Trấn tĩnh, giảm lo âu, giúp dễ ngủ"),
     ("Nhân Trung", "Rãnh giữa mũi và môi trên", "Huyệt “cấp cứu” — kích thích khi ngất, sốc"),
+    ("Đản Trung", "Giữa ngực, trên đường khe ngực", "Khí hội (nơi hội tụ khí) của cơ thể; điều hòa hô hấp, giảm tức ngực, lo âu"),
     ("Mệnh Môn", "Lưng, đối diện rốn (đốt L2)", "Trung tâm “hỏa mệnh môn” — sưởi ấm cơ thể, tăng cường thận khí"),
     ("Đan Điền", "Bụng dưới, dưới rốn 3 thốn", "“Kho” khí chính của cơ thể; trọng tâm của khí công và võ thuật"),
     ("Hội Âm", "Đáy chậu, giữa hậu môn và sinh dục", "Cửa ngõ dưới — nơi khí giao hòa âm dương; điểm cuối của Nhâm-Đốc"),
     ("Túc Tam Lý", "Dưới gối, ngoài xương ống chân", "Huyệt “trường thọ” — tăng cường tiêu hóa, sức đề kháng"),
     ("Nội Quan", "Mặt trong cẳng tay, trên cổ tay 2 thốn", "Chống buồn nôn, say tàu xe, dịu tim loạn nhịp"),
-    ("Hợp Cốc", "Mu bàn tay, giữa ngón cái và ngón trỏ", "Huyệt giảm đau nổi tiếng — đau đầu, đau răng, đau mặt"),
+    ("Hợp Cốc", "Mu bàn tay, giữa ngón cái và ngón trỏ", "Huyệt giảm đau nổi tiếng — đau đầu, đau răng, đau vùng mặt"),
     ("Dũng Tuyền", "Giữa lòng bàn chân", "“Suối phun” — dẫn khí xuống, trấn tĩnh, hạ huyết áp"),
     ("Lao Cung", "Giữa lòng bàn tay", "Huyệt trấn tâm; dùng trong khí công để thu-phát khí"),
   )

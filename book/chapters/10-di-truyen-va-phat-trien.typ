@@ -68,6 +68,12 @@ Cuộc đời bạn bắt đầu từ một tế bào duy nhất — hợp tử 
 - *Phân chia:* Hợp tử phân chia thành 2, 4, 8, 16 tế bào... trong vài ngày.
 - *Phôi nang (blastocyst):* Khoảng ngày thứ 5, khối tế bào tạo thành cấu trúc rỗng gọi là phôi nang, làm tổ trong tử cung.
 - *Phôi thai (embryo):* Tuần 3-8 — hình thành các cơ quan chính (tim bắt đầu đập tuần thứ 4).
+
+#figure(
+  image("../assets/images/embryo.svg", width: 85%),
+  caption: [Quá trình phát triển từ hợp tử thành phôi thai]
+)
+
 - *Thai nhi (fetus):* Từ tuần 9 đến khi sinh — các cơ quan hoàn thiện và phát triển.
 - *Trẻ sơ sinh → người trưởng thành:* Phát triển thể chất (cao lên, lớn lên), phát triển thần kinh (học nói, đi, tư duy), dậy thì (biến đổi giới tính).
 

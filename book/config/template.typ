@@ -11,7 +11,7 @@
     numbering: none,
   )
   
-  set text(font: "Linux Libertine", lang: "vi")
+  set text(font: ("New Computer Modern", "Times New Roman"), lang: "vi")
   
   // Background gradient
   place(top + left, 
@@ -91,7 +91,7 @@
   )
 
   // Text configuration
-  set text(font: "Linux Libertine", size: 11pt, lang: "vi")
+  set text(font: ("New Computer Modern", "Times New Roman"), size: 11pt, lang: "vi")
   set par(justify: true, leading: 0.65em)
 
   // Heading configurations

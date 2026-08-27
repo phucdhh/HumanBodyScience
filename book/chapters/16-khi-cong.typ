@@ -4,6 +4,15 @@
 
 = KHÍ CÔNG
 
+
+#figure(
+  image("../assets/images/taijitu.svg", width: 25%),
+  caption: [Biểu tượng Thái cực đồ]
+)
+
+Biểu tượng Thái cực (Âm - Dương) ở trên là nền tảng triết học của nhiều hệ thống khí công và võ thuật nội gia.
+
+
 #term("khi-cong") (气功) là một hệ thống bài tập kết hợp giữa vận động chậm, điều hòa hơi thở và tập trung tâm trí, có nguồn gốc từ y học cổ truyền Trung Quốc. Tên gọi này có nghĩa là "luyện tập khí" — năng lượng sống được cho là luân chuyển trong cơ thể qua hệ thống kinh mạch (đã giới thiệu ở Chương 15).
 
 Chương này xem xét khí công dưới *hai góc nhìn*: như một hiện tượng văn hóa-lịch sử và như một can thiệp sức khỏe có thể kiểm tra bằng phương pháp khoa học. Điểm mấu chốt xuyên suốt cả chương: chúng ta có thể tập khí công và đạt được những lợi ích sức khỏe thật sự — mà không cần tin rằng khái niệm "khí" đúng theo nghĩa cổ truyền. Hai điều đó là hai câu hỏi khác nhau.
@@ -22,8 +31,10 @@ Một ví dụ tiêu biểu của truyền thống này là bài *Bát Đoạn C
 
 #figure(
   image("../assets/images/ch16_baduanjin_Baduanjin_qigong_edit1.jpg", width: 32%),
-  caption: [Minh họa thời nhà Thanh về bài tập Bát Đoạn Cẩm — động tác "Tách trời đất" (Separate Heaven and Earth). Các sách hướng dẫn kiểu này giúp phổ biến khí công đến đông đảo người dân]
+  caption: [Minh họa bài tập Bát Đoạn Cẩm thời nhà Thanh]
 )
+
+Hình minh họa động tác "Tách trời đất" (Separate Heaven and Earth). Các sách hướng dẫn kiểu này giúp phổ biến khí công đến đông đảo người dân.
 
 === Các loại khí công
 
@@ -39,10 +50,10 @@ Trong khí công, người tập được dạy "hạ khí đan điền" (đưa 
 
 #figure(
   image("../assets/images/ch16_bieu_do_tuan_hoan_khi_Wellcome_L0038694.jpg", width: 55%),
-  caption: [Tranh khắc gỗ thời nhà Thanh minh họa "chân khí" được cho là dâng lên từ xương cụt (Hội Âm), chạy dọc cột sống tới đỉnh đầu (Bách Hội) — mô tả chu trình chu thiên trong thực hành khí công. Đây là một hình dung về trải nghiệm chủ quan của người luyện tập, không phải bản đồ giải phẫu học thực tế]
+  caption: [Tranh khắc gỗ minh họa bản đồ chân khí]
 )
 
-Muốn đọc hình này cho đúng: người xưa đang vẽ *một mô hình về cảm giác bên trong cơ thể* — cảm giác ấm, tê, dòng chảy khi luyện tập. Cảm giác đó là thật đối với người tập. Điểm tranh cãi nằm ở cách giải thích: "khí chạy trong ống kinh" hay là hoạt động thần kinh-mạch máu-hô hấp (mục "Cơ chế" dưới đây sẽ bàn rõ).
+Bức tranh khắc gỗ thời nhà Thanh mô tả chu trình "chu thiên" trong thực hành khí công: "chân khí" được cho là dâng lên từ xương cụt (Hội Âm), chạy dọc cột sống tới đỉnh đầu (Bách Hội). Muốn đọc hình này cho đúng: người xưa đang vẽ *một mô hình về cảm giác bên trong cơ thể* — cảm giác ấm, tê, dòng chảy khi luyện tập. Đây là một hình dung về trải nghiệm chủ quan của người luyện tập, không phải bản đồ giải phẫu học thực tế. Cảm giác đó là thật đối với người tập. Điểm tranh cãi nằm ở cách giải thích: "khí chạy trong ống kinh" hay là hoạt động thần kinh-mạch máu-hô hấp (mục "Cơ chế" dưới đây sẽ bàn rõ).
 
 == Khí công và khoa học hiện đại — Tổng quan bằng chứng
 
@@ -88,32 +99,25 @@ Các động tác chậm đòi hỏi kiểm soát tư thế liên tục, kích h
 
 Một phần tác dụng của khí công đến từ: kỳ vọng của người tập, sự chú ý của người hướng dẫn, hiệu ứng cộng đồng (tập nhóm), và niềm tin vào hiệu quả của phương pháp. Đây không phải là "không có thật" — hiệu ứng giả dược là một hiện tượng sinh lý thực sự, nhưng cần được phân biệt với tác dụng đặc hiệu của bài tập.
 
-== Công năng đặc dị — Siêu năng lực có được khoa học công nhận?
+== Công năng đặc dị
 
-Những người tập khí công ở Trung Quốc thập niên 80-90, và một số bài viết phổ biến trên mạng hiện nay, thường nhắc tới *công năng đặc dị* (特異功能) — những khả năng như tha tâm thông, thấu thị, nhìn xuyên qua, dịch chuyển đồ vật bằng ý nghĩ... Có những bài viết khẳng định "6 loại công năng đặc dị đã được khoa học phương Tây công nhận". Cần nói rõ ngay từ đầu: *nhận định đó gây hiểu lầm nghiêm trọng và không có cơ sở khoa học.*
+Trong phong trào "sốt khí công" ở Trung Quốc thập niên 80-90, và trên nhiều diễn đàn hiện nay, người ta thường đồn thổi về hàng loạt *công năng đặc dị* (特異功能) — những khả năng siêu thường, hay "siêu năng lực". Các khả năng này thường pha trộn với khái niệm "Lục thông" của Phật giáo và được nhiều bài viết gán mác là "đã được khoa học công nhận". Ngoài 6 loại phổ biến nhất, danh sách các siêu năng lực này thực tế còn nhiều hơn thế:
+
+1. *Công năng ban vận (Dịch chuyển vật thể):* Dùng ý nghĩ làm vật di chuyển mà không chạm vào, bẻ cong thìa, hoặc dịch chuyển tức thời (Telekinesis / Teleportation).
+2. *Thấu thị và Dao thị:* "Nhìn" xuyên tường, soi cơ thể người khác như máy X-quang (Clairvoyance), hoặc mô tả chi tiết cảnh vật ở nơi chưa từng đến (Remote viewing).
+3. *Nhận biết vật thể không qua mắt:* Đọc chữ, nhận biết màu sắc bằng tai, tay, chân...
+4. *Tha tâm thông (Truyền cảm tâm linh):* Đọc ý nghĩ của người khác (Telepathy).
+5. *Tiên tri và Túc mệnh thông:* Biết trước tương lai (Precognition) hoặc nhìn thấy tiền kiếp/quá khứ (Retrocognition).
+6. *Phát ngoại khí:* Phóng "khí" từ tay để chữa bệnh từ xa, thay đổi cấu trúc phân tử của nước, hoặc đánh ngã đối thủ mà không cần chạm.
+7. *Bích cốc (Nhịn ăn):* Khả năng ngừng ăn uống trong nhiều tháng, nhiều năm mà cơ thể vẫn bình thường (Inedia).
+8. *Khinh công:* Làm cơ thể trở nên siêu nhẹ, có thể bước trên giấy, đứng trên cành cây hoặc bay lơ lửng (Levitation).
 
 #muc-bang-chung("D")[
-  *"Công năng đặc dị" là gì?* Thuật ngữ này chỉ những khả năng siêu thường (siêu năng lực, thuộc lĩnh vực parapsychology): dịch chuyển vật thể từ xa, nhận biết vật thể không dùng mắt, thấu thị (nhìn xuyên), dao thị (nhìn xa), dự đoán tương lai, truyền cảm tâm linh... Đây là đối tượng nghiên cứu của cận tâm lý học (parapsychology) — một lĩnh vực chưa bao giờ được cộng đồng khoa học chính thống công nhận, do thiếu bằng chứng có thể tái lập trong điều kiện kiểm soát nghiêm ngặt. Xếp mức D: quan niệm truyền thống / tín ngưỡng.
+  *Siêu năng lực có được khoa học công nhận?* Sự thật là *khoa học dòng chính chưa từng công nhận các công năng này*. Sự hiểu lầm phổ biến xuất phát từ việc trong thời Chiến tranh Lạnh, các tổ chức như CIA của Mỹ (Dự án Stargate hợp tác với Viện SRI) hay chính phủ Trung Quốc thực sự *đã từng đổ tiền vào nghiên cứu* các hiện tượng này cho mục đích tình báo. Tuy nhiên, khi các dự án này được giải mật và kiểm chứng bởi các hội đồng khoa học độc lập (như báo cáo của Viện AIR năm 1995), kết luận chung là: các hiện tượng này *vi phạm nguyên tắc cơ bản nhất của khoa học là "tính tái lập" (replicability)*. Trong các điều kiện kiểm soát gian lận chặt chẽ, các công năng này biến mất hoặc kết quả bằng với xác suất ngẫu nhiên. Hiện nay, Cận tâm lý học (Parapsychology) nghiên cứu các vấn đề này bị xếp vào nhóm giả khoa học (pseudoscience). Mức bằng chứng D: Quan niệm truyền thống/tín ngưỡng, không có bằng chứng.
 ]
 
-Sáu loại thường được kể đến trong các nguồn tiếng Việt là:
+Việc làm rõ sự thật này không nhằm phủ nhận giá trị của khí công. Ngược lại, nó buộc chúng ta phải tách bạch hai điều: *bài tập có lợi ích sức khỏe thực sự* (có bằng chứng dựa trên sinh lý học) và *phép màu, siêu năng lực* (không có bằng chứng). Lợi ích mà người bệnh cảm nhận được khi có người "phát ngoại khí chữa bệnh" thường đến từ sự thư giãn, kỳ vọng, và hiệu ứng cộng đồng — chứ không phải từ một loại năng lượng vật lý truyền qua không gian.
 
-- *Công năng ban vận (dịch chuyển vật thể từ xa)* — dùng ý nghĩ làm vật di chuyển mà không chạm vào.
-- *Nhận biết vật thể bằng bộ phận khác ngoài con mắt* — đọc chữ, nhận màu sắc bằng tai, chân, lòng bàn tay...
-- *Truyền cảm tâm linh (tha tâm thông)* — đọc hoặc truyền ý nghĩ giữa người với người ở xa, kể cả "trị bệnh từ xa".
-- *Thấu thị (nhìn xuyên qua)* — "nhìn" được qua vật chắn, hoặc "soi" bên trong cơ thể người khác.
-- *Dao thị (nhìn xa)* — mô tả được cảnh vật ở nơi chưa từng đến.
-- *Dự đoán (tiên tri)* — biết trước những sự việc sẽ xảy ra.
-
-Các bài viết thường dẫn chứng những thí nghiệm như thẻ ESP của J.B. Rhine (thập niên 1930), chương trình "dao thị" của SRI International (Mỹ), hay các thí nghiệm ở Trung Quốc thập niên 80-90. Điểm mấu chốt: những kết quả đó từng được công bố với mức "xác suất cao hơn ngẫu nhiên" — nhưng *không bao giờ có thể tái lập một cách nhất quán* trong các điều kiện kiểm soát chặt chẽ hiện đại.
-
-#muc-bang-chung("C")[
-  *Vì sao "công năng đặc dị" không được khoa học công nhận?* Các hiện tượng siêu năng lực (gọi chung là Psi) dù được nghiên cứu hơn một thế kỷ vẫn thiếu ba điều kiện căn bản của một tuyên bố khoa học: (1) *Tính tái lập* — cùng điều kiện nhưng kết quả không ổn định, không ai lặp lại được một cách đáng tin; (2) *Kiểm soát chặt* — khi các lỗ hổng phương pháp (cơ hội gian lận, chọn mẫu, lỗi thống kê) bị loại bỏ thì hiệu quả biến mất; và (3) *không có cơ chế* — không có định luật vật lý hay sinh học nào đã biết giải thích được "năng lượng" đó. Nhiều tổng quan khoa học nghiêm túc kết luận: chưa có bằng chứng đáng tin cậy. Đây là mức D: không có bằng chứng.
-]
-
-Vậy nên câu "6 loại được khoa học Tây công nhận" là *không đúng*. Đó là sản phẩm của phong trào khí công Trung Quốc thập niên 80-90 (nơi nhiều tuyên bố siêu năng lực được công bố rầm rộ nhưng sau đó không ai kiểm chứng nổi), được lặp lại trên các trang tin không chuyên. Điều đó không phủ nhận giá trị của khí công như một bài tập sức khỏe — nhưng buộc chúng ta phải tách bạch hai điều: *bài tập có lợi ích* (có bằng chứng) và *"phát khí" hay siêu năng lực* (không có bằng chứng).
-
-Một lưu ý nữa về *ngoại khí* (phát khí từ tay để chữa bệnh cho người khác): như đã nêu ở Chương 15, các thử nghiệm có kiểm soát về ngoại khí hầu hết cho kết quả âm tính hoặc không tái lập được. Lợi ích mà người bệnh có thể cảm nhận được khi được "trị liệu ngoại khí" thường đến từ sự thư giãn, chú ý và kỳ vọng — không phải từ một loại năng lượng đặc biệt truyền qua không khí.
 
 == So sánh với các can thiệp tâm-thân khác
 
@@ -134,8 +138,10 @@ Thái Cực Quyền (太极) — "quyền pháp tối thượng" — là một t
 
 #figure(
   image("../assets/images/ch16_thai_cuc_quyen_World_Tai_Chi_Day.jpg", width: 48%),
-  caption: [Người thực hành Thái Cực Quyền (phái Dương) trong Ngày Thái Cực Quyền thế giới. Động tác "Đơn tiên" (Single Whip) đòi hỏi tập trung, thăng bằng và chuyển trọng tâm liên tục — kết hợp giữa vận động, thở và ý niệm]
+  caption: [Người thực hành Thái Cực Quyền]
 )
+
+Ảnh chụp một người thực hành Thái Cực Quyền (phái Dương) trong Ngày Thái Cực Quyền thế giới. Động tác "Đơn tiên" (Single Whip) đòi hỏi tập trung, thăng bằng và chuyển trọng tâm liên tục — kết hợp giữa vận động, thở và ý niệm.
 
 Lưu ý: Thái Cực Quyền và khí công có nhiều điểm chung; một số nghiên cứu gộp chung hai loại hình này, khiến khó tách riêng tác dụng của từng loại. Khi đọc bằng chứng, nên xem xét kỹ loại hình được nghiên cứu.
 

@@ -57,7 +57,7 @@ Huyết áp cao (tăng huyết áp) là "kẻ giết người thầm lặng" —
 
 #figure(
   image("../assets/images/ch07_Blood vessels-en.svg", width: 75%),
-  caption: [Cấu trúc các loại mạch máu: động mạch, tĩnh mạch và mao mạch]
+  caption: [Cấu trúc của động mạch, tĩnh mạch và mao mạch]
 )
 
 Máu chiếm khoảng 7-8% trọng lượng cơ thể (khoảng 5 lít ở người 70 kg). Nó gồm:

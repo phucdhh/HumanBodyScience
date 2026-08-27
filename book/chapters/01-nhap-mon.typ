@@ -65,7 +65,6 @@ Y học đã xây dựng một hệ thống phân cấp để đánh giá độ 
 Các bậc thang này được sắp xếp thành một *tháp bằng chứng* — càng lên cao, mỗi khẳng định càng dựa trên bằng chứng mạnh hơn:
 
 #figure(
-  numbering: none,
   caption: [Tháp bằng chứng — càng lên cao, kết luận càng đáng tin cậy],
   align(center,
     stack(
@@ -88,7 +87,6 @@ Hãy tưởng tượng bạn là một nhà nghiên cứu và muốn biết thu�
 3. *So sánh:* Nếu nhóm uống thuốc X khỏe hơn nhóm giả dược một cách rõ rệt, ta có thể kết luận thuốc X có tác dụng (trong các điều kiện đã được đặt ra).
 
 #figure(
-  numbering: none,
   caption: [Cấu trúc của một RCT — ngẫu nhiên hóa và mù đôi],
   align(center,
     stack(
@@ -177,8 +175,7 @@ Mỗi khi đọc một tin tức sức khỏe, quảng cáo thực phẩm chức
 Một mẹo thường thấy trong quảng cáo và báo chí đó là *cắt bớt trục tung* (trục đứng) để làm một khác biệt nhỏ nào đó trông thật lớn, khuếch đại khác biệt lên. Hai biểu đồ dưới đây mô tả cùng một dữ liệu về ba sản phẩm — nhưng trục tung bên trái bắt đầu từ 0, còn trục tung bên phải bị "phóng to" từ một điểm cắt cao hơn.
 
 #figure(
-  numbering: none,
-  caption: [
+ caption: [
     Cùng một dữ liệu, hai cách vẽ],
   grid(
     columns: (1fr, 1fr),

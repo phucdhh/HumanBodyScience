@@ -20,10 +20,7 @@ Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp 
 - *Cơ thể:* Tất cả các hệ vận hành đồng bộ với một "Hệ điều hành" - nói theo ngôn ngữ máy tính - để tạo nên *bạn*.
 
 #figure(
-  numbering: none,
-  caption: [
-    Thang bậc tổ chức của cơ thể — càng lên cao, mỗi cấp càng phức tạp và nảy sinh những đặc tính mới
-  ],
+ caption: [Thang bậc tổ chức của cơ thể],
   grid(
     columns: 1fr,
     row-gutter: 4pt,
@@ -63,9 +60,7 @@ Có một sự thật đáng kinh ngạc: cơ thể bạn là nơi sinh sống c
 
 #figure(
   image("../assets/images/ch08_202004 Gut microbiota.svg", width: 70%),
-  caption: [
-    Cộng đồng vi sinh vật sống trong ruột — những "cư dân thường trú" của cơ thể bạn
-  ],
+  caption: [Cộng đồng vi sinh vật sống trong ruột],
 )
 
 *Một ví dụ cho thấy những "cư dân" này quan trọng đến mức nào:* người dùng kháng sinh dài ngày có nguy cơ bị vi khuẩn có hại sinh sôi mất kiểm soát — điển hình là loài *Clostridioides difficile* gây tiêu chảy nặng — vì những đối thủ cạnh tranh đã bị tiêu diệt. Cách điều trị hiệu quả nhất hiện nay không phải thêm một loại thuốc, mà là *cấy ghép vi sinh vật đường ruột* (fecal microbiota transplant): lấy một mẫu phân của người khỏe mạnh, xử lý và đưa vào ruột người bệnh để chuyển vào đó "cả một hệ sinh thái lành mạnh", với tỷ lệ khỏi bệnh tới 80-90% @thursby2017. Việc một "cộng đồng vi khuẩn" có thể chữa bệnh mà thuốc kháng sinh không chữa nổi cho thấy hệ vi sinh không hề là những kẻ "đi nhờ xe" thụ động.
@@ -81,6 +76,12 @@ Khái niệm *Holobiont* (siêu sinh vật) mô tả bạn không chỉ là 37 n
 Hãy tưởng tượng cơ thể bạn là một ngôi nhà thông minh. Trong ngôi nhà đó có một máy điều hòa tự động: trời nóng thì nó bật mát, trời lạnh thì nó bật ấm, khi có khói thì nó mở cửa sổ — tất cả tự làm, không cần bạn bấm nút nào.
 
 Cơ thể bạn cũng vậy. Nó liên tục tự kiểm tra và tự sửa để giữ cho "môi trường bên trong" luôn ổn định, dù bên ngoài thay đổi thế nào. Các nhà khoa học gọi khả năng kỳ diệu này là #term("homeostasis") — *cân bằng nội môi*. Nói đơn giản: đó là cách cơ thể giữ mọi thứ "vừa đủ" để bạn sống khỏe, giống như một chiếc máy điều hòa giữ nhiệt độ trong nhà luôn dễ chịu.
+
+#figure(
+  image("../assets/images/homeostasis.png", width: 70%),
+  caption: [Cơ chế cân bằng nội môi]
+)
+
 
 #figure(
   image("../assets/images/ch01_Thyrotropic_feedback_simple.svg", width: 70%),
@@ -125,9 +126,7 @@ Nhờ vòng qua vòng lại như vậy, mức đường trong máu luôn đượ
 
 #figure(
   image("../assets/images/ch05_An example of a negative feedback loop is the process of increasing and decreasing glucose levels in out bloodstream.svg", width: 80%),
-  caption: [
-    Vòng phản hồi âm của insulin và glucagon giữ đường huyết ở mức ổn định
-  ],
+  caption: [Vòng phản hồi âm giữ đường huyết ở mức ổn định],
 )
 
 *Một ví dụ quen thuộc khác — nhiệt độ cơ thể:* Trời nắng nóng → thân nhiệt tăng → hệ thần kinh phát hiện → ra lệnh giãn mạch dưới da và đổ mồ hôi → nhiệt tỏa ra ngoài → thân nhiệt trở về mức chuẩn và cơ thể "tắt máy". Ngược lại, trời rét → cơ run lên để sinh nhiệt, mạch máu ở tay chân co lại để dồn hơi ấm cho não, tim và phổi. Cùng một "máy điều hòa", hai chế độ ngược nhau, cùng một mục tiêu: giữ thân nhiệt ở khoảng 37°C.
@@ -154,10 +153,7 @@ Cơ thể có 11 hệ cơ quan, mỗi hệ như một "phòng ban" chuyên trác
 - *Miễn dịch* là đội an ninh; *da* là bức tường bảo vệ bên ngoài; *sinh dục* là bộ phận duy trì nòi giống.
 
 #figure(
-  numbering: none,
-  caption: [
-    Mười một hệ cơ quan — mỗi hệ một "phòng ban", không ai làm việc một mình
-  ],
+  caption: [Mười một hệ cơ quan],
   grid(
     columns: (1fr, 1fr, 1fr),
     column-gutter: 6pt,

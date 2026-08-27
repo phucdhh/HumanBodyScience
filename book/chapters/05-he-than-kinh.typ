@@ -35,7 +35,7 @@ Mỗi neuron là một tế bào được chuyên môn hóa để truyền tín 
 
 #figure(
   image("../assets/images/ch04_Synapse Illustration2 tweaked.svg", width: 70%),
-  caption: [Xi-náp (synapse) - nơi hai neuron "bắt tay" truyền tín hiệu cho nhau]
+  caption: [nơi hai neuron "bắt tay" truyền tín hiệu cho nhau]
 )
 
 Neuron truyền tin theo hai bước nối tiếp:
@@ -58,7 +58,7 @@ Mỗi chất dẫn truyền là một "thông điệp" riêng:
 == Bản đồ não bộ — Các khu vực chính
 
 #figure(
-  image("../assets/images/ch04_Brain diagram without text.svg", width: 55%),
+  image("../assets/images/brain.svg", width: 55%),
   caption: [Sơ đồ cấu trúc tổng quát của não người]
 )
 
@@ -96,6 +96,12 @@ Vỏ não là lớp ngoài cùng của não, nơi diễn ra các chức năng b�
 
 #muc-bang-chung("B")[
   *Không có "trung tâm ngôn ngữ" duy nhất:* Quan niệm phổ biến cho rằng vùng Broca (nói) và Wernicke (hiểu) là hai trung tâm ngôn ngữ độc lập. Quét não hiện đại cho thấy ngôn ngữ là một mạng lưới trải rộng khắp não, với nhiều vùng ngoài hai khu vực kinh điển tham gia. Mô hình "hai trung tâm" là cách đơn giản hóa hữu ích, nhưng không phản ánh đầy đủ sự phức tạp thực tế @sapolsky2017.
+
+#figure(
+  image("../assets/images/brain-language.svg", width: 60%),
+  caption: [Hai trung tâm liên quan đến ngôn ngữ trên vỏ não]
+)
+
 ]
 
 == Hệ thần kinh tự chủ — Chế độ "lái tự động"

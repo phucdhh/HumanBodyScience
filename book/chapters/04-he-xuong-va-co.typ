@@ -119,7 +119,7 @@ Hai đầu cơ bắp thon lại thành *gân* (tendon) — sợi dai và chắc 
 
 #figure(
   image("../assets/images/ch03_Sliding Filament Theory.svg", width: 70%),
-  caption: [Thuyết trượt sợi: các sợi mỏng trượt chồng vào các sợi dày khi cơ co]
+  caption: [Thuyết trượt sợi: các sợi mỏng trượt chồng vào các sợi dày]
 )
 
 *Cách đọc hình:* Hình trên là mặt cắt của một đoạn tơ cơ, vẽ ở ba trạng thái — lúc thư giãn, lúc đang co, và lúc co hết cỡ. Hai loại sợi protein được vẽ khác màu: sợi mỏng (màu nhạt) và sợi dày (màu đậm). Nhìn từ trái sang phải, bạn sẽ thấy các sợi mỏng *trượt sâu vào giữa* các sợi dày, làm đoạn tơ cơ ngắn lại — đó chính là cơ co.
