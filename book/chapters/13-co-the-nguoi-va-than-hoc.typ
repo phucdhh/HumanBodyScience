@@ -35,6 +35,16 @@ Hầu hết các nền văn hóa và tôn giáo đều phân biệt giữa thể
 
 == Khoa học thần kinh về ý thức và tâm linh
 
+=== Nguồn gốc loài người: Tiến hóa hay Thiết kế thông minh?
+
+Một trong những chủ đề giao thoa sâu sắc nhất giữa sinh học và thần học là câu hỏi về nguồn gốc loài người. Trái với cách hiểu đơn giản hóa thường thấy, khoa học tiến hóa không khẳng định "con người tiến hóa từ loài vượn hiện đại", mà đặt ra giả thuyết rằng con người và các loài linh trưởng có chung một tổ tiên trong quá khứ xa xôi, dựa trên những tương đồng về mã di truyền (ADN) và cấu trúc giải phẫu. Tuy nhiên, hồ sơ hóa thạch vẫn còn những khoảng trống, và bước nhảy vọt từ nhận thức của động vật lên ý thức tự nhận thức, tư duy trừu tượng, và ngôn ngữ phức tạp của con người vẫn là một bí ẩn lớn đối với khoa học thực chứng.
+
+Mặt khác, từ góc độ Thần học và *Thiết kế thông minh (Intelligent Design)*, ngày càng có nhiều quan điểm — bao gồm cả từ những nhà khoa học hoài nghi thuyết tiến hóa Đarwin — lập luận rằng cơ thể người quá tinh vi để có thể hình thành chỉ qua những đột biến ngẫu nhiên vô hướng. 
+
+Họ đưa ra khái niệm *sự phức tạp không thể tối giản (irreducible complexity)*: các hệ thống sinh học như cấu trúc chuỗi ADN mã hóa thông tin, cơ chế đông máu, hay cấu tạo của con mắt người, hoạt động giống hệt những cỗ máy siêu tinh vi. Nếu thiếu đi dù chỉ một chi tiết nhỏ gọn, toàn bộ hệ thống sẽ sụp đổ và không thể hoạt động. Theo lập luận này, giống như một phần mềm máy tính hoàn hảo bắt buộc phải có một Lập trình viên, thì sự phức tạp, trật tự và vẻ đẹp của cơ thể người chính là dấu ấn rõ nét của một Đấng Sáng tạo (Creator) hay một Trí tuệ vĩ đại.
+
+Khoa học sinh học nỗ lực tìm kiếm câu trả lời qua cơ chế chọn lọc tự nhiên (trả lời câu hỏi *vận hành như thế nào*), trong khi Thiết kế thông minh và Thần học khẳng định con người không phải là sản phẩm ngẫu nhiên của vật chất, mà mang một mục đích đặc biệt, có dấu ấn của Đấng Tạo hóa (trả lời câu hỏi *tại sao chúng ta tồn tại*).
+
 === Ý thức — Bài toán chưa có lời giải
 
 Như đã thảo luận ở Chương 11, khoa học chưa giải thích được tại sao hoạt động thần kinh lại tạo ra trải nghiệm chủ quan. Một số nhà khoa học thần kinh cho rằng ý thức hoàn toàn có thể giải thích bằng cơ chế vật lý của não — không cần đến khái niệm linh hồn. Số khác — bao gồm một số nhà triết học và khoa học — cho rằng có thể tồn tại khía cạnh phi vật chất của ý thức mà khoa học hiện tại chưa thể đo lường.
@@ -45,19 +55,24 @@ Các nghiên cứu quét não cho thấy thiền định, cầu nguyện, và c�
 
 Điều này không nhất thiết "giải thích hết" trải nghiệm tâm linh — nó chỉ cho thấy mọi trải nghiệm của con người, kể cả tâm linh, đều có tương quan thần kinh trong não.
 
-=== Trải nghiệm cận tử
+=== Trải nghiệm cận tử và nghiên cứu Đường Sơn
 
-Khoảng 10-20% người từng ngừng tim và được hồi sức kể lại các trải nghiệm cận tử (near-death experiences): cảm giác ra khỏi cơ thể, thấy ánh sáng, gặp người thân đã mất.
+Khoảng 10-20% người từng ngừng tim và được hồi sức kể lại các trải nghiệm cận tử (near-death experiences - NDE): cảm giác ra khỏi cơ thể, thấy ánh sáng, gặp người thân đã mất, hoặc cảm giác bình an sâu sắc. 
 
-Giải thích thần kinh học: khi não thiếu oxy (do tim ngừng đập), nó trải qua một loạt hiện tượng có thể giải thích các yếu tố của NDE — giải phóng endorphin (cảm giác bình an), rối loạn thùy thái dương (cảm giác ra khỏi cơ thể), thiếu oxy vỏ não thị giác (nhìn thấy ánh sáng) @mobbs2011.
+Đây không chỉ là hiện tượng của văn hóa phương Tây. Năm 1992, hai bác sĩ tâm thần học Trung Quốc là Phùng Chí Dĩnh (Feng Zhiying) và Lưu Kiến Huân (Liu Jianxun) đã công bố một nghiên cứu mang tính bước ngoặt. Họ phỏng vấn 81 người sống sót sau trận siêu động đất kinh hoàng ở Đường Sơn năm 1976 — những người đã bị vùi lấp dưới đống đổ nát và kề cận cái chết. Thay vì sự hoảng loạn tột độ, kết quả ghi nhận được rất đáng kinh ngạc:
+- Hơn *65%* cảm thấy tâm trí vô cùng bình an, không hề sợ hãi.
+- Khoảng *55%* có trải nghiệm "thoát xác" (cảm giác ý thức rời khỏi thân thể và nhìn xuống chính mình).
+- Khoảng *25%* cảm thấy đi qua một đường hầm tối để đến với ánh sáng.
+- Nhiều người trải qua hiện tượng "toàn cảnh cuộc đời" (life review) – thấy toàn bộ ký ức quá khứ tua lại như một cuốn phim với tốc độ phi thường.
 
-Giải thích tâm linh: một số người xem NDE là bằng chứng cho sự tồn tại của linh hồn sau khi chết.
+*Giải thích thần kinh học:* Khoa học thần kinh hiện đại giải thích rằng khi não thiếu oxy trầm trọng (như khi tim ngừng đập hoặc ngạt thở), nó sẽ trải qua một loạt các cơ chế sinh tồn cuối cùng. Cảm giác bình an sâu sắc có thể do não giải phóng ồ ạt *endorphin* (chất giảm đau tự nhiên). Cảm giác "ra khỏi cơ thể" thường liên quan đến sự gián đoạn của *khớp nối thái dương-đỉnh (TPJ)* — vùng não chịu trách nhiệm tích hợp cảm giác không gian cơ thể. Cảm giác nhìn thấy "đường hầm ánh sáng" có thể là hệ quả của việc thiếu oxy ở vỏ não thị giác (bắt đầu hẹp từ ngoại vi vào trung tâm) @mobbs2011.
 
-Khoa học hiện tại không thể xác nhận hoặc bác bỏ hoàn toàn bất kỳ giải thích nào.
+*Giải thích tâm linh:* Đối lập với quan điểm cơ học thần kinh, nhiều người (đặc biệt là những người trực tiếp trải qua) xem NDE là bằng chứng cho sự tồn tại của linh hồn độc lập với thể xác, và là cái nhìn hé lộ về thế giới sau cái chết. Sự nhất quán của những trải nghiệm này xuyên qua các rào cản văn hóa, tuổi tác và tôn giáo càng làm củng cố niềm tin này.
 
 #muc-bang-chung("C")[
-  *Hiệu ứng thỉnh nguyện (Intercessory prayer) — Một thử nghiệm khoa học:* Một số nghiên cứu đã thử nghiệm xem cầu nguyện cho người bệnh từ xa (người bệnh không biết mình được cầu nguyện) có cải thiện kết quả sức khỏe không. Kết quả: không có bằng chứng thuyết phục nào cho thấy hiệu quả, và một nghiên cứu lớn (STEP Project, 2006) còn thấy nhóm được cầu nguyện có biến chứng *nhiều hơn* một chút. Những nghiên cứu này đặt ra câu hỏi thú vị về giới hạn của phương pháp khoa học khi nghiên cứu các hiện tượng tâm linh.
+  *Tính chất của Trải nghiệm cận tử:* Khoa học hoàn toàn công nhận rằng các trải nghiệm chủ quan (NDE) là *có thật* đối với những người trải qua chúng (những cảm giác đó thực sự đã xảy ra trong ý thức của họ). Tuy nhiên, nguyên nhân đằng sau hiện tượng này (là do cơ chế sinh lý của não bộ đang hấp hối hay là sự tồn tại của linh hồn) vẫn đang là một giả thuyết đang được tranh luận gay gắt giữa khoa học thần kinh và các nhà nghiên cứu cận tâm lý học.
 ]
+
 
 == Sống chung với hai cách nhìn
 
