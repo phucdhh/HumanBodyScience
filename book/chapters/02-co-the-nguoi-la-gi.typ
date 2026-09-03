@@ -24,12 +24,12 @@ Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp 
   grid(
     columns: 1fr,
     row-gutter: 4pt,
-    align(center, rect(width: 45%, height: 1.7em, fill: color-level-c.lighten(88%), stroke: 0.8pt + color-level-c, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Nguyên tử & phân tử]))),
-    align(center, rect(width: 56%, height: 1.7em, fill: color-level-b.lighten(88%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Tế bào]))),
-    align(center, rect(width: 67%, height: 1.7em, fill: color-level-b.lighten(80%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mô]))),
-    align(center, rect(width: 78%, height: 1.7em, fill: color-level-b.lighten(72%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Cơ quan]))),
-    align(center, rect(width: 89%, height: 1.7em, fill: color-level-b.lighten(64%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Hệ cơ quan]))),
-    align(center, rect(width: 100%, height: 1.7em, fill: color-level-b.lighten(55%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Cơ thể người]))),
+    align(center, rect(width: 35%, height: 1.7em, fill: color-level-c.lighten(88%), stroke: 0.8pt + color-level-c, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Nguyên tử & phân tử]))),
+    align(center, rect(width: 46%, height: 1.7em, fill: color-level-b.lighten(88%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Tế bào: Neuron, máu, da...]))),
+    align(center, rect(width: 57%, height: 1.7em, fill: color-level-b.lighten(80%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mô: máu, sụn, cơ tim...]))),
+    align(center, rect(width: 68%, height: 1.7em, fill: color-level-b.lighten(72%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Cơ quan: Dạ dày, tim, phổi, não...]))),
+    align(center, rect(width: 79%, height: 1.7em, fill: color-level-b.lighten(64%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Hệ cơ quan: Tiêu hoá, tuần hoàn, hô hấp, thần kinh...]))),
+    align(center, rect(width: 90%, height: 1.7em, fill: color-level-b.lighten(55%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Cơ thể người: cơ thể bạn & tinh thần, quy phạm đạo đức]))),
   ),
 )
 
@@ -48,6 +48,24 @@ Quan sát một nguyên tử carbon, chúng ta khó cảm nhận được sự s
 *Một cách ví von dễ nhớ:* một chữ cái không "chứa" câu chuyện, nhưng hàng nghìn chữ xếp lại thì làm được — điều mà không chữ cái nào đơn lẻ mang theo cả. Cũng vậy, một neuron không nhớ gì; nhưng 86 tỷ neuron kết nối với nhau thì lưu giữ cả một đời ký ức.
 
 Điều này có ý nghĩa thực tế: một loại thuốc tác động lên một phân tử có thể gây hiệu ứng lên các cấu trúc bậc cao hơn mà có thể không lường trước được. Đó là lý do thử nghiệm trên người luôn cần thiết, dù thí nghiệm trong phòng thí nghiệm đã cho kết quả tốt.
+
+=== Cấu trúc "vật chất" của tinh thần và ý thức
+
+Một trong những bước tiến vĩ đại nhất của khoa học là nhận ra rằng tinh thần, suy nghĩ và cảm xúc không phải là những thực thể "hư vô" bay lơ lửng ngoài không gian. Ngược lại, chúng bám rễ sâu sắc vào thế giới vật chất và bản thân chúng cũng có tính chất vật lý.
+
+Mọi suy nghĩ, ký ức hay cảm xúc bạn đang trải qua lúc này đều tương ứng với sự phóng điện của các mạng lưới neuron và sự trao đổi các chất hóa học (chất dẫn truyền thần kinh) trong não bộ. Đáng chú ý hơn, hoạt động của hàng tỷ neuron này liên tục tạo ra dòng điện, và theo định luật vật lý, dòng điện sinh ra điện từ trường. 
+
+Một số nhà khoa học, nổi bật là Giáo sư sinh học phân tử Johnjoe McFadden (Đại học Surrey, Anh), đã đề xuất *Thuyết trường thông tin điện từ của ý thức (CEMI field theory)*. Theo thuyết này, ý thức của chúng ta thực chất là một *trường điện từ vật lý (electromagnetic field)* mang thông tin, được tạo ra bởi hoạt động của não bộ @mcfadden2020. Trường điện từ này là một dạng vật chất/năng lượng có thật (dù cực kỳ vi tế), có thể lan truyền qua mô não và tương tác ngược trở lại với các neuron, từ đó tạo ra thứ mà chúng ta gọi là "ý chí tự do" (free will) và sự thống nhất của nhận thức.
+
+Hơn thế nữa, tính vật chất của tinh thần còn thể hiện qua tính hai chiều. Không chỉ cấu trúc não tạo ra ý nghĩ, mà bản thân *ý nghĩ cũng làm thay đổi cấu trúc vật lý của não*. Đây gọi là sự mềm dẻo của não bộ (Neuroplasticity). Việc lặp đi lặp lại một suy nghĩ, một sự tập trung hay một kỹ năng thực sự làm các liên kết thần kinh dày lên và biến đổi cấu trúc chất xám @schwartz2002. Tâm trí, dưới góc nhìn này, chính là não bộ đang hành động.
+
+=== Kết nối Thân - Tâm: Tiền đề cho sự toàn vẹn
+
+Từ việc hiểu tinh thần có nền tảng vật chất (điện, hóa, và trường điện từ), ta đi đến một hệ quả quan trọng: Cơ thể (Thân) và Tâm trí (Tâm) không phải là hai hệ thống tách biệt, mà là một thể thống nhất liên tục tương tác.
+
+Sự thay đổi về mặt vật chất như ốm đau, thiếu hụt vi chất, hay hệ vi sinh vật đường ruột bị rối loạn sẽ trực tiếp làm thay đổi thành phần hóa học và điện từ trong não, dẫn đến trầm cảm, cáu gắt hoặc sương mù não. Ngược lại, trạng thái tinh thần như căng thẳng kéo dài (stress), lo âu, hay thiền định sâu sẽ phát tín hiệu vật lý điều khiển tuyến thượng thận tiết ra các hormone làm thay đổi huyết áp, nhịp tim, và mức độ viêm nhiễm của toàn bộ cơ thể.
+
+Việc nhận thức rõ sự thống nhất vật chất - tinh thần này là tiền đề then chốt để chúng ta bước vào khám phá các hệ cơ quan cụ thể ở các chương sau, đặc biệt là Hệ thần kinh (Chương 4), Cảm xúc và Tư duy (Chương 10), và cơ chế đằng sau các phương pháp chữa lành Tâm - Thân của Y học truyền thống hay Khí công (Chương 14, 16).
 
 == Bạn không bao giờ "một mình"
 
