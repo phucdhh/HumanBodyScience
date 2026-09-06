@@ -104,6 +104,21 @@ Vỏ não là lớp ngoài cùng của não, nơi diễn ra các chức năng b�
 
 ]
 
+
+== Các giác quan: Mắt người và Ống kính máy ảnh
+
+Não bộ có thể xử lý thông tin phức tạp, nhưng nó sẽ "mù, điếc và câm" nếu không có các giác quan để thu thập dữ liệu từ thế giới bên ngoài. Trong số đó, cơ quan thị giác — con mắt người — là hệ thống cảm giác tinh vi nhất, tiêu tốn phần lớn năng lượng xử lý của não bộ.
+
+Để dễ hình dung về độ phức tạp của mắt người, chúng ta thường so sánh nó với hệ thống thấu kính và cảm biến của một chiếc máy ảnh hiện đại:
+
+- *Giác mạc và Thủy tinh thể (Lens):* Giống như các thấu kính thủy tinh trong ống kính máy ảnh, nhiệm vụ của chúng là bẻ cong và hội tụ ánh sáng. Đặc biệt, thủy tinh thể của mắt là một thấu kính "sống", có thể co giãn tự động để thay đổi tiêu cự (giống hệt cơ chế Autofocus).
+- *Mống mắt và Đồng tử (Aperture/Khẩu độ):* Mống mắt (phần tạo nên màu mắt) hoạt động y như các lá khẩu độ của máy ảnh. Nó tự động mở to (giãn đồng tử) trong bóng tối để thu thêm ánh sáng, và khép nhỏ lại (co đồng tử) khi ra nắng gắt để tránh bị lóa.
+- *Võng mạc (Cảm biến hình ảnh):* Võng mạc nằm ở đáy mắt, tương đương với cảm biến hình ảnh số (CMOS/CCD). Nó sở hữu khoảng 120 triệu tế bào que (chuyên nhìn trong bóng tối) và 6 triệu tế bào nón (chuyên nhận diện màu sắc và độ chi tiết). Mắt người có dải nhạy sáng (Dynamic Range) cực "khủng", vượt xa bất kỳ máy ảnh nào hiện có.
+- *Dây thần kinh thị giác (Cáp truyền dữ liệu):* Đưa hàng triệu tín hiệu điện "RAW" chạy thẳng về não.
+- *Vỏ não thị giác (Bộ xử lý/Photoshop):* Đây là điểm kỳ diệu nhất. Do tính chất vật lý của thấu kính, hình ảnh hội tụ trên võng mạc thực chất bị *lộn ngược*. Vỏ não thị giác (nằm ở thùy chẩm phía sau đầu) làm nhiệm vụ lật hình ảnh lại cho đúng chiều, ghép hai ảnh từ hai mắt để tạo độ sâu 3D, cân bằng trắng, và tự động "điền" (photoshop) vào các "điểm mù" (blind spot) nơi không có tế bào cảm quang.
+
+Tuy có nhiều điểm tương đồng, nhưng mắt người vượt trội hơn máy ảnh ở chỗ: nó không chụp từng khung hình tĩnh (fps), mà thu nhận một luồng dữ liệu sống động, liên tục, và tự động điều chỉnh độ nhạy sáng (ISO) linh hoạt ở từng vùng chi tiết khác nhau. Đây là một hệ thống quang học sinh học mà không một công nghệ nhân tạo nào có thể sao chép hoàn hảo.
+
 == Hệ thần kinh tự chủ — Chế độ "lái tự động"
 
 #term("he-than-kinh-tu-chu") điều khiển những việc bạn không cần nghĩ tới: nhịp tim, tiêu hóa, nhịp thở. Nó có hai nhánh hoạt động ngược nhau:
