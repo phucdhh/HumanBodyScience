@@ -49,6 +49,14 @@ Khoa học sinh học nỗ lực tìm kiếm câu trả lời qua cơ chế ch�
 
 Như đã thảo luận ở Chương 11, khoa học chưa giải thích được tại sao hoạt động thần kinh lại tạo ra trải nghiệm chủ quan. Một số nhà khoa học thần kinh cho rằng ý thức hoàn toàn có thể giải thích bằng cơ chế vật lý của não — không cần đến khái niệm linh hồn. Số khác — bao gồm một số nhà triết học và khoa học — cho rằng có thể tồn tại khía cạnh phi vật chất của ý thức mà khoa học hiện tại chưa thể đo lường.
 
+=== Thể tùng quả: Nơi giao thoa giữa Khoa học và Huyền học
+
+Rất hiếm có một cơ quan nào trong cơ thể người lại mang nhiều ý nghĩa tâm linh và triết học như *Thể tùng quả (Pineal gland)*. Nằm ở trung tâm não bộ và là một trong những cấu trúc hiếm hoi của não không phân chia thành hai bán cầu đối xứng, thể tùng quả đã thu hút sự chú ý của các triết gia và nhà huyền môn từ hàng ngàn năm trước.
+
+Thế kỷ 17, triết gia René Descartes đã gọi thể tùng quả là *"nơi trú ngụ của linh hồn"* (principal seat of the soul), tin rằng đây là điểm kết nối duy nhất giữa tâm trí phi vật chất và thể xác vật lý. Trong văn hóa và triết học phương Đông (như Ấn Độ giáo, Yoga, và Đạo giáo), vị trí của thể tùng quả thường được liên hệ mật thiết với *Luân xa số 6 (Ajna)* hay khái niệm *"Con mắt thứ ba"* và *Thượng Đan Điền*. Các truyền thống này cho rằng đây là trung tâm của trực giác, sự khai sáng và khả năng nhìn thấu những chiều không gian phi vật chất.
+
+Dưới góc nhìn khoa học hiện đại (như đã bàn ở Chương 6), tuyến tùng đơn thuần là một tuyến nội tiết phản ứng với ánh sáng để tiết ra melatonin điều hòa giấc ngủ. Thú vị thay, khoa học sinh học gọi tuyến tùng là cơ quan "cảm nhận ánh sáng" (photoreceptive), và ở một số loài động vật cổ đại (như bò sát), tuyến tùng thậm chí có cấu trúc tế bào võng mạc giống hệt một con mắt thực sự nằm trên đỉnh đầu (parietal eye). Sự trùng hợp giữa chức năng "cảm nhận ánh sáng" sinh lý học và biểu tượng "con mắt khai sáng" tâm linh học khiến thể tùng quả trở thành một ví dụ tuyệt đẹp về sự gặp gỡ giữa y học cổ đại và khoa học hiện đại.
+
 === Trải nghiệm tâm linh và não bộ
 
 Các nghiên cứu quét não cho thấy thiền định, cầu nguyện, và các trải nghiệm tâm linh kích hoạt những vùng não cụ thể: vỏ não trước trán (chú ý tập trung), thùy đỉnh (cảm giác tan biến ranh giới bản thân), và hệ viền (cảm xúc) @shermer2011.
