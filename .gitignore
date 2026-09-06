@@ -13,6 +13,10 @@ Thumbs.db
 *.swp
 *.tmp
 *.log
+book/references/
+book/download_images.py
+book/update_changelog.sh
+book/THUAT_NGU_TODO.md
 
 # Old summary files (replaced by SUMMARY.md in root)
 SUMMARY.md

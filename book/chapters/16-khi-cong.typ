@@ -99,9 +99,24 @@ Các động tác chậm đòi hỏi kiểm soát tư thế liên tục, kích h
 
 Một phần tác dụng của khí công đến từ: kỳ vọng của người tập, sự chú ý của người hướng dẫn, hiệu ứng cộng đồng (tập nhóm), và niềm tin vào hiệu quả của phương pháp. Đây không phải là "không có thật" — hiệu ứng giả dược là một hiện tượng sinh lý thực sự, nhưng cần được phân biệt với tác dụng đặc hiệu của bài tập.
 
+== Khí công trị bệnh
+
+Trong thực tế và trên các phương tiện truyền thông, chúng ta thường nghe kể về những trường hợp "kỳ tích": những người mắc bệnh nan y (như ung thư, bại liệt, hay các bệnh tự miễn) đã hoàn toàn khỏi bệnh nhờ kiên trì tập luyện khí công (ví dụ như phong trào Quách Lâm Khí Công hay Trí Năng Khí Công từng thu hút hàng chục ngàn người tham gia).
+
+Tuy nhiên, dưới lăng kính của Y học dựa trên bằng chứng (Y học thực chứng), giới khoa học thực chứng *chưa từng ghi nhận hay công nhận* bất kỳ trường hợp nào chứng minh khí công có thể tự mình "chữa lành" (cure) các bệnh lý thực thể nghiêm trọng. Khi các nhà nghiên cứu độc lập xem xét lại các hồ sơ bệnh án được cho là "khỏi bệnh nhờ khí công", họ thường phát hiện ra chúng rơi vào một trong các trường hợp sau (nhắc lại các khái niệm ở Chương đầu):
+
+- *Điều trị song song (Phổ biến nhất):* Bệnh nhân vừa tập khí công, vừa âm thầm hoặc công khai tiếp nhận các phương pháp điều trị của y học hiện đại (như phẫu thuật, hóa trị, xạ trị). Khi bệnh thuyên giảm, người bệnh (hoặc truyền thông) có thể gán toàn bộ công lao cho việc tập luyện khí công.
+- *Hiện tượng tự thuyên giảm (Spontaneous remission):* Trong y khoa, luôn có một tỷ lệ cực kỳ nhỏ (khoảng 1/100.000) các khối u hoặc bệnh nan y tự động ngừng phát triển và biến mất mà y học hiện tại chưa thể giải thích đầy đủ. Hiện tượng này có thể xảy ra ở bất kỳ ai, dù họ không làm gì, đi nhà thờ cầu nguyện, hay tập khí công.
+- *Chẩn đoán sai từ đầu:* Bệnh nhân ban đầu không hề mắc bệnh nan y (có thể chỉ là khối u lành tính hoặc viêm nhiễm thông thường). Khi bệnh tự khỏi theo thời gian, họ lại lầm tưởng rằng khí công đã cứu mạng mình.
+- *Hiệu ứng giả dược và quản lý căng thẳng:* Như đã phân tích ở phần cơ chế, sự kết hợp giữa vận động chậm và hít thở sâu của khí công thực sự giúp giảm đáng kể hormone căng thẳng (cortisol) và hỗ trợ hệ miễn dịch. Điều này làm tăng chất lượng sống, giúp bệnh nhân ăn ngủ tốt hơn và kéo dài tuổi thọ, tạo cảm giác "bệnh tình thuyên giảm mạnh".
+
+#muc-bang-chung("C")[
+  *Khí công có chữa được bệnh nan y?* Chưa có bằng chứng khoa học nào (từ các thử nghiệm đối chứng ngẫu nhiên) cho thấy khí công có thể tiêu diệt tế bào ung thư hay virus. Việc định vị khí công như một phương thuốc thay thế (alternative medicine) để chữa bệnh hiểm nghèo có thể dẫn đến nguy hiểm. Tuy nhiên, khí công hoàn toàn được công nhận là một liệu pháp *hỗ trợ (complementary therapy)* tuyệt vời, giúp nâng cao thể trạng, giảm đau và cải thiện chất lượng sống cho người bệnh trong quá trình điều trị y khoa @lee2020.
+]
+
 == Công năng đặc dị
 
-Trong phong trào "sốt khí công" ở Trung Quốc thập niên 80-90, và trên nhiều diễn đàn hiện nay, người ta thường đồn thổi về hàng loạt *công năng đặc dị* (特異功能) — những khả năng siêu thường, hay "siêu năng lực". Các khả năng này thường pha trộn với khái niệm "Lục thông" của Phật giáo và được nhiều bài viết gán mác là "đã được khoa học công nhận". Ngoài 6 loại phổ biến nhất, danh sách các siêu năng lực này thực tế còn nhiều hơn thế:
+Trong phong trào Khí công ở Trung Quốc thập niên 80-90, và trên nhiều trang web, người ta có nói về hàng loạt *công năng đặc dị* (特異功能) — những khả năng siêu thường, hay "siêu năng lực". Danh sách các siêu năng lực này thường gặp là:
 
 1. *Công năng ban vận (Dịch chuyển vật thể):* Dùng ý nghĩ làm vật di chuyển mà không chạm vào, bẻ cong thìa, hoặc dịch chuyển tức thời (Telekinesis / Teleportation).
 2. *Thấu thị và Dao thị:* "Nhìn" xuyên tường, soi cơ thể người khác như máy X-quang (Clairvoyance), hoặc mô tả chi tiết cảnh vật ở nơi chưa từng đến (Remote viewing).
@@ -109,11 +124,11 @@ Trong phong trào "sốt khí công" ở Trung Quốc thập niên 80-90, và tr
 4. *Tha tâm thông (Truyền cảm tâm linh):* Đọc ý nghĩ của người khác (Telepathy).
 5. *Tiên tri và Túc mệnh thông:* Biết trước tương lai (Precognition) hoặc nhìn thấy tiền kiếp/quá khứ (Retrocognition).
 6. *Phát ngoại khí:* Phóng "khí" từ tay để chữa bệnh từ xa, thay đổi cấu trúc phân tử của nước, hoặc đánh ngã đối thủ mà không cần chạm.
-7. *Bích cốc (Nhịn ăn):* Khả năng ngừng ăn uống trong nhiều tháng, nhiều năm mà cơ thể vẫn bình thường (Inedia).
+7. *Tịch cốc (Nhịn ăn):* Khả năng ngừng ăn uống trong nhiều tháng, nhiều năm mà cơ thể vẫn bình thường (Inedia).
 8. *Khinh công:* Làm cơ thể trở nên siêu nhẹ, có thể bước trên giấy, đứng trên cành cây hoặc bay lơ lửng (Levitation).
 
 #muc-bang-chung("D")[
-  *Siêu năng lực có được khoa học công nhận?* Sự thật là *khoa học dòng chính chưa từng công nhận các công năng này*. Sự hiểu lầm phổ biến xuất phát từ việc trong thời Chiến tranh Lạnh, các tổ chức như CIA của Mỹ (Dự án Stargate hợp tác với Viện SRI) hay chính phủ Trung Quốc thực sự *đã từng đổ tiền vào nghiên cứu* các hiện tượng này cho mục đích tình báo. Tuy nhiên, khi các dự án này được giải mật và kiểm chứng bởi các hội đồng khoa học độc lập (như báo cáo của Viện AIR năm 1995), kết luận chung là: các hiện tượng này *vi phạm nguyên tắc cơ bản nhất của khoa học là "tính tái lập" (replicability)*. Trong các điều kiện kiểm soát gian lận chặt chẽ, các công năng này biến mất hoặc kết quả bằng với xác suất ngẫu nhiên. Hiện nay, Cận tâm lý học (Parapsychology) nghiên cứu các vấn đề này bị xếp vào nhóm giả khoa học (pseudoscience). Mức bằng chứng D: Quan niệm truyền thống/tín ngưỡng, không có bằng chứng.
+  *Siêu năng lực có được khoa học thực chứng của phương Tây công nhận?* Sự thật là *khoa học dòng chính chưa từng công nhận các công năng này*. Sự hiểu lầm phổ biến xuất phát từ việc trong thời Chiến tranh Lạnh, các tổ chức như CIA của Mỹ (Dự án Stargate hợp tác với Viện SRI) hay chính phủ Trung Quốc thực sự *đã từng đổ tiền vào nghiên cứu* các hiện tượng này cho mục đích tình báo. Tuy nhiên, khi các dự án này được giải mật và kiểm chứng bởi các hội đồng khoa học độc lập (như báo cáo của Viện AIR năm 1995), kết luận chung là: các hiện tượng này *vi phạm nguyên tắc cơ bản nhất của khoa học là "tính tái lập" (replicability)*. Trong các điều kiện kiểm soát gian lận chặt chẽ, các công năng này biến mất hoặc kết quả bằng với xác suất ngẫu nhiên. Hiện nay, Cận tâm lý học (Parapsychology) nghiên cứu các vấn đề này bị xếp vào nhóm giả khoa học (pseudoscience). Mức bằng chứng D: Quan niệm truyền thống/tín ngưỡng, không có bằng chứng.
 ]
 
 Việc làm rõ sự thật này không nhằm phủ nhận giá trị của khí công. Ngược lại, nó buộc chúng ta phải tách bạch hai điều: *bài tập có lợi ích sức khỏe thực sự* (có bằng chứng dựa trên sinh lý học) và *phép màu, siêu năng lực* (không có bằng chứng). Lợi ích mà người bệnh cảm nhận được khi có người "phát ngoại khí chữa bệnh" thường đến từ sự thư giãn, kỳ vọng, và hiệu ứng cộng đồng — chứ không phải từ một loại năng lượng vật lý truyền qua không gian.

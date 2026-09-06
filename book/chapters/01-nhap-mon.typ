@@ -70,10 +70,10 @@ Các bậc thang này được sắp xếp thành một *tháp bằng chứng* �
     stack(
       dir: ttb,
       spacing: 3pt,
-      rect(width: 42%, height: 1.4em, fill: color-level-a.lighten(88%), stroke: 0.8pt + color-level-a, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức A — Tổng quan & phân tích gộp])),
-      rect(width: 56%, height: 1.4em, fill: color-level-b.lighten(88%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức B — Thử nghiệm lâm sàng RCT mù đôi])),
-      rect(width: 70%, height: 1.4em, fill: color-level-c.lighten(88%), stroke: 0.8pt + color-level-c, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức C — Nghiên cứu quan sát])),
-      rect(width: 84%, height: 1.4em, fill: color-level-d.lighten(88%), stroke: 0.8pt + color-level-d, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức D — Ý kiến chuyên gia & báo cáo ca bệnh])),
+      rect(width: 50%, height: 1.4em, fill: color-level-a.lighten(88%), stroke: 0.8pt + color-level-a, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức A: Tổng quan & phân tích gộp])),
+      rect(width: 60%, height: 1.4em, fill: color-level-b.lighten(88%), stroke: 0.8pt + color-level-b, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức B: Thử nghiệm lâm sàng RCT mù đôi])),
+      rect(width: 70%, height: 1.4em, fill: color-level-c.lighten(88%), stroke: 0.8pt + color-level-c, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức C: Nghiên cứu quan sát])),
+      rect(width: 80%, height: 1.4em, fill: color-level-d.lighten(88%), stroke: 0.8pt + color-level-d, radius: 2pt, align(center, text(size: 9pt, weight: "bold")[Mức D: Ý kiến chuyên gia & báo cáo ca bệnh])),
     )
   ),
 )
@@ -117,7 +117,11 @@ Hãy tưởng tượng bạn là một nhà nghiên cứu và muốn biết thu�
 
 Cơ chế của hiệu ứng này không hề "ma thuật": khi bạn tin một phương pháp sẽ có tác dụng, người ta thấy não giải phóng các chất giảm đau nội sinh (endorphin) và điều chỉnh chú ý, cảm xúc theo hướng dễ chịu hơn. Trong nhiều nghiên cứu, dùng thuốc chặn thụ thể opioid — vốn triệt tiêu tác dụng của endorphin — làm giảm hiệu quả giảm đau của giả dược, cho thấy có cơ chế sinh học thật sự phía sau hiệu ứng này.
 
-Hiệu ứng ngược cũng tồn tại: *hiệu ứng nocebo* (#term("nocebo")) — khi người bệnh *kỳ vọng* tác dụng phụ, họ có thể thực sự gặp tác dụng phụ dù chỉ dùng giả dược. Đó là lý do mô tả tác dụng phụ trên tờ hướng dẫn thuốc có thể tự nó "sinh ra" một phần các triệu chứng được báo cáo.
+Hiệu ứng ngược cũng tồn tại: (#term("nocebo")) — khi người bệnh *kỳ vọng* tác dụng phụ hoặc hậu quả xấu, họ có thể thực sự gặp tác dụng phụ dù chỉ dùng giả dược. Đó là lý do mô tả tác dụng phụ trên tờ hướng dẫn thuốc có thể tự nó "sinh ra" một phần các triệu chứng được báo cáo. 
+
+Để minh họa cho sự đáng sợ của hiệu ứng nocebo, trong dân gian và cả giới sinh viên y khoa thường lưu truyền một giai thoại nổi tiếng: Một tử tù bị trói, bịt mắt và được thông báo sẽ bị hành quyết bằng cách cắt cổ tay. Người ta quẹt một vật lạnh (như viên đá) lên tay anh ta, rồi mở vòi nước nhỏ giọt "tí tách" vào xô. Tử tù nghe tiếng nước, tưởng đó là máu mình đang chảy cạn dần, và một lúc sau anh ta... chết thật. 
+
+Dù đây hoàn toàn là một *câu chuyện hư cấu (urban legend)* và chưa từng có một ghi chép y khoa nào xác nhận một thí nghiệm như vậy, nó phản ánh một sự thật sâu sắc: *niềm tin tiêu cực có thể gây ra hệ quả vật lý tiêu cực*. Nỗi sợ hãi tột độ và kỳ vọng về cái chết không thể rút cạn máu một người như trong giai thoại, nhưng trong thực tế lâm sàng, sự căng thẳng tột độ (stress) hoàn toàn có thể làm tăng huyết áp đột ngột, gây rối loạn nhịp tim hoặc kích hoạt các phản ứng sinh lý nguy hiểm y như thật.
 
 Hai hệ quả thực tế rất quan trọng:
 
@@ -140,7 +144,7 @@ Ngay cả các RCT tốt nhất cũng không hoàn hảo:
 
 === Hồi quy về trung bình
 
-Một nguyên tắc thống kê đơn giản nhưng dễ bị bỏ qua: các giá trị cực đoan thường có xu hướng trở về gần mức trung bình khi đo lại @barnett2005. Huyết áp hôm nay đo cao bất thường thì lần đo sau thường thấp hơn. Bạn thức dậy một buổi sáng với cơn đau lưng tệ nhất trong nhiều tháng, rồi ngày hôm sau đỡ hơn — không phải vì bạn đã làm gì, mà vì cơ thể vốn dao động quanh mức nền của chính nó. Hiện tượng này gọi là *hồi quy về trung bình* (#term("hoi-quy-trung-binh")).
+Một nguyên tắc thống kê đơn giản nhưng dễ bị bỏ qua: các giá trị cực đoan thường có xu hướng trở về gần mức trung bình khi đo lại @barnett2005. Huyết áp hôm nay đo cao bất thường thì lần đo sau thường thấp hơn. Bạn thức dậy một buổi sáng với cơn đau lưng tệ nhất trong nhiều tháng, rồi ngày hôm sau đỡ hơn — không phải vì bạn đã làm gì, mà vì cơ thể vốn dao động quanh mức nền của chính nó. Hiện tượng này gọi là #term("hoi-quy-trung-binh").
 
 Hiện tượng này giải thích vì sao rất nhiều phương pháp "chữa bách bệnh" có vẻ như hiệu quả. Người ta thường tìm đến một liệu pháp đúng vào lúc triệu chứng tồi tệ nhất — rồi dù không làm gì, tình trạng cũng có xu hướng cải thiện chỉ nhờ hồi quy về trung bình. Phương pháp bị ghi công một cách nhầm lẫn. Trong thể thao, các nhà bình luận gọi đây là "lời nguyền trang bìa": vận động viên vừa được ca ngợi hết lời sau chuỗi phong độ đỉnh cao thì trận sau thường chơi kém hơn — không phải vì bị "nguyền", mà vì phong độ đỉnh cao vốn khó duy trì.
 

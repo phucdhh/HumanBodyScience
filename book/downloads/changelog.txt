@@ -2,6 +2,227 @@
 # Lịch sử các phiên bản xuất bản
 
 
+## Phiên bản 2026.09.07.0122 (07/09/2026 01:22)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.07.0122.pdf
+- Kích thước: 11M
+- Biên dịch: 07/09/2026 lúc 01:22:05
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 59
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.07.0109 (07/09/2026 01:09)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.07.0109.pdf
+- Kích thước: 11M
+- Biên dịch: 07/09/2026 lúc 01:09:05
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 59
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.07.0058 (07/09/2026 00:58)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.07.0058.pdf
+- Kích thước: 11M
+- Biên dịch: 07/09/2026 lúc 00:58:10
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.07.0049 (07/09/2026 00:49)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.07.0049.pdf
+- Kích thước: 11M
+- Biên dịch: 07/09/2026 lúc 00:49:33
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.03.0954 (03/09/2026 09:54)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.03.0954.pdf
+- Kích thước: 11M
+- Biên dịch: 03/09/2026 lúc 09:54:23
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.03.0953 (03/09/2026 09:53)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.03.0953.pdf
+- Kích thước: 11M
+- Biên dịch: 03/09/2026 lúc 09:53:25
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.03.0944 (03/09/2026 09:44)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.03.0944.pdf
+- Kích thước: 11M
+- Biên dịch: 03/09/2026 lúc 09:44:25
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.03.0938 (03/09/2026 09:38)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.03.0938.pdf
+- Kích thước: 11M
+- Biên dịch: 03/09/2026 lúc 09:38:40
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.09.03.0934 (03/09/2026 09:34)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.09.03.0934.pdf
+- Kích thước: 11M
+- Biên dịch: 03/09/2026 lúc 09:34:08
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.29.0044 (29/08/2026 00:44)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.29.0044.pdf
+- Kích thước: 11M
+- Biên dịch: 29/08/2026 lúc 00:44:52
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.29.0038 (29/08/2026 00:38)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.29.0038.pdf
+- Kích thước: 11M
+- Biên dịch: 29/08/2026 lúc 00:38:47
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.29.0024 (29/08/2026 00:24)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.29.0024.pdf
+- Kích thước: 11M
+- Biên dịch: 29/08/2026 lúc 00:24:14
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.29.0008 (29/08/2026 00:08)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.29.0008.pdf
+- Kích thước: 11M
+- Biên dịch: 29/08/2026 lúc 00:08:17
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.29.0008 (29/08/2026 00:08)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.29.0008.pdf
+- Kích thước: 11M
+- Biên dịch: 29/08/2026 lúc 00:08:02
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.28.2357 (28/08/2026 23:57)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.28.2357.pdf
+- Kích thước: 11M
+- Biên dịch: 28/08/2026 lúc 23:57:05
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.28.0220 (28/08/2026 02:20)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.28.0220.pdf
+- Kích thước: 11M
+- Biên dịch: 28/08/2026 lúc 02:20:48
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
+## Phiên bản 2026.08.28.0217 (28/08/2026 02:17)
+
+### Thông tin file
+- Tên file: HumanBodyScience.2026.08.28.0217.pdf
+- Kích thước: 11M
+- Biên dịch: 28/08/2026 lúc 02:17:46
+
+### Thay đổi
+- [Tự động] Build thành công
+- Tổng số hình: 56
+- Tổng số chương nội dung: 17
+
+
 ## Phiên bản 2026.08.28.0209 (28/08/2026 02:09)
 
 ### Thông tin file

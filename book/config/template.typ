@@ -117,7 +117,7 @@
   })
 
   // Table of contents
-  outline(depth: 3, indent: 2em)
+  outline(depth: 3, indent: 1em)
   pagebreak()
 
   // List of figures
