@@ -34,12 +34,19 @@ Khi đêm càng về sáng, thời gian REM càng dài — đó là lý do bạn
   *Mất ngủ mãn tính — Hậu quả nghiêm trọng hơn bạn nghĩ:* Ngủ dưới 6 tiếng/đêm kéo dài làm tăng nguy cơ béo phì (rối loạn hormone đói ghrelin/leptin), tiểu đường type 2 (giảm độ nhạy insulin), bệnh tim mạch (tăng huyết áp, viêm), trầm cảm, và suy giảm nhận thức. Ngủ 7-9 tiếng mỗi đêm là một trong những yếu tố quan trọng nhất cho sức khỏe lâu dài @walker2017.
 ]
 
-== Lão hóa — Tại sao chúng ta già?
+
+=== Nhịp sinh học và Thể tùng quả
 
 #figure(
   image("../assets/images/ch11_Biological clock human.svg", width: 70%),
-  caption: [Đồng hồ sinh học điều hòa nhịp sinh học]
+  caption: [Đồng hồ sinh học điều hòa nhịp điệu sinh học của cơ thể (Circadian rhythm)]
 )
+
+Chu kỳ thức - ngủ của chúng ta được điều khiển bởi nhịp sinh học (circadian rhythm) kéo dài khoảng 24 giờ. Cơ chế này phụ thuộc mật thiết vào *Thể tùng quả (Pineal gland)* trong não và lượng hormone melatonin mà nó tiết ra. 
+
+Khi trời tối, tuyến tùng bắt đầu sản xuất melatonin báo hiệu cho cơ thể đi vào giấc ngủ. Tuy nhiên, nhịp điệu này cực kỳ dễ bị phá vỡ bởi lối sống hiện đại. Ánh sáng xanh phát ra từ màn hình điện thoại, máy tính hay tivi vào ban đêm sẽ "đánh lừa" não bộ rằng trời vẫn còn sáng, ức chế tuyến tùng tiết melatonin và làm gián đoạn nghiêm trọng chu kỳ giấc ngủ tự nhiên.
+
+== Lão hóa — Tại sao chúng ta già?
 
 Lão hóa là sự suy giảm dần chức năng của các mô và cơ quan theo thời gian. Đây là quá trình tự nhiên, không phải bệnh — nhưng nó làm tăng nguy cơ mắc nhiều bệnh (tim mạch, ung thư, Alzheimer, loãng xương).
 

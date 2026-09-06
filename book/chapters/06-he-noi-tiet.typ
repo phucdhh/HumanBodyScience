@@ -65,6 +65,10 @@ Nằm trên đỉnh mỗi quả thận, mỗi tuyến thượng thận gồm hai
 - *Tinh hoàn:* Tiết testosterone — phát triển đặc điểm sinh dục nam, sản xuất tinh trùng.
 - *Buồng trứng:* Tiết estrogen và progesterone — điều hòa chu kỳ kinh nguyệt, mang thai.
 
+=== Thể tùng quả (Pineal gland) — Đồng hồ sinh học và ánh sáng
+
+Nằm ẩn sâu ở chính giữa trung tâm não bộ, thể tùng quả (hay tuyến tùng) là một tuyến nội tiết nhỏ xíu hình nón thông. Chức năng chính của nó là tổng hợp và tiết ra hormone #term("melatonin") theo chu kỳ sáng - tối. Khi mắt nhận được tín hiệu bóng tối, tuyến tùng bắt đầu tiết ra melatonin để báo hiệu cho cơ thể biết đã đến giờ đi ngủ. Ngược lại, ánh sáng (đặc biệt là ánh sáng xanh từ mặt trời hoặc màn hình điện thoại) sẽ ức chế quá trình này. Đây là cơ quan chủ chốt kiểm soát nhịp điệu sinh học (circadian rhythm) của cơ thể.
+
 == Hormone hoạt động thế nào?
 
 Hormone được tiết vào máu, đi khắp cơ thể, nhưng chỉ tế bào nào có *thụ thể* (receptor) phù hợp mới đáp ứng. Hãy tưởng tượng hormone là chìa khóa, thụ thể là ổ khóa — chỉ chìa đúng ổ mới mở được cửa.
