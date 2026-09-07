@@ -10,6 +10,7 @@
 - Biên dịch: 07/09/2026 lúc 01:22:05
 
 ### Thay đổi
+- Sửa các ảnh SVG lỗi; cập nhật nội dung cho Chương 1, 2, 5, 12, 13, 15, 16.
 - [Tự động] Build thành công
 - Tổng số hình: 59
 - Tổng số chương nội dung: 17

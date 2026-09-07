@@ -206,7 +206,7 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
     định kỳ ở Giai đoạn 5.
 
 
-## Cập nhật tiến độ mới nhất (02/08/2026)
+## Cập nhật tiến độ mới nhất (07/09/2026)
 
 ### Đã hoàn thành
 
@@ -250,14 +250,14 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
 🔲 **Giai đoạn 4:**
 - [ ] Thiết kế bìa sách
 - [ ] Hoàn thiện trang tiêu đề, mục lục
-- [ ] Thêm hình ảnh cho 2 chương còn thiếu (15, 16)
+- [x] Thêm hình ảnh cho 2 chương còn thiếu (15, 16) (Hoàn thành)
 - [ ] Cập nhật attribution đầy đủ cho tất cả hình ảnh
 
 ### Vấn đề cần giải quyết
 
-⚠️ **Hình ảnh:**
-- 2 file SVG bị lỗi (organ-systems.svg, homeostasis.svg) - cần thay thế
-- 2 chương chưa có hình minh họa (15, 16)
+✅ **Hình ảnh:**
+- Đã sửa toàn bộ các file SVG bị lỗi.
+- Đã chèn đầy đủ hình minh họa cho tất cả 17 chương.
 
 ⚠️ **Attribution:**
 - Cần cập nhật thông tin chi tiết tác giả/giấy phép cho toàn bộ hình trong `book/assets/images`
@@ -266,5 +266,4 @@ phản biện` → `Đang biên tập` → `Hoàn thiện`.
 ### Khuyến nghị
 
 1. **Ưu tiên cao:** Tìm phản biện chuyên môn cho từng chương
-2. **Ưu tiên trung bình:** Bổ sung hình ảnh cho 2 chương còn thiếu
 3. **Ưu tiên thấp:** Hoàn thiện attribution đầy đủ (có thể làm sau)
