@@ -39,6 +39,18 @@ Cơ thể được tổ chức theo một hệ thống phân cấp, mỗi cấp 
 
 Vậy thì dưới nguyên tử (nhỏ hơn cả nguyên tử) thì sao? Khoa học thực chứng đã cho thấy có những hạt nhỏ hơn cấu thành nên nguyên tử, và những hạt nhỏ hơn đó lại được cấu thành từ những hạt nhỏ hơn nữa. Bạn hãy tự tìm hiểu xem. Tương tự, bạn cũng có thể đặt câu hỏi, nếu xét thân thể người như một đơn vị cho một tổng thể nào đó, thì tổng thể đó là gì? Và nếu tổng thể đó lại được xem như là một đơn vị để cấu thành nên tổng thể lớn hơn, thì tổng thể lớn hơn đó là gì?
 
+#muc-bang-chung("C")[
+  *Sâu hơn cả phân tử — Cơ thể người dưới góc nhìn Vật lý lượng tử:* 
+  
+  Khi nói về sinh học, chúng ta thường dừng lại ở mức "phân tử". Nhưng nếu nhìn bằng lăng kính vật lý hạt, cơ thể chúng ta cấu tạo từ những thứ vô cùng kỳ lạ. Mỗi nguyên tử trong cơ thể bạn (Carbon, Oxy) được tạo nên từ Hạt nhân (chứa *proton*, *neutron*) và lớp vỏ *electron*. Sâu hơn nữa, proton và neutron lại được cấu tạo từ các hạt cơ bản gọi là *quark* (up quark và down quark). 
+  
+  Điều kinh ngạc nhất là khoảng cách giữa hạt nhân và electron rất lớn so với kích thước của chúng. Nếu phóng to hạt nhân bằng quả bóng bàn đặt giữa sân vận động, thì các electron sẽ bằng hạt cát bay tít trên khán đài. Nghĩa là, xét theo cấu trúc nguyên tử, *99.9999999% cơ thể bạn là khoảng không trống rỗng!* Bạn có cảm giác cơ thể mình đặc và rắn chắc hoàn toàn là do lực đẩy tĩnh điện giữa các lớp vỏ electron khi các nguyên tử tương tác với nhau.
+  
+  Thêm vào đó, ngay lúc bạn đang đọc dòng chữ này, mỗi giây có khoảng 100 nghìn tỷ hạt *#term("neutrino")* — những hạt hạ nguyên tử sinh ra từ tâm Mặt Trời — đang xuyên thẳng qua cơ thể bạn mà không gây ra bất kỳ một tương tác vật lý nào. Chúng xuyên qua bạn như đi qua không gian trống rỗng. Cuối cùng, nhà thiên văn học Carl Sagan từng nói *"Chúng ta được làm từ vật chất của những vì sao"*. Điều này không phải là văn vở lãng mạn, mà là một sự thật vật lý thiên văn: mọi nguyên tử Canxi trong xương, Sắt trong máu hay Carbon trong tế bào của bạn đều được rèn ra từ phản ứng nhiệt hạch trong lõi của những ngôi sao cổ đại đã chết từ hàng tỷ năm trước.
+  
+  Từ đây cũng suy ra một góc nhìn thú vị về sự sống và cái chết: khi một cơ thể được hỏa thiêu, ngọn lửa (thực chất là một phản ứng hóa học) chỉ bẻ gãy các liên kết phân tử và nguyên tử. Nó hoàn toàn không đủ sức mạnh để 'đốt cháy' hay phá hủy các hạt ở cấp độ lượng tử như proton, neutron hay quark. Những hạt cơ bản từng cấu tạo nên bạn là bất diệt trước ngọn lửa thế gian; chúng chỉ được giải phóng, quay trở lại tự nhiên và tiếp tục cuộc hành trình bất tận của mình trong vũ trụ.
+]
+
 === Đặc tính nổi lên — Tổng thể lớn hơn tổng các bộ phận
 
 Một khái niệm quan trọng để hiểu cơ thể là *đặc tính nổi lên* (emergent properties): những đặc điểm xuất hiện ở cấp độ cao hơn mà không thể (hoặc rất khó) thấy ở cấp độ thấp hơn. Ví dụ: nước có thể làm ướt, nhưng hydrogen và oxygen riêng lẻ thì không — đây là đặc tính nổi lên.

@@ -207,6 +207,10 @@
   "tri-tue-nhan-tao": ("Trí tuệ nhân tạo", "Artificial Intelligence - AI", "Máy móc mô phỏng năng lực trí tuệ của con người"),
   "hoc-sau": ("Học sâu", "Deep Learning", "Phương pháp học máy sử dụng mạng nơ-ron đa lớp"),
   "mang-no-ron-nhan-tao": ("Mạng nơ-ron nhân tạo", "Artificial Neural Network", "Hệ thống AI mô phỏng kiến trúc não bộ người"),
+
+  // === VẬT LÝ HẠT ===
+  "quark": ("Quark", "Quark", "Hạt cơ bản cấu tạo nên proton và neutron"),
+  "neutrino": ("Neutrino", "Neutrino", "Hạt hạ nguyên tử khối lượng cực nhỏ, trung hòa điện"),
 )
 
 // Hàm hiển thị thuật ngữ (chỉ hiển thị tên tiếng Việt)
