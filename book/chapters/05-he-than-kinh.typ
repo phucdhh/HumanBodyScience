@@ -55,6 +55,17 @@ Mỗi chất dẫn truyền là một "thông điệp" riêng:
   *Thuốc "can thiệp" vào hệ thần kinh thế nào?* Nhiều loại thuốc hoạt động bằng cách tác động vào các chất dẫn truyền này. Thuốc chống trầm cảm SSRI (như fluoxetine) làm tăng lượng serotonin trong khe synapse. Thuốc an thần benzodiazepine tăng cường tác dụng "phanh" của GABA. Hiểu cơ chế này giúp ta giải thích vì sao thuốc có tác dụng, và vì sao nó có tác dụng phụ.
 ]
 
+=== Liên hệ: Mạng nơ-ron sinh học và Trí tuệ nhân tạo (AI)
+
+Sự kỳ diệu của hệ thần kinh sinh học chính là nguồn cảm hứng trực tiếp cho một trong những bước tiến công nghệ lớn nhất lịch sử nhân loại: *#term("tri-tue-nhan-tao")* (AI), đặc biệt là kỹ thuật *#term("mang-no-ron-nhan-tao")* (Artificial Neural Networks - ANN) dùng trong #term("hoc-sau") (Deep Learning).
+
+Các nhà khoa học máy tính đã mô phỏng cách các neuron trong não kết nối với nhau để tạo ra các hệ thống AI hiện đại (như ChatGPT, các hệ thống nhận diện khuôn mặt hay chẩn đoán ảnh y khoa). Điểm tương đồng rất thú vị:
+- *Neuron sinh học vs. Node nhân tạo:* Trong AI, một "node" (nút) hoạt động tương tự một neuron. Nó nhận các tín hiệu đầu vào, tính toán tổng hợp, và nếu vượt qua một ngưỡng nhất định, nó sẽ "phóng xung" (kích hoạt) để truyền tín hiệu tới các node tiếp theo.
+- *Synapse vs. Trọng số (Weights):* Độ mạnh yếu của kết nối synapse trong não quyết định việc tín hiệu có được truyền đi dễ dàng hay không. Trong mạng ANN, độ mạnh yếu này gọi là "trọng số" (weights).
+- *Học tập là điều chỉnh kết nối:* Giống như câu nói "neurons that fire together, wire together" (tính mềm dẻo thần kinh), AI "học" (quá trình training) bằng cách liên tục điều chỉnh các trọng số này qua hàng triệu lần thử-sai, cho đến khi mạng lưới đưa ra câu trả lời chính xác. Quá trình này bản chất là mô phỏng toán học của việc củng cố các khớp synapse trong não người.
+
+Dù các hệ thống AI hiện tại cực kỳ mạnh mẽ, chúng vẫn là những mô hình "mô phỏng" đơn giản hóa rất nhiều so với mạng nơ-ron sinh lý thực sự — nơi mỗi neuron không chỉ là một phép toán cộng trừ, mà là một cỗ máy xử lý hóa-điện tinh vi cực kỳ tiết kiệm năng lượng. (Bộ não người xử lý thông tin phức tạp hơn cả siêu máy tính lớn nhất thế giới, nhưng chỉ tiêu tốn 20 Watt điện — tương đương một bóng đèn LED!).
+
 == Bản đồ não bộ — Các khu vực chính
 
 #figure(

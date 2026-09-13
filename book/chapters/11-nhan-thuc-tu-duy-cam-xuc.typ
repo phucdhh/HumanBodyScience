@@ -21,6 +21,14 @@ Hầu hết sai lầm trong suy nghĩ đến từ việc Hệ thống 1 đưa ra
   *Thiên kiến nhận thức — Lỗi phần mềm của não:* Não bộ được tiến hóa không phải để tìm sự thật, mà để tồn tại và sinh sản nhanh chóng. Điều này tạo ra hàng loạt *thiên kiến nhận thức* (cognitive biases): thiên kiến xác nhận (chỉ tìm thông tin ủng hộ niềm tin của mình), thiên kiến lạc quan (đánh giá thấp rủi ro), hiệu ứng mỏ neo (bị ảnh hưởng bởi thông tin đầu tiên). Nhận ra các thiên kiến này là bước đầu để tư duy tốt hơn.
 ]
 
+=== Liên hệ AI: Hệ thống 1 và Mô hình Ngôn ngữ lớn (LLMs)
+
+Một sự so sánh cực kỳ thú vị đang diễn ra giữa hai hệ thống tư duy của não người và Trí tuệ nhân tạo hiện đại (như ChatGPT, Claude, Gemini).
+
+Các nhà khoa học AI nhận ra rằng các Mô hình Ngôn ngữ Lớn (LLMs) hiện tại đang bắt chước rất xuất sắc *Hệ thống 1* (Tư duy nhanh). Giống như trực giác của con người, LLMs không "suy luận" từng bước từ các nguyên lý cơ bản; thay vào đó, chúng quét qua hàng tỷ mô hình dữ liệu đã học để dự đoán từ tiếp theo sẽ là gì — một cách tự động, siêu tốc và dựa trên xác suất. Đó là lý do ChatGPT có thể làm thơ trong vài giây (Hệ thống 1), nhưng lại có thể vấp ngã ở một bài toán logic hoặc câu đố đếm chữ đơn giản (vốn đòi hỏi khả năng dừng lại, lập kế hoạch và suy luận cẩn thận của Hệ thống 2).
+
+Thách thức lớn nhất của Trí tuệ nhân tạo hiện nay chính là dạy cho máy tính cách bật "Hệ thống 2" — khả năng tự nhận thức được giới hạn của câu trả lời đầu tiên, tự lùi lại, vạch ra các bước logic, và tự sửa sai trước khi phát ngôn. Quá trình này rất giống với cách chúng ta dạy trẻ em: "đừng vội trả lời, hãy suy nghĩ cẩn thận từng bước một".
+
 == Trí nhớ — Bản ghi không hoàn hảo
 
 #term("tri-nho") không phải một băng ghi hình — nó là một quá trình tái tạo chủ động:

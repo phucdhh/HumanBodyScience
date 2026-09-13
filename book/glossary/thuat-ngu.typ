@@ -202,6 +202,11 @@
   "ngu-hanh": ("Ngũ hành", "Five Elements", "Kim - Mộc - Thủy - Hỏa - Thổ"),
   "dong-y": ("Đông y", "Traditional Chinese Medicine", "Y học cổ truyền Trung Quốc"),
   "cham-cuu": ("Châm cứu", "Acupuncture", "Phương pháp chữa bệnh bằng kim châm vào huyệt"),
+
+  // === AI & CÔNG NGHỆ ===
+  "tri-tue-nhan-tao": ("Trí tuệ nhân tạo", "Artificial Intelligence - AI", "Máy móc mô phỏng năng lực trí tuệ của con người"),
+  "hoc-sau": ("Học sâu", "Deep Learning", "Phương pháp học máy sử dụng mạng nơ-ron đa lớp"),
+  "mang-no-ron-nhan-tao": ("Mạng nơ-ron nhân tạo", "Artificial Neural Network", "Hệ thống AI mô phỏng kiến trúc não bộ người"),
 )
 
 // Hàm hiển thị thuật ngữ (chỉ hiển thị tên tiếng Việt)

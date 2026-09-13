@@ -54,6 +54,12 @@ Hầu hết các tính trạng người — chiều cao, cân nặng, trí thôn
   *CRISPR — Cắt và sửa ADN:* Năm 2012, các nhà khoa học phát triển *CRISPR-Cas9* (công cụ chỉnh sửa gene chính xác — giống như GPS tìm vị trí sai + kéo cắt + dán đoạn mới) — một công cụ cho phép cắt ADN tại một vị trí chính xác, như dùng kéo phân tử cắt một câu trong cuốn bách khoa toàn thư 3 tỷ chữ. Công nghệ này có tiềm năng chữa các bệnh di truyền (thiếu máu hồng cầu liềm, xơ nang, Huntington) bằng cách sửa trực tiếp gene đột biến. Tuy nhiên, việc chỉnh sửa gene ở phôi người (thay đổi di truyền cho các thế hệ sau) đặt ra những câu hỏi đạo đức sâu sắc và hiện đang bị cấm hoặc kiểm soát chặt chẽ ở hầu hết các quốc gia.
 ]
 
+=== Liên hệ: Trí tuệ nhân tạo (AI) trong Sinh học phân tử
+
+Nếu CRISPR là chiếc kéo để cắt ADN, thì *Trí tuệ nhân tạo* (AI) lại là con mắt thần giúp con người nhìn thấu cấu trúc sự sống. Trong suốt 50 năm, các nhà sinh học đau đầu với bài toán gập protein: làm thế nào một chuỗi gene tuyến tính (1D) lại có thể tự gập thành một cấu trúc không gian 3 chiều (3D) vô cùng phức tạp (như enzyme hay kháng thể)? Hình dáng 3D này là thứ quyết định chức năng sống còn của mọi phân tử.
+
+Năm 2020, hệ thống AI mang tên *AlphaFold* của Google DeepMind đã làm được điều không tưởng: dự đoán chính xác cấu trúc 3D của gần như toàn bộ 200 triệu protein đã biết trên trái đất chỉ từ chuỗi gen của chúng. Thành tựu này được ví như "chén thánh" của sinh học hiện đại. Nhờ AlphaFold, khoa học đã tiết kiệm được hàng chục năm nghiên cứu trong phòng thí nghiệm. Việc phát minh thuốc mới, hiểu về đột biến gene (gây ung thư), và phát triển các enzyme phân hủy nhựa giờ đây được thực hiện trực tiếp trên mô phỏng máy tính nhờ AI, trước khi đưa ra thực nghiệm.
+
 == Phát triển — Từ một tế bào đến 37 nghìn tỷ
 
 #figure(
