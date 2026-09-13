@@ -40,6 +40,14 @@ Nếu mầm bệnh vượt qua hàng rào bẩm sinh, hệ miễn dịch thích 
 
 #muc-bang-chung("A")[
   *Vắc-xin hoạt động thế nào?* Vắc-xin là cách "huấn luyện" hệ miễn dịch thích ứng một cách an toàn — cho nó gặp một phần mầm bệnh đã bị làm yếu hoặc vô hiệu hóa (gọi là *kháng nguyên* - antigen, bất kỳ chất lạ nào kích hoạt đáp ứng miễn dịch), để nó tạo tế bào nhớ mà không gây bệnh thật @pulendran2011. Khi mầm bệnh thật xâm nhập sau này, hệ miễn dịch đã sẵn sàng — phản ứng nhanh và mạnh đến mức bạn thậm chí không biết mình đã bị nhiễm. Đây là nguyên lý của tiêm chủng — một trong những phát minh y học cứu sống nhiều người nhất lịch sử.
+  
+  *Lịch sử ra đời:* Cuối thế kỷ 18, bác sĩ người Anh Edward Jenner nhận thấy những người vắt sữa bò từng mắc bệnh đậu mùa bò (một bệnh nhẹ) sẽ không bao giờ bị nhiễm bệnh đậu mùa ở người (căn bệnh vô cùng chết chóc thời bấy giờ). Năm 1796, ông thử nghiệm lấy dịch từ vết đậu mùa bò tiêm cho một cậu bé 8 tuổi, sau đó cho cậu tiếp xúc với mầm bệnh đậu mùa thật — cậu bé hoàn toàn khỏe mạnh. Từ *vaccine* ra đời từ đây (bắt nguồn từ *vacca* trong tiếng Latinh, nghĩa là "con bò") @plotkin2014.
+  
+  *Các công nghệ vắc-xin hiện đại:*
+  - *Vắc-xin sống giảm độc lực (Live-attenuated):* Dùng chính mầm bệnh đó nhưng đã được làm yếu đi rất nhiều trong phòng thí nghiệm (VD: vắc-xin sởi, quai bị, rubella). Tạo miễn dịch mạnh và lâu dài nhất nhưng không dùng cho người suy giảm miễn dịch.
+  - *Vắc-xin bất hoạt (Inactivated):* Mầm bệnh đã bị "giết chết" bằng nhiệt hoặc hóa chất (VD: vắc-xin cúm, bại liệt tiêm, dại). An toàn hơn nhưng thường cần tiêm nhắc lại.
+  - *Vắc-xin tiểu đơn vị (Subunit):* Chỉ sử dụng một mẩu rất nhỏ của mầm bệnh (thường là một protein bề mặt) đủ để kích hoạt hệ miễn dịch (VD: vắc-xin viêm gan B, HPV).
+  - *Vắc-xin mRNA:* Công nghệ đột phá lên ngôi trong đại dịch COVID-19 (như vắc-xin Pfizer, Moderna). Thay vì tiêm mầm bệnh, nó tiêm một đoạn mã di truyền (mRNA) hướng dẫn tế bào cơ thể tự tạo ra một protein vô hại của virus (ví dụ protein gai - spike protein). Hệ miễn dịch nhận diện protein này là vật thể lạ, học cách tiêu diệt nó và ghi nhớ. Sau khi hoàn thành nhiệm vụ, phân tử mRNA sẽ nhanh chóng phân hủy trong cơ thể @pardi2018.
 ]
 
 == Khi hệ miễn dịch hoạt động sai

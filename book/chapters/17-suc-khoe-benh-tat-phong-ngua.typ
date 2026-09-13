@@ -55,7 +55,7 @@ Dựa trên toàn bộ kiến thức từ 13 chương trước, đây là các n
 - *Duy trì cân nặng hợp lý:* BMI 18.5-22.9 (cho người châu Á).
 - *Hạn chế rượu bia:* Không uống vẫn tốt nhất. Nếu uống, tối đa 1 đơn vị cồn/ngày (nữ) hoặc 2 (nam).
 - *Kết nối xã hội:* Cô đơn là yếu tố nguy cơ mạnh cho tử vong sớm — ngang với hút 15 điếu thuốc/ngày.
-- *Tiêm vắc-xin đầy đủ:* Cho cả trẻ em và người lớn.
+- *Tiêm vắc-xin đầy đủ:* Cho cả trẻ em và người lớn. Việc tiêm chủng không chỉ bảo vệ cá nhân bạn mà còn tạo ra #term("mien-dich-cong-dong") (herd immunity) — khi một tỷ lệ đủ lớn trong cộng đồng đã có miễn dịch (thường là 70-90% tùy bệnh), mầm bệnh sẽ khó lây lan hơn, gián tiếp bảo vệ những người không thể tiêm chủng (như trẻ sơ sinh, người dị ứng vắc-xin, người suy giảm miễn dịch).
 - *Kiểm tra sức khỏe định kỳ:* Phát hiện sớm các yếu tố nguy cơ (huyết áp cao, đường huyết cao, mỡ máu cao).
 
 == Suy nghĩ cuối sách

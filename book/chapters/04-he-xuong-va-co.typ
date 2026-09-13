@@ -169,6 +169,22 @@ Ba "nhà máy" này không loại trừ nhau — chúng hoạt động song song
   *"Cơ biến thành mỡ nếu ngưng tập" — Sai:* Tế bào cơ và tế bào mỡ là hai loại hoàn toàn khác nhau, không thể chuyển hóa lẫn nhau. Điều thực sự xảy ra khi bạn ngưng tập: cơ teo dần vì không còn được kích thích, còn nếu bạn vẫn ăn nhiều như cũ thì năng lượng dư thừa tích thành mỡ. Kết quả là "ít cơ hơn, nhiều mỡ hơn" — hai quá trình độc lập xảy ra cùng lúc, chứ không phải cơ "biến thành" mỡ.
 ]
 
+== Cơ sinh học và Robot mô phỏng sinh học
+
+Sau khi hiểu về hệ xương và cơ dưới góc độ sinh học, chúng ta có thể nhìn chúng dưới lăng kính vật lý và kỹ thuật — đó là lĩnh vực *#term("co-sinh-hoc")* (Biomechanics). Ở cấp độ cơ học, hệ vận động của con người hoạt động như một cỗ máy vật lý thực thụ: 
+- *Xương* đóng vai trò là các đòn bẩy.
+- *Khớp* là các điểm tựa (trục xoay).
+- *Cơ* cung cấp lực kéo (mô-men xoắn) để xoay đòn bẩy quanh điểm tựa.
+
+Ví dụ, khi bạn gập khuỷu tay để nâng một quả tạ, hệ thống này hoạt động như một đòn bẩy loại 3 (với điểm tựa ở khớp khuỷu tay, lực kéo của cơ bắp tay ở giữa và trọng lượng quả tạ ở đầu xa). Thiết kế này đòi hỏi cơ bắp phải tạo ra một lực rất lớn để nâng một vật tương đối nhẹ, nhưng bù lại, nó mang lại *tốc độ* và *biên độ chuyển động* lớn — một đặc tính tiến hóa rất quan trọng giúp con người linh hoạt.
+
+Chính nhờ việc phân tích các đặc tính vận động này của cơ thể người, các kỹ sư chế tạo robot đã khai sinh ra lĩnh vực *#term("mo-phong-sinh-hoc")* (Biomimetics / Biorobotics). Họ bắt chước "thiết kế" của tự nhiên để chế tạo máy móc:
+
+- *Tay máy và cánh tay robot:* Các robot công nghiệp (hay cả cánh tay giả y sinh) hiện đại không sử dụng các động cơ cứng nhắc xoay quanh một trục đơn giản nữa. Chúng sử dụng hệ thống "cơ nhân tạo" (actuators) chạy bằng khí nén, thủy lực hoặc hợp kim nhớ hình — được bố trí theo từng cặp đối kháng (một bên co, một bên duỗi) giống hệt cách cơ nhị đầu và cơ tam đầu hoạt động trên cánh tay người.
+- *Di chuyển bằng hai chân:* Việc thiết kế robot có khả năng đi lại bằng hai chân (như robot Atlas của Boston Dynamics) là một thách thức cơ học cực kỳ khó. Các kỹ sư phải nghiên cứu cách con người luôn liên tục kiểm soát sự mất thăng bằng có chủ ý khi bước đi: gót chân chạm đất, thân mình lao tới trước, truyền lực qua mũi chân. Bằng cách mô phỏng khớp gối, khớp háng của người và lập trình thuật toán điều khiển thăng bằng tương tự như hoạt động của tiểu não (chương 5), máy móc nay đã có thể chạy, nhảy parkour và lộn nhào giống hệt con người.
+
+Khả năng bắt chước cơ thể người của máy móc chứng minh một điều: tạo hóa (hay tiến hóa) là một "kỹ sư cơ khí" lỗi lạc nhất, và cơ thể chúng ta là một cỗ máy đã được tối ưu hóa sau hàng triệu năm.
+
 #question-section()
 
 1. Tại sao phi hành gia trên trạm ISS phải tập thể dục mỗi ngày? Liên hệ với Định luật Wolff.
