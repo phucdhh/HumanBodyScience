@@ -17,9 +17,23 @@ Cách đọc sơ đồ trên: mỗi đường kẻ chạy dọc trên thân và 
 
 == Nguồn gốc lịch sử
 
-Hệ thống kinh mạch lần đầu được hệ thống hóa trong *Hoàng Đế Nội Kinh* (黄帝内经), bộ sách y học cổ điển Trung Quốc ra đời khoảng thế kỷ 2 trước Công nguyên. Theo đó, cơ thể có *12 kinh mạch chính* (正经) tương ứng với 12 tạng phủ:
-- 6 kinh âm: Phế (Phổi), Tâm (Tim), Tâm bào, Tỳ (Lá lách), Gan, Thận
-- 6 kinh dương: Đại trường, Tiểu trường, Tam tiêu, Dạ dày, Mật, Bàng quang
+Hệ thống kinh mạch lần đầu được hệ thống hóa trong *Hoàng Đế Nội Kinh* (黄帝内经), bộ sách y học cổ điển Trung Quốc ra đời khoảng thế kỷ 2 trước Công nguyên. Theo đó, cơ thể có *12 kinh mạch chính* (正经) kết nối trực tiếp với các cơ quan nội tạng. Trong y học phương Đông, các cơ quan này được hệ thống hóa qua khái niệm vô cùng quen thuộc: *#term("luc-phu-ngu-tang")* (六腑五脏). Để khớp với 12 đường kinh mạch, Đông y thêm một "tạng phụ" là Tâm bào, cụ thể như sau:
+
+- *Ngũ tạng (+1 tạng phụ):* Gắn với 6 kinh Âm. Tạng là các cơ quan đặc, làm nhiệm vụ sản xuất và dự trữ tinh, khí, huyết. Bao gồm: *Tâm* (Tim), *Can* (Gan), *Tỳ* (Lá lách), *Phế* (Phổi), *Thận* (Cật), và *Tâm bào* (Màng bọc tim).
+- *Lục phủ:* Gắn với 6 kinh Dương. Phủ là các cơ quan rỗng, làm nhiệm vụ thu nhận, tiêu hóa thức ăn và bài tiết chất thải. Bao gồm: *Đởm* (Mật), *Vị* (Dạ dày), *Đại trường* (Ruột già), *Tiểu trường* (Ruột non), *Bàng quang* (Bọng đái), và *Tam tiêu* (3 khoang cơ thể).
+
+#muc-bang-chung("D")[
+  *Hai cơ quan "kỳ lạ" trong Đông y: Tâm bào và Tam tiêu*
+  
+  Khi nghe đến Tâm, Can, Tỳ, Phế, Thận, chúng ta dễ dàng liên hệ đến các cơ quan giải phẫu học hiện đại như Tim, Gan, Lách, Phổi, Thận. Nhưng *Tâm bào* và *Tam tiêu* lại là hai khái niệm chức năng đặc thù của Đông y:
+  
+  - *Tâm bào (Màng bọc tim):* Đông y coi "Tâm" (Tim) là vị vua tối cao của cơ thể (quân chủ). Một vị vua thì không thể trực tiếp chịu sự tấn công từ bên ngoài. Do đó, "Tâm bào" đóng vai trò như lớp áo giáp, là vị tướng quân bảo vệ bên ngoài. Mọi tác nhân gây bệnh (tà khí) hay những cú sốc tình cảm dữ dội muốn tấn công vào Tim đều phải đi qua màng lọc Tâm bào trước.
+  - *Tam tiêu (Ba khoang cơ thể):* Đây là "phủ" lớn nhất nhưng cũng kỳ lạ nhất vì nó không tương ứng với một cơ quan giải phẫu thực thể đơn lẻ nào. Tam tiêu thực chất là một hệ thống phân vùng chức năng cơ thể thành 3 khoang:
+    - *Thượng tiêu (Khoang trên):* Từ miệng xuống tâm vị dạ dày (chứa Tim, Phổi). Ví như "sương mù", có nhiệm vụ hô hấp và phân tán khí huyết đi nuôi cơ thể.
+    - *Trung tiêu (Khoang giữa):* Từ tâm vị đến môn vị dạ dày (chứa Tỳ, Vị). Ví như "nồi ninh nấu", chuyên nhào trộn, tiêu hóa thức ăn và chắt lọc dinh dưỡng.
+    - *Hạ tiêu (Khoang dưới):* Từ môn vị xuống dưới (chứa Thận, Bàng quang, Ruột). Ví như "rãnh nước", chuyên bài tiết cặn bã và nước tiểu.
+  Tam tiêu kết nối cả ba phần này, đóng vai trò là "đường ống" khổng lồ điều hòa nước và khí lưu thông toàn cơ thể.
+]
 
 #figure(
   image("../assets/images/lung_meridian.svg", width: 50%),

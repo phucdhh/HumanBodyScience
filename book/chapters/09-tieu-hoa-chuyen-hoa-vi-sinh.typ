@@ -34,6 +34,14 @@ Dạ dày là túi cơ chứa khoảng 1-1.5 lít khi no. Nó tiết ra acid HCl
 
 #term("ruot-non") dài khoảng 6 mét, là nơi diễn ra hầu hết quá trình tiêu hóa và hấp thu. Thành ruột non có hàng triệu nếp gấp siêu nhỏ (nhung mao và vi nhung mao), làm tăng diện tích bề mặt lên đến 200 mét vuông — bằng một sân tennis.
 
+#muc-bang-chung("D")[
+  *Những cái tên mang "tỉ lệ": Tại sao gọi là Tá tràng và Trực tràng?*
+  
+  Y học giải phẫu cổ đại chưa có thước đo chuẩn mực, nên họ dùng chính cơ thể người để làm thước đo. Phần đầu tiên của ruột non nối liền với dạ dày được gọi là *tá tràng* (Duodenum). Trong tiếng Latin, "duodenum digitorum" có nghĩa là "chiều rộng của 12 ngón tay" (tương đương khoảng 25-30 cm). Trong tiếng Việt, từ "tá" (vay mượn chữ Hán) cũng có nghĩa là số 12 (như "một tá"), và "tràng" là ruột — gộp lại nghĩa là "đoạn ruột dài bằng 12 ngón tay".
+  
+  Một sự tích thú vị khác là *trực tràng* (Rectum) — phần cuối của ruột già. Trong tiếng Latin, "rectum" có nghĩa là "thẳng". Các nhà giải phẫu cổ đại (như Galen) khi mổ xẻ động vật (khỉ, lợn) thấy đoạn ruột này thẳng tắp nên đặt tên như vậy. Tuy nhiên, ở con người, đoạn ruột này thực chất lại *bị cong* (uốn theo hình dạng xương chậu) để giúp cơ thể nâng đỡ chất thải và kiểm soát việc đi vệ sinh khi đứng thẳng bằng hai chân. Dù miêu tả sai về mặt hình thái ở người, cái tên "Trực tràng" (đoạn ruột thẳng) vẫn chết tên và được sử dụng cho đến tận ngày nay.
+]
+
 Tại đây, *gan* đổ mật (giúp nhũ hóa chất béo) và *tụy* đổ enzyme tiêu hóa (amylase, lipase, protease) vào ruột non qua ống chung. Các dưỡng chất — đường đơn, axit amin, acid béo, vitamin, khoáng chất — được hấp thu qua thành ruột vào máu và bạch huyết.
 
 === Ruột già — Tái hấp thu và thải bã

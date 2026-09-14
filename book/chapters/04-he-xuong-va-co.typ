@@ -20,6 +20,17 @@ Cơ thể người trưởng thành có khoảng 206 xương, chia làm hai ph�
 - *Xương trục:* 80 xương tạo trục trung tâm — hộp sọ, cột sống, xương ức, lồng ngực. Nhiệm vụ chính: bảo vệ não, tủy sống, tim, phổi.
 - *Xương chi:* 126 xương tạo nên tay, chân, đai vai, đai chậu. Cung cấp đòn bẩy cho cơ bám vào, giúp cơ thể di chuyển.
 
+#muc-bang-chung("D")[
+  *Những tỉ lệ thú vị trên cơ thể người (Người Vitruvius):*
+  
+  Mặc dù cơ thể con người không hoàn toàn tuân theo một "tỉ lệ vàng" (1.618) toán học cứng nhắc như nhiều huyền thoại đồn đại, nhưng khung xương của chúng ta lại sở hữu những quy luật tỉ lệ phân số cực kỳ thú vị và ổn định. Danh họa Leonardo da Vinci đã ghi chép lại những tỉ lệ này trong tác phẩm nổi tiếng *Người Vitruvius* (được đặt tên theo kiến trúc sư La Mã cổ đại Vitruvius):
+  
+  - Sải tay dang rộng của một người thường xấp xỉ bằng chính chiều cao của người đó (tạo thành một hình vuông hoàn hảo bao quanh cơ thể).
+  - Chiều dài bàn chân bằng đúng 1/6 chiều cao cơ thể.
+  - Chiều dài từ cổ tay đến ngón tay giữa bằng 1/10 chiều cao cơ thể.
+  - Một điều thú vị bạn có thể tự kiểm chứng ngay bây giờ: Chiều dài bàn chân của bạn thường bằng đúng chiều dài cẳng tay của bạn (tính từ nếp gấp mặt trong khuỷu tay đến nếp gấp cổ tay). 
+]
+
 Xương đùi của bạn có thể chịu tải trọng gấp nhiều lần trọng lượng cơ thể khi chạy nhảy, nhưng vẫn đủ nhẹ để không tiêu hao quá nhiều năng lượng khi di chuyển. Bí quyết nằm ở cấu trúc vi thể của nó.
 
 === Xương đặc và xương xốp
