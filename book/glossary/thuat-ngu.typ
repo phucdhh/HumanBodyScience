@@ -71,6 +71,7 @@
   "ion": ("Ion", "Ion", "Nguyên tử hoặc phân tử mang điện tích"),
   "he-than-kinh": ("Hệ thần kinh", "Nervous system", "Hệ thống điều khiển cơ thể"),
   "he-than-kinh-tu-chu": ("Hệ thần kinh tự chủ", "Autonomic nervous system", "Điều khiển chức năng vô thức"),
+  "day-phe-vi": ("Dây thần kinh phế vị", "Vagus nerve", "Dây thần kinh chính của hệ phó giao cảm"),
   
   // Chất dẫn truyền
   "glutamate": ("Glutamate", "Glutamate", "Chất dẫn truyền kích thích chính trong não"),
@@ -144,6 +145,8 @@
   "bmr": ("BMR", "Basal metabolic rate", "Năng lượng cơ thể tiêu hao khi nghỉ ngơi"),
   "glucose": ("Glucose", "Glucose", "Đường đơn, nguồn năng lượng chính"),
   "glycogen": ("Glycogen", "Glycogen", "Dạng dự trữ glucose trong gan và cơ"),
+  "mo-nau": ("Mỡ nâu", "Brown Fat", "Loại mỡ chuyên đốt calo sinh nhiệt"),
+  "egf": ("EGF", "Epidermal Growth Factor", "Yếu tố tăng trưởng biểu bì, giúp chữa lành"),
   
   // === DI TRUYỀN VÀ PHÁT TRIỂN ===
   "di-truyen": ("Di truyền", "Genetics", "Khoa học về gene và tính di truyền"),
@@ -158,6 +161,8 @@
   "y-thuc": ("Ý thức", "Consciousness", "Trải nghiệm chủ quan về thế giới"),
   "tri-nho": ("Trí nhớ", "Memory", "Khả năng lưu trữ và gợi nhớ thông tin"),
   "cam-xuc": ("Cảm xúc", "Emotion", "Trạng thái tâm lý phản ứng với sự kiện"),
+  "that-tinh": ("Thất tình", "Seven Emotions", "Bảy trạng thái cảm xúc trong Đông y"),
+  "luc-duc": ("Lục dục", "Six Desires", "Sáu loại ham muốn từ các giác quan"),
   
   // === GIẤC NGỦ VÀ LÃO HÓA ===
   "giac-ngu": ("Giấc ngủ", "Sleep", "Trạng thái nghỉ ngơi chu kỳ của cơ thể"),
@@ -167,6 +172,7 @@
   "circadian": ("Chu kỳ circadian", "Circadian rhythm", "Đồng hồ sinh học 24 giờ"),
   "lao-hoa": ("Lão hóa", "Aging", "Quá trình suy giảm chức năng theo thời gian"),
   "beta-amyloid": ("Beta-amyloid", "Beta-amyloid", "Protein tích tụ trong não Alzheimer"),
+  "autophagy": ("Tự thực bào", "Autophagy", "Cơ chế tế bào tự tiêu hóa rác thải để tái chế"),
   
   // === CÂN BẰNG NỘI MÔI ===
   "homeostasis": ("Cân bằng nội môi", "Homeostasis", "Duy trì môi trường bên trong ổn định"),

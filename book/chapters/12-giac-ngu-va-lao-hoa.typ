@@ -71,6 +71,14 @@ Năm 2013, Carlos López-Otín và cộng sự xác định 9 dấu ấn sinh h�
   *Calorie restriction và tuổi thọ:* Nghiên cứu trên nhiều loài (nấm men, ruồi giấm, chuột, khỉ) cho thấy giảm lượng calo tiêu thụ 20-40% kéo dài tuổi thọ và giảm bệnh liên quan đến lão hóa. Cơ chế: giảm stress oxy hóa và viêm, kích hoạt các con đường sinh tồn của tế bào. Ở người, bằng chứng còn hạn chế do khó thực hiện thử nghiệm dài hạn. Tuy nhiên, một chế độ ăn *vừa phải, đủ chất, không dư thừa calo* có lẽ là gần nhất với "thuốc trường sinh" mà khoa học hiện có.
 ]
 
+#muc-bang-chung("A")[
+  *Tịch cốc (Nhịn ăn) và cơ chế Tự thực bào (Autophagy):*
+  
+  Hầu hết các triết lý và tôn giáo cổ đại đều có truyền thống nhịn ăn: Đạo giáo có "Tịch cốc" (tuyệt thực để thanh lọc cơ thể, tu tiên), Phật giáo quy định không ăn sau giờ ngọ, Hồi giáo có tháng nhịn ăn Ramadan. Cổ nhân tin rằng việc làm trống rỗng dạ dày sẽ giúp loại bỏ trược khí (chất bẩn) và kéo dài tuổi thọ. 
+  
+  Năm 2016, khoa học hiện đại đã trao giải Nobel Y học cho nhà khoa học Nhật Bản Yoshinori Ohsumi vì khám phá ra cơ chế *#term("autophagy")* (Tự thực bào). Khám phá này đã xác nhận triết lý của cổ nhân là hoàn toàn có cơ sở sinh học. Khi cơ thể bị bỏ đói một khoảng thời gian (như phương pháp nhịn ăn gián đoạn 16/8 ngày nay), tế bào sẽ cạn kiệt năng lượng. Để sinh tồn, chúng buộc phải tự "ăn" (tiêu hóa) chính những protein lỗi, bào quan hỏng và rác thải bên trong mình để tái chế thành năng lượng. Quá trình này giúp dọn dẹp tế bào sạch sẽ, làm chậm quá trình lão hóa và làm giảm đáng kể nguy cơ mắc ung thư hay các bệnh thoái hóa thần kinh (như Alzheimer).
+]
+
 === Sống khỏe khi già — Có thể không?
 
 Tuổi thọ trung bình của người Việt Nam là khoảng 74 tuổi (2023), nhưng *tuổi thọ khỏe mạnh* (số năm sống không bệnh tật) thấp hơn nhiều — khoảng 64 tuổi. Khoảng cách giữa tuổi thọ và tuổi thọ khỏe mạnh là những năm sống với bệnh mãn tính.

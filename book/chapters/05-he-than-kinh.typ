@@ -139,6 +139,14 @@ Tuy có nhiều điểm tương đồng, nhưng mắt người vượt trội h�
 
 Cơ thể khỏe mạnh khi hai "chân ga - chân phanh" này cân bằng. Căng thẳng kéo dài khiến chân ga bị nhấn mãi — có liên quan đến nhiều bệnh như tăng huyết áp, rối loạn tiêu hóa và suy giảm miễn dịch.
 
+#muc-bang-chung("A")[
+  *Thở Đan điền và Dây thần kinh phế vị (Vagus Nerve):*
+  
+  Trong Khí công, Đạo dẫn và Yoga, người tập luôn được dạy một nguyên tắc cốt lõi: Hít thở sâu xuống bụng (thở Đan điền), và đặc biệt là *thở ra thật chậm, dài*. Cổ nhân tin rằng "tức tức quy căn" (đưa hơi thở về cội nguồn) sẽ giúp an thần, định tâm và giáng hỏa.
+  
+  Dưới góc nhìn khoa học thần kinh, phương pháp này chính là một "nút bấm vật lý" để kích hoạt Hệ phó giao cảm. Khi bạn hít thở sâu và kéo dài nhịp thở ra, chuyển động của cơ hoành sẽ kích thích trực tiếp vào *#term("day-phe-vi")* (Vagus Nerve) — dây thần kinh dài nhất và quan trọng nhất của hệ phó giao cảm. Sự kích thích này khiến não tiết ra Acetylcholine, truyền lệnh cho tim đập chậm lại, huyết áp hạ xuống, cơ bắp giãn ra và làm giảm lượng cortisol (hormone stress) trong máu. Khoa học chứng minh rằng, hơi thở là *con đường duy nhất* mà con người có thể chủ động sử dụng để can thiệp và "hack" vào hệ thần kinh tự chủ (vốn dĩ hoạt động hoàn toàn vô thức).
+]
+
 == Tính mềm dẻo thần kinh — Não không "cứng" mà biết thay đổi
 
 Người ta từng tin não người trưởng thành là "cứng": neuron chết đi không thay thế được, và cấu trúc não cố định sau tuổi ấu thơ. Quan điểm này đã bị lật đổ hoàn toàn.

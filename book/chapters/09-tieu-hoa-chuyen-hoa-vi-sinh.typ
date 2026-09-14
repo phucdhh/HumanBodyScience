@@ -17,6 +17,14 @@ Mỗi ngày bạn ăn khoảng 1-2 kg thức ăn. Trong vài giờ tới, cơ th
 
 Tiêu hóa bắt đầu ngay khi bạn nhai. Răng nghiền thức ăn thành miếng nhỏ, nước bọt chứa enzyme amylase bắt đầu phân giải tinh bột. Thức ăn được vo tròn thành viên (bolus) và đẩy xuống thực quản.
 
+#muc-bang-chung("A")[
+  *Đảo lưỡi nuốt "Ngọc dịch" và Enzyme chữa lành:* 
+  
+  Trong Đạo giáo và các pháp môn dưỡng sinh phương Đông, có một phương pháp gọi là "Ngọc dịch hoàn đan" (nuốt nước bọt). Người tập ngồi tĩnh tâm, đảo lưỡi quanh miệng để kích thích tiết nước bọt (gọi là ngọc dịch hay cam lộ), sau đó nuốt từ từ xuống bụng. Cổ nhân coi nước bọt là tinh hoa cơ thể, giúp nhuận tràng và trường thọ. 
+  
+  Dưới góc nhìn khoa học hiện đại, điều này hoàn toàn có cơ sở sinh lý học vững chắc. Nước bọt không chỉ là nước và enzyme tiêu hóa (amylase), nó chứa một hệ sinh thái phức tạp gồm các chất kháng khuẩn tự nhiên (như Lysozyme, kháng thể IgA), chất giảm đau (như Opiorphin - mạnh gấp 6 lần morphin nội sinh). Đặc biệt, nước bọt chứa hàm lượng cao *#term("egf")* (Epidermal Growth Factor - Yếu tố tăng trưởng biểu bì). Khi được nuốt từ từ xuống, EGF trong nước bọt có khả năng chữa lành tức thì các vết loét ở thực quản, niêm mạc dạ dày và bảo vệ hệ tiêu hóa cực kỳ hiệu quả.
+]
+
 === Thực quản — Đường trượt
 
 Thực quản là ống cơ dài khoảng 25 cm nối hầu với dạ dày. Các cơn co thắt nhịp nhàng (nhu động) đẩy thức ăn xuống — bạn vẫn nuốt được ngay cả khi đứng bằng tay, vì nhu động hoạt động nhờ cơ, không nhờ trọng lực.
@@ -69,6 +77,14 @@ Tại đây, *gan* đổ mật (giúp nhũ hóa chất béo) và *tụy* đổ e
 
 #muc-bang-chung("B")[
   *Tập luyện kháng lực giúp tăng BMR:* Cơ bắp là mô hoạt động chuyển hóa mạnh — mỗi kg cơ tiêu hao khoảng 13 calo/ngày khi nghỉ, trong khi mỗi kg mỡ chỉ tiêu hao 4.5 calo. Khi bạn tăng khối lượng cơ (qua tập tạ), BMR của bạn tăng theo — nghĩa là bạn đốt nhiều calo hơn ngay cả khi ngồi yên. Đây là lý do tập luyện kháng lực quan trọng cho kiểm soát cân nặng lâu dài.
+]
+
+#muc-bang-chung("B")[
+  *Mỡ nâu và Tập chịu lạnh (Yoga Tummo):*
+  
+  Mỡ trong cơ thể không chỉ có một loại. Mỡ trắng (White Fat) là nơi dự trữ năng lượng dư thừa (gây béo phì). Nhưng cơ thể còn một loại mỡ đặc biệt gọi là *#term("mo-nau")* (Brown Fat) — nhiệm vụ của nó không phải dự trữ, mà là *đốt cháy năng lượng để sinh nhiệt* bảo vệ nội tạng. Khoa học từng nghĩ chỉ trẻ sơ sinh mới có mỡ nâu, nhưng các nghiên cứu gần đây chứng minh người lớn vẫn giữ lại một lượng mỡ nâu quanh cổ và tủy sống.
+  
+  Điều thú vị là truyền thống tu tập Tây Tạng có pháp môn "Yoga Nội hỏa" (Tummo). Các tu sĩ cởi trần ngồi thiền giữa trời tuyết rơi mà cơ thể vẫn tỏa nhiệt làm tan chảy băng tuyết xung quanh. Ngày nay, khoa học sinh lý đã xác nhận rằng khi con người chủ động tập luyện tiếp xúc với cái lạnh (như tắm nước đá, phương pháp Wim Hof), cơ thể sẽ kích hoạt và tăng sinh lượng mỡ nâu một cách đáng kể. Lượng mỡ nâu này sẽ tự động đốt cháy mỡ trắng thừa để tạo ra nhiệt lượng khổng lồ, giúp cơ thể chống chịu được cái lạnh thấu xương mà không cần run rẩy.
 ]
 
 == Hệ vi sinh vật đường ruột — Khu vườn bên trong

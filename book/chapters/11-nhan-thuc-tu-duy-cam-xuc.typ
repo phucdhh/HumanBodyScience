@@ -64,6 +64,22 @@ Cảm giác dễ chịu, động lực, và khoái cảm được điều khiể
   *Cảm xúc có "đúng" hay "sai" không?* Không có cảm xúc "đúng" hay "sai" — cảm xúc là phản ứng tự nhiên của não. Vấn đề nằm ở cách chúng ta *hành động* dựa trên cảm xúc đó. Liệu pháp nhận thức-hành vi (CBT) là phương pháp điều trị dựa trên bằng chứng giúp người bệnh nhận ra mối liên hệ giữa suy nghĩ, cảm xúc và hành vi, từ đó học cách phản ứng lành mạnh hơn với các kích thích cảm xúc.
 ]
 
+=== Liên hệ Đông y: Thất tình và Lục dục
+
+Nếu khoa học thần kinh hiện đại giải thích cảm xúc qua các cấu trúc não (hạnh nhân) và chất hóa học (dopamine, serotonin), thì triết học và y học cổ truyền phương Đông lại có một hệ thống phân loại tâm lý rất tinh tế gọi là *#term("that-tinh")* (bảy loại cảm xúc) và *#term("luc-duc")* (sáu loại ham muốn).
+
+- *Thất tình* bao gồm 7 trạng thái tình cảm tự nhiên: Hỷ (Vui), Nộ (Giận), Ưu (Lo), Tư (Nghĩ), Bi (Buồn), Khủng (Sợ), Kinh (Kinh hãi). 
+- *Lục dục* là 6 ham muốn phát sinh khi các giác quan tiếp xúc với thế giới bên ngoài: Sắc (thấy), Thanh (nghe), Hương (ngửi), Vị (nếm), Xúc (chạm), và Pháp (ý nghĩ).
+
+Điểm sâu sắc nhất của Đông y không chỉ nằm ở việc liệt kê cảm xúc, mà là triết lý *tâm - thân hợp nhất*. Đông y cho rằng trạng thái tâm lý (Thất tình) nếu mất kiểm soát hoặc thái quá sẽ trực tiếp làm tổn thương đến chức năng của các cơ quan nội tạng (Lục phủ ngũ tạng). Cụ thể hệ thống này ghi nhận: 
+- *Nộ thương Can:* Giận dữ quá mức làm hại Gan.
+- *Hỷ thương Tâm:* Vui mừng thái quá (kích động/sốc) làm hại Tim.
+- *Tư thương Tỳ:* Suy nghĩ, lo âu, trăn trở làm hại Lá lách/Dạ dày.
+- *Bi/Ưu thương Phế:* Đau buồn, sầu não kéo dài làm hại Phổi.
+- *Khủng/Kinh thương Thận:* Sợ hãi tột độ làm hại Thận.
+
+Dưới góc nhìn khoa học hiện đại, triết lý "Thất tình gây bệnh" hoàn toàn có cơ sở sinh lý học vững chắc. Căng thẳng hoặc tức giận kéo dài (Nộ/Khủng) sẽ kích hoạt trục nội tiết HPA, liên tục bơm hormone stress (cortisol và adrenaline) vào máu (như đã học ở Chương 6). Tình trạng này kéo dài dẫn đến suy giảm miễn dịch, tăng huyết áp (hại Tim), suy yếu chức năng giải độc (hại Gan) và gây viêm loét dạ dày (hại Tỳ). Dù ngôn ngữ miêu tả khác nhau, cả y học cổ đại và khoa học hiện đại đều đi đến một kết luận: *cảm xúc cực đoan có thể thực sự phá hủy cơ thể vật lý của bạn.*
+
 == Ý thức — Bài toán khó nhất
 
 Làm thế nào từ các tế bào thần kinh và synapse lại xuất hiện trải nghiệm chủ quan — cảm giác "đỏ" khi nhìn hoa hồng, cảm giác đau khi bị kim châm? Triết gia David Chalmers gọi đây là "bài toán khó" (hard problem) của ý thức.
